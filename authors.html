@@ -34,8 +34,11 @@
   <nav role="navigation"><ul class="subscription" data-subscription="rss">
 </ul>
 
-<form class="search" action="https://deytalytics.github.io/deyblog/search.html">
-    <input type="text" class="search-query" placeholder="Search" name="q" id="s">
+<form action="https://www.google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:deytalytics.github.io/deyblog" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
 </form>
 
 <ul class="main-navigation">
