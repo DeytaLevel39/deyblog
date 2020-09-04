@@ -1,12 +1,34 @@
-<!DOCTYPE html>
-<html lang="en_US">
-<head>
-<meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Search Results</title>
-</head>
-  <body>
-<script async src="https://cse.google.com/cse.js?cx=5211ec11c226e8e1f"></script>
-<div class="gcse-search"></div>
-</body>
-</html>
+{% extends "base.html" %}
+
+{% block title %}
+  Search {{ super() }}
+{% endblock title %}
+
+{% block extra_head %}
+  <link rel="stylesheet" type="text/css" href="/static/css/tipuesearch.css">
+  <script src="/tipuesearch_content.js"></script>
+  <script src="/static/js/tipuesearch_set.js"></script>
+  <script src="/static/js/tipuesearch.min.js"></script>
+
+  <script>
+    $(document).ready(function() {
+      $('#tipue_search_input').tipuesearch({
+          'show': 10,               // shows 10 found entries
+          'descriptiveWords': 75,   // shows 75 words of teaser text
+          'newWindow': false,       // don't open a new window, when clicking a result
+      });
+    });
+  </script>
+{% endblock %}
+
+{% block content %}
+<h1>Search</h1>
+<form action="search.html">
+    <div class="tipue_search_group">
+        <input type="text" name="q" id="tipue_search_input">
+    </div>
+</form>
+<div>
+    <div id="tipue_search_content"></div>
+</div>
+{% endblock content %}
