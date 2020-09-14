@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://deytalytics.github.io/deyblog/</loc>
-<lastmod>2020-09-14T11:27:30-00:00</lastmod>
+<lastmod>2020-09-14T11:39:43-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -62,6 +62,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://deytalytics.github.io/deyblog/data-modelling.html</loc>
 <lastmod>2016-09-05T19:30:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://deytalytics.github.io/deyblog/info-hairball.html</loc>
+<lastmod>2016-07-07T19:30:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -277,6 +284,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://deytalytics.github.io/deyblog/tag/data-architecture.html</loc>
+<lastmod>2016-07-07T19:30:00-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://deytalytics.github.io/deyblog/tag/digital-transformation.html</loc>
 <lastmod>2016-06-08T19:30:00-00:01</lastmod>
 <changefreq>daily</changefreq>
@@ -293,13 +307,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://deytalytics.github.io/deyblog/tag/strategy.html</loc>
 <lastmod>2015-06-18T19:30:00-00:01</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://deytalytics.github.io/deyblog/tag/data-architecture.html</loc>
-<lastmod>2015-06-02T19:30:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
