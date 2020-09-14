@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://deytalytics.github.io/deyblog/</loc>
-<lastmod>2020-09-14T11:42:45-00:00</lastmod>
+<lastmod>2020-09-14T11:43:13-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -95,6 +95,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://deytalytics.github.io/deyblog/category/cloud-architecture.html</loc>
+<lastmod>2020-09-03T19:30:00-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://deytalytics.github.io/deyblog/category/data-architecture.html</loc>
 <lastmod>2016-11-30T19:30:00-00:01</lastmod>
 <changefreq>daily</changefreq>
@@ -110,7 +117,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://deytalytics.github.io/deyblog/category/solution-architecture.html</loc>
-<lastmod>2020-09-03T19:30:00-00:01</lastmod>
+<lastmod>2018-09-01T19:30:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -131,6 +138,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://deytalytics.github.io/deyblog/tag/cms.html</loc>
+<lastmod>2020-09-03T19:30:00-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://deytalytics.github.io/deyblog/tag/github-pages.html</loc>
 <lastmod>2020-09-03T19:30:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
