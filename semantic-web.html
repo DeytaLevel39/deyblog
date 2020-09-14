@@ -4,7 +4,7 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Fintech Alexa Skills Demo &mdash; Deytalytics Blog</title>
+  <title>What does the "Semantic Web" mean? &mdash; Deytalytics Blog</title>
   <meta name="author" content="James Dey">
   <meta name="google-site-verification" content="cU1FV6UY8WjlyEc_1AO8F7mD75hchAIDn0a-7Q4xxiM" />
 
@@ -42,13 +42,13 @@
 </form>
 
 <ul class="main-navigation">
-      <li >
+      <li class="active">
         <a href="https://deytalytics.github.io/deyblog/category/data-architecture.html">Data architecture</a>
       </li>
       <li >
         <a href="https://deytalytics.github.io/deyblog/category/enterprise-architecture.html">Enterprise architecture</a>
       </li>
-      <li class="active">
+      <li >
         <a href="https://deytalytics.github.io/deyblog/category/solution-architecture.html">Solution architecture</a>
       </li>
 </ul></nav>
@@ -57,12 +57,45 @@
 <div>
   <article class="hentry" role="article">
 <header>
-      <h1 class="entry-title">Fintech Alexa Skills Demo</h1>
+      <h1 class="entry-title">What does the "Semantic Web" mean?</h1>
     <p class="meta">
-<time datetime="2018-09-01T10:20:00+01:00" pubdate>Sat 01 September 2018</time>    </p>
+<time datetime="2016-10-27T10:20:00+01:00" pubdate>Thu 27 October 2016</time>    </p>
 </header>
 
-  <div class="entry-content"><p><a href="https://youtu.be/46aF9SoHTvk"><img alt="Watch the video" src="theme/images/alexa-skills-demo.png"></a></p></div>
+  <div class="entry-content"><p><img alt="Semantic Web image" src="images/semantic-web.jpg"></p>
+<h2>History of Web Development</h2>
+<p>The first web sites consisted of static web pages developed in HTML stored on the web server. This is now referred to as Web 1.0</p>
+<p><a href="http://en.wikipedia.org/wiki/Web_2.0">Web 2.0</a> is when dynamic content was added to web pages e.g. javascript, content was stored in content management systems rather than files, and web page functionality is controlled by services hosted on an application server. Web 2.0 incorporates video, adds social media buttons and allows a user to add their own content to a website e.g. by commenting on newspaper articles.</p>
+<p><a href="http://en.wikipedia.org/wiki/Semantic_Web">Web 3.0</a> (aka the "Semantic Web") will allow websites to not only source their data content from back end databases owned by the website owner but will be able to reach out for data content from external data providers.</p>
+<h2>Are Open API calls examples of the Semantic Web?</h2>
+<p>Not really. At the moment, a number of websites provide data via APIs. For example, a user can permit another website to access it's Facebook profile data, 
+and the website can then use the
+ <a href="http://developers.facebook.com/docs/graph-api">Facebook Graph API</a> 
+ to pull down the data. 
+ The data retrieved can be either in <a href="http://www.json.org/">JSON</a> or <a href="http://en.wikipedia.org/wiki/XML">XML</a> format, both of which formalise the structure of the data, but not the meaning of the data. In order to understand the meaning of the data fields that are returned, a human being has to read the accompanying information. In order for a website to be able to read the Facebook Graph API, the website coder has to read the documentation, extract and integrate the data. With the Semantic Web, a website can ask for data from another website and due to the level of detail provided in the returned data file, the website should be able to work out the meaning of the data and extract those elements of the data that are relevant for it's use. </p>
+<h2>What technologies are used in the Semantic Web?</h2>
+<p>The most common technologies are the Resource Description Framework (<a href="http://en.wikipedia.org/wiki/Resource_Description_Framework">RDF</a>) and the Web Ontology Language (<a href="http://en.wikipedia.org/wiki/Web_Ontology_Language">OWL</a>)</p>
+<h3>RDF</h3>
+<p>RDF is a method by which you can define data objects within a web environment and how they relate to other data objects. If you're familiar with data modelling, RDF can provide you with an entity (subject), another entity (object) and the relationship between them (predicate). So a department employs employees has department as the subject, employs as the predicate and employee as the object, if you were to use it to describe part of an entity relationship diagram. </p>
+<p>Since RDF is designed to describe relationships between data objects in a web rather 
+than database environment, it can reference distinct types of data objects, 
+however e.g. web properties, classes, literals etc. It's this more ability to more 
+precisely define different types of data objects, their properties, 
+the relationship between them and range values which allows RDF to provide sufficient 
+information that a machine can understand the data, rather than requiring human 
+intervention.</p>
+<p>In the same way that <a href="http://en.wikipedia.org/wiki/XML_schema">XML Schema</a> can be used to specify the exact structure of an 
+XML file which conforms to that schema, 
+<a href="http://en.wikipedia.org/wiki/RDF_Schema">RDF Schema</a> (RDFS) will describe the restricted set of subjects, predicates and objects 
+that an RDF file can use.</p>
+<h3>OWL</h3>
+<p>An Ontology is the way of defining the relationships between particular objects. For example. A bird is a type of animal. A turtle is a type of animal. A tortoise is similar to a turtle.</p>
+<p>In the example, bird and turtle are defined as being instances (types of) animal. That kind of hierarchical classification is also known as a taxonomy. An ontology additionally allows to provide the "similar to" relationship, so is a more powerful way of describing all of the relationships between objects.</p>
+<p>OWL uses RDF to define relationships between instances of data objects.</p>
+<h2>Challenges in developing a semantic web</h2>
+<p>The main challenge will be in developing a common understanding as to how to define data 
+objects which are universally accepted and dealing with multiple languages. It is hoped 
+that in a similar way to how message format standards e.g. <a href="http://en.wikipedia.org/wiki/ISO_9362">SWIFT</a> has developed for the banking industry, that definitions and classifications of data objects, their relationships and properties will emerge over time that will be relevant to small communities initially and then expand in scope.</p></div>
 <div id="disqus_thread"></div>
 <script>
 
@@ -71,8 +104,8 @@
 *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
 /*
 var disqus_config = function () {
-this.page.url = "https://deytalytics.github.io/deyblog/alexa-skills-video.html";  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = "alexa-skills-video; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+this.page.url = "https://deytalytics.github.io/deyblog/semantic-web.html";  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = "semantic-web; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
 };
 */
 (function() { // DON'T EDIT BELOW THIS LINE
@@ -91,11 +124,11 @@ s.setAttribute('data-timestamp', +new Date());
         Deytalytics Ltd
     </span>
   </span>
-<time datetime="2018-09-01T10:20:00+01:00" pubdate>Sat 01 September 2018</time>  <span class="categories">
-    <a class='category' href='https://deytalytics.github.io/deyblog/category/solution-architecture.html'>Solution Architecture</a>
+<time datetime="2016-10-27T10:20:00+01:00" pubdate>Thu 27 October 2016</time>  <span class="categories">
+    <a class='category' href='https://deytalytics.github.io/deyblog/category/data-architecture.html'>Data Architecture</a>
   </span>
   <span class="categories">
-    <a class="category" href="https://deytalytics.github.io/deyblog/tag/fintech.html">fintech</a>,    <a class="category" href="https://deytalytics.github.io/deyblog/tag/alexa.html">alexa</a>,    <a class="category" href="https://deytalytics.github.io/deyblog/tag/openbanking.html">openbanking</a>  </span>
+    <a class="category" href="https://deytalytics.github.io/deyblog/tag/semantic-web.html">semantic web</a>,    <a class="category" href="https://deytalytics.github.io/deyblog/tag/rdf.html">rdf</a>,    <a class="category" href="https://deytalytics.github.io/deyblog/tag/owl.html">owl</a>,    <a class="category" href="https://deytalytics.github.io/deyblog/tag/web-30.html">web 3.0</a>  </span>
 </p><div class="sharing">
 </div>    </footer>
   </article>

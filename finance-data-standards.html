@@ -4,7 +4,7 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Fintech Alexa Skills Demo &mdash; Deytalytics Blog</title>
+  <title>Common Finance Industry Data Standards &mdash; Deytalytics Blog</title>
   <meta name="author" content="James Dey">
   <meta name="google-site-verification" content="cU1FV6UY8WjlyEc_1AO8F7mD75hchAIDn0a-7Q4xxiM" />
 
@@ -42,13 +42,13 @@
 </form>
 
 <ul class="main-navigation">
-      <li >
+      <li class="active">
         <a href="https://deytalytics.github.io/deyblog/category/data-architecture.html">Data architecture</a>
       </li>
       <li >
         <a href="https://deytalytics.github.io/deyblog/category/enterprise-architecture.html">Enterprise architecture</a>
       </li>
-      <li class="active">
+      <li >
         <a href="https://deytalytics.github.io/deyblog/category/solution-architecture.html">Solution architecture</a>
       </li>
 </ul></nav>
@@ -57,12 +57,45 @@
 <div>
   <article class="hentry" role="article">
 <header>
-      <h1 class="entry-title">Fintech Alexa Skills Demo</h1>
+      <h1 class="entry-title">Common Finance Industry Data Standards</h1>
     <p class="meta">
-<time datetime="2018-09-01T10:20:00+01:00" pubdate>Sat 01 September 2018</time>    </p>
+<time datetime="2016-11-30T10:20:00+00:00" pubdate>Wed 30 November 2016</time>    </p>
 </header>
 
-  <div class="entry-content"><p><a href="https://youtu.be/46aF9SoHTvk"><img alt="Watch the video" src="theme/images/alexa-skills-demo.png"></a></p></div>
+  <div class="entry-content"><p><img alt="Common Finance Industry Data Standards" src="images/iso20022.jpg"></p>
+<h1>What types of data standards are there?</h1>
+<p>Data standards cover 3 main areas:-</p>
+<h2>A. Common finance industry messaging notations</h2>
+<p>Messaging notations impose meaning to special characters in a message file. For example, that a colon is a field seperator. Common messaging notations in use when data is passed between systems/services are:-</p>
+<ol>
+<li><a href="http://en.wikipedia.org/wiki/XML">XML</a> - A self describing format which is verbose (too many words/characters) as all fields need to be enclosed by <fieldname>value</fieldname>. This format allows you to maintain hierarchical relationships common in object modelling. XML is popular by non-web developers e.g. back end system developers.</li>
+<li><a href="http://www.json.org/">JSON</a> - A self describing format which is less verbose than XML. Popular with web developers due to it's notation being Javascript and very similar to Python (commonly used for writing web services). Similar to XML in that it maintains hierarchicial relationships.</li>
+<li><a href="http://en.wikipedia.org/wiki/Comma-separated_values">CSV</a> (or other field delimited formats) - CSV typically has a header row with the field descriptions comma-seperated, followed by rows containing comma seperated values. Often used to send tabular data, efficiently, between internal peer to peer systems.</li>
+<li><a href="http://www.ibm.com/support/knowledgecenter/SSULQD_7.2.0/com.ibm.nz.load.doc/c_load_build_fixed_length_format_def.html">Fixed Width Field</a> - Fields have a fixed width, making it very easy to parse (machine read) the content. It is inefficient in it's use of space, however.</li>
+</ol>
+<h2>B. Common finance Industry content data standards</h2>
+<p>These data standards impose restrictions on the content of data. For example, what data types a particular attribute/field need to use, the datatype format, cardinality (multiplicity), restricted sets of values, constraints etc. Note: There are a lot of content data standards which have support in domestic jurisdictions. The standards below have wider use.</p>
+<ol>
+<li><a href="http://www.iso20022.org/the_iso20022_standard.page">ISO20022</a> message components &amp; elements, business components &amp; elements, data types &amp; constraints. Messaging standard designed to cover all areas covered by the other standards.</li>
+<li><a href="http://docs.oracle.com/cd/E19509-01/820-7113/6nid5dl2r/index.html">SWIFT MT</a> - International payments messaging standard.</li>
+<li><a href="http://en.wikipedia.org/wiki/FpML">FPML</a> - Used for "over the counter" (i.e. bespoke) derivatives (swaps, options, futures etc.) messaging</li>
+<li><a href="http://en.wikipedia.org/wiki/XBRL">XBRL</a> - Used for financial statements</li>
+<li><a href="http://en.wikipedia.org/wiki/Financial_Information_eXchange">FIX</a> - Messaging standard covering pre-trade messages and trade execution orders.</li>
+</ol>
+<p>Also worth looking at are the following open standards:-</p>
+<ol>
+<li><a href="http://en.wikipedia.org/wiki/Resource_Description_Framework">RDF</a> - Defines data object attributes and the relationships between data objects.</li>
+<li><a href="http://en.wikipedia.org/wiki/JSON-LD">JSON-LD</a> - Allows the content of JSON files to be validated and linked to related semantic definitions.</li>
+<li><a href="http://en.wikipedia.org/wiki/XML_Schema_(W3C)">XSD</a> - Allows the content of an XML file to be validated.</li>
+</ol>
+<h2>C. Common finance industry semantic data standards</h2>
+<p>Semantic data standards impose strict definitions on the data. For example, an instrument, in everyday use, refers to something that a musician plays, but in the finance industry, an instrument can be defined as a contract between two parties which has a monetary value. Semantic data standards can be human readable e.g. a business glossary, or machine readable. The manner in which data definitions are classified in a subject hierarchy is called a taxonomy. If data definitions have related terms as well as a subject hierarchy, this is referred to as an ontology.</p>
+<ol>
+<li><a href="http://www.iso20022.org/standardsrepository/public/dictionaryModel/repositorySearch.xhtml">ISO20022 Repository</a> - Provides definitions for the business components &amp; elements, message components &amp; elements used in ISO20022 message definition reports and the underlying ISO20022 business model.</li>
+<li><a href="http://www.omg.org/spec/EDMC-FIBO/FND/1.0/PDF/index.htm">FIBO (Financial Industry Business Ontology) </a> - Attempt to create a complete business glossary for the finance industry. Still at an early stage, unfortunately.</li>
+<li><a href="http://www.xbrl.org/the-standard/what/taxonomies/">XBRL Taxonomy</a> - Provides classified definitions of financial reporting terms</li>
+</ol>
+<p>Also worth looking at is <a href="http://en.wikipedia.org/wiki/Web_Ontology_Language">OWL (Web Ontology Language)</a> - which is an open standard which allows data objects (defined as web resources (see URI)) existing across the web to be defined and classified. It's designed to make web-based data definitions machine rather than human readable.</p></div>
 <div id="disqus_thread"></div>
 <script>
 
@@ -71,8 +104,8 @@
 *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
 /*
 var disqus_config = function () {
-this.page.url = "https://deytalytics.github.io/deyblog/alexa-skills-video.html";  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = "alexa-skills-video; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+this.page.url = "https://deytalytics.github.io/deyblog/finance-data-standards.html";  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = "finance-data-standards; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
 };
 */
 (function() { // DON'T EDIT BELOW THIS LINE
@@ -91,11 +124,11 @@ s.setAttribute('data-timestamp', +new Date());
         Deytalytics Ltd
     </span>
   </span>
-<time datetime="2018-09-01T10:20:00+01:00" pubdate>Sat 01 September 2018</time>  <span class="categories">
-    <a class='category' href='https://deytalytics.github.io/deyblog/category/solution-architecture.html'>Solution Architecture</a>
+<time datetime="2016-11-30T10:20:00+00:00" pubdate>Wed 30 November 2016</time>  <span class="categories">
+    <a class='category' href='https://deytalytics.github.io/deyblog/category/data-architecture.html'>Data Architecture</a>
   </span>
   <span class="categories">
-    <a class="category" href="https://deytalytics.github.io/deyblog/tag/fintech.html">fintech</a>,    <a class="category" href="https://deytalytics.github.io/deyblog/tag/alexa.html">alexa</a>,    <a class="category" href="https://deytalytics.github.io/deyblog/tag/openbanking.html">openbanking</a>  </span>
+    <a class="category" href="https://deytalytics.github.io/deyblog/tag/data-standards.html">data standards</a>,    <a class="category" href="https://deytalytics.github.io/deyblog/tag/financial-services.html">financial services</a>  </span>
 </p><div class="sharing">
 </div>    </footer>
   </article>

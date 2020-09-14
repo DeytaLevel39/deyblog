@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Designing an API &mdash; Deytalytics Blog</title>
+  <meta name="author" content="James Dey">
+  <meta name="google-site-verification" content="cU1FV6UY8WjlyEc_1AO8F7mD75hchAIDn0a-7Q4xxiM" />
+
+
+
+
+
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+    <link href="https://deytalytics.github.io/deyblog/favicon.png" rel="icon">
+
+  <link href="https://deytalytics.github.io/deyblog/theme/css/main.css" media="screen, projection"
+        rel="stylesheet" type="text/css">
+
+  <link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic"
+        rel="stylesheet" type="text/css">
+  <link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic"
+        rel="stylesheet" type="text/css">
+</head>
+
+<body>
+  <header role="banner"><hgroup>
+  <h1><a href="https://deytalytics.github.io/deyblog/"><img src="https://deytalytics.github.io/deyblog/theme/images/deytalyticslogobig.png"></a></h1>
+</hgroup></header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+</ul>
+
+<form class="search" action="https://deytalytics.github.io/deyblog/search.html">
+    <input type="text" class="search-query" placeholder="Search" name="q" id="s">
+</form>
+
+<ul class="main-navigation">
+      <li class="active">
+        <a href="https://deytalytics.github.io/deyblog/category/data-architecture.html">Data architecture</a>
+      </li>
+      <li >
+        <a href="https://deytalytics.github.io/deyblog/category/enterprise-architecture.html">Enterprise architecture</a>
+      </li>
+      <li >
+        <a href="https://deytalytics.github.io/deyblog/category/solution-architecture.html">Solution architecture</a>
+      </li>
+</ul></nav>
+  <div id="main">
+    <div id="content">
+<div>
+  <article class="hentry" role="article">
+<header>
+      <h1 class="entry-title">Designing an API</h1>
+    <p class="meta">
+<time datetime="2016-11-24T10:20:00+00:00" pubdate>Thu 24 November 2016</time>    </p>
+</header>
+
+  <div class="entry-content"><p><img alt="Rest API" src="images/rest-api.jpg"></p>
+<h2>What is an API?</h2>
+<p>An API defines a controlled way in which you can interact with a service. It restricts the methods by which you can access a service, the parameters that can be passed, and the messages that can be sent to a service as a request, and the message that is returned as a response.</p>
+<h2>Why do we need APIs?</h2>
+<p>Service orientated architecture splits systems and applications in to a logical set of services. So, for example, in order to access your facebook page, you need to be able to logon. What happens behind the scenes is that the username and password is passed to an authentication service via a defined API. Similarly, when you view your posts, the facebook web page has called a post retrieval service via an API, in order to retrieve the posts that you've made from a back end data store. The advantages of logically splitting systems and applications in to services include:-</p>
+<ol>
+<li>
+<p>It's easier to understand how the system works</p>
+</li>
+<li>
+<p>It's easier to maintain the code, as you've split what would otherwise be a very large piece of code in to smaller parts</p>
+</li>
+<li>
+<p>You can have developers work independently on a particular service.</p>
+</li>
+<li>
+<p>You can re-write a particular service, or move the service to different hardware without affecting the system.</p>
+</li>
+<li>
+<p>You can apply appropriate levels of security to different services</p>
+</li>
+</ol>
+<p>An API is effectively a contract. In the same way that when you're dealing with a human interaction, there are rules that define what information you need to provide and what you expect as a response. For example, if you make a cash payment in a store for a basket of items, you:-</p>
+<ol>
+<li>
+<p>Hand over the shopping items.</p>
+</li>
+<li>
+<p>Hand over money for a particular value and currency</p>
+</li>
+<li>
+<p>And wait for a receipt or verbal acknowledgement that the transaction is complete.</p>
+</li>
+</ol>
+<p>In order for payment services to take an online payment, it has to emulate that same transaction, so it requires identification of the particular shopping basket and the value and currency to be paid as part of the order completion service. The payment request service will request the customer to make payment. The customer then has to enter information about his payment method (e.g. debit card or paypal) and the payment authorisation service will respond to state whether the card payment worked properly (after calling a service to authorise payment from the cardholder's bank). Since this set of services has to work as smoothly as possible, an API will restrict the methods, parameters and messages which can be passed to the service, and the valid responses and messages that can be returned.</p>
+<h2>What are the steps in designing an API?</h2>
+<ol>
+<li>
+<p>You will first need to understand the business service that you want to emulate. So in the example above, the business service is a shopping service.</p>
+</li>
+<li>
+<p>From there, you need to consider how to split that business service in to a logical set of technical services e.g. add_shopping_item, finalise_shopping_basket, take_payment.</p>
+</li>
+<li>
+<p>You will need a data architect to define the attributes associated to each object for which you wish to store information. For example, shopping item, shopping basket, payment method, payment card, currency, transaction date, payment instruction etc.</p>
+</li>
+<li>
+<p>The data architect will also need to define the relationships between these data objects so that information that relates to each other can be retrieved later. For example, the payment instruction involves a payment card (f card is the payment method), a currency, a transaction date and a payment method. The payment instruction also relates to the shopping basket. The shopping basket contains many shopping basket items.</p>
+</li>
+<li>
+<p>The data architect will also need to specify which attributes should have a restricted set of values. For example, there will only be restricted set of payment methods e.g. paypal, credit card, debit card and the list of currencies should be restricted to those defined by the International Standards Organisation (ISO).</p>
+</li>
+<li>
+<p>The security architect will need to be consulted to ensure that legally sensitive data is not passed over the network in an unencrypted form, or stored in it's raw form in a data store or backup file.</p>
+</li>
+<li>
+<p>The security architect will also need to approve the authentication method that is used to ensure that only authorised users can obtain access to certain data. For example, to gain access to your facebook posts, you first have to use the OAUTH authentication service to authenticate yourself via a username &amp; password. You are then given a unique access code which needs to be supplied in subsequent API calls in order to retrieve sensitive data. (You may have noticed that it is common nowadays to register for a web site using your social media login. Invariably, you are also asked as to whether you agree to share certain private data with the web site owner. Since you've authenticated and accepted that the website should be authorised, Facebook will update it's internal authorisation tables to allow the website access to the data that you agreed to share).</p>
+</li>
+<li>
+<p>The API designer will need to consider the methods by which information can be sent to the service and the parameters (fields and acceptable values) that need to be supplied.</p>
+</li>
+<li>
+<p>The API designer will need to also define the response messages and any status codes to help the calling application understand whether the service call was successful or not.</p>
+</li>
+<li>
+<p>The API will need to be documented in order that there's a clear understanding to 3rd party application developers as to how the technical services interact with each other in order to complete the business service, and the what the methods, parameters and messages are that need to be passed to and received from each technical service, and how to respond to status codes.</p>
+</li>
+</ol>
+<h2>What style should an API be written in?</h2>
+<p>The predominant style for writing modern web services is known as <a href="http://restcookbook.com/">REST</a>. It uses the http protocol methods (POST, PUT, DELETE &amp; GET) to interact with a technical service via it's API. The advantage of this is that most programming languages already support the http style and status codes, so it's easier to write technical services.</p>
+<p>The programmer can interact with any web-based service by identifying resources which are defined using the uniform resource identifier (URI). For example, this web page might have a URI of http://www.deytaltyics.com/designing-an-api.</p>
+<p>The application programmer can retrieve information from the service via the API using the GET method</p>
+<p>For example:-</p>
+<div class="highlight"><pre><span></span><span class="err">GET http://api.deytalytics.com/retrieve_shopping_basket?basket_id=100001</span>
+</pre></div>
+
+
+<p>would call the retrieve_shopping_basket service and request the contents of shopping basket 100001.</p>
+<p>Typically, the API designer will respond with a http status code which tells the calling application whether the service call succeeded, failed, timed out etc. plus a response message in <a href="http://json.org/">JSON</a> or <a href="http://xml.org/">XML</a> format.</p>
+<p>In a similar fashion data can be stored via a service API call using the POST method e.g.</p>
+<div class="highlight"><pre><span></span><span class="err">POST http://api.deytalytics.com/add_shopping_item?basket_id=100001 {item_id:1}</span>
+</pre></div>
+
+
+<p>might add a particular product to a shopping basket.</p>
+<h2>What is the best way of specifying a complete set of REST service APIs?</h2>
+<p>A popular way of specifying REST service APIs is to use the <a href="http://raml.org/">REST API Modelling Language (RAML)</a>. </p>
+<p>Using the modelling language has the benefits of:-</p>
+<ol>
+<li>
+<p>Ensuring that your design contains all of the necessary elements required for the API</p>
+</li>
+<li>
+<p>That the API can be tested</p>
+</li>
+<li>
+<p>The API is well documented </p>
+</li>
+<li>
+<p>The API can be published to API repositories for discovery by 3rd party providers.</p>
+</li>
+</ol></div>
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = "https://deytalytics.github.io/deyblog/rest-api.html";  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = "rest-api; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://deyblog.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+    <footer>
+<p class="meta">
+  <span class="byline author vcard">
+    Posted by <span class="fn">
+        Deytalytics Ltd
+    </span>
+  </span>
+<time datetime="2016-11-24T10:20:00+00:00" pubdate>Thu 24 November 2016</time>  <span class="categories">
+    <a class='category' href='https://deytalytics.github.io/deyblog/category/data-architecture.html'>Data Architecture</a>
+  </span>
+  <span class="categories">
+    <a class="category" href="https://deytalytics.github.io/deyblog/tag/data-integration.html">data integration</a>,    <a class="category" href="https://deytalytics.github.io/deyblog/tag/rest.html">REST</a>,    <a class="category" href="https://deytalytics.github.io/deyblog/tag/api.html">API</a>  </span>
+</p><div class="sharing">
+</div>    </footer>
+  </article>
+
+</div>
+<aside class="sidebar">
+  <section>
+    <h1>Recent Posts</h1>
+    <ul id="recent_posts">
+      <li class="post">
+          <a href="https://deytalytics.github.io/deyblog/pelican-website-info.html">Pelican Static Website Generator</a>
+      </li>
+      <li class="post">
+          <a href="https://deytalytics.github.io/deyblog/alexa-skills-video.html">Fintech Alexa Skills Demo</a>
+      </li>
+      <li class="post">
+          <a href="https://deytalytics.github.io/deyblog/finance-data-standards.html">Common Finance Industry Data Standards</a>
+      </li>
+      <li class="post">
+          <a href="https://deytalytics.github.io/deyblog/business-glossary.html">Creating a business glossary</a>
+      </li>
+      <li class="post">
+          <a href="https://deytalytics.github.io/deyblog/iso20022.html">Getting started with ISO20022</a>
+      </li>
+    </ul>
+  </section>
+  <section>
+      
+    <h1>Categories</h1>
+    <ul id="recent_posts">
+        <li><a href="https://deytalytics.github.io/deyblog/category/data-architecture.html">Data Architecture</a></li>
+        <li><a href="https://deytalytics.github.io/deyblog/category/enterprise-architecture.html">Enterprise Architecture</a></li>
+        <li><a href="https://deytalytics.github.io/deyblog/category/solution-architecture.html">Solution Architecture</a></li>
+    </ul>
+  </section>
+ 
+
+  <section>
+  <h1>Tags</h1>
+    <a href="https://deytalytics.github.io/deyblog/tag/website.html">website</a>,    <a href="https://deytalytics.github.io/deyblog/tag/python.html">python</a>,    <a href="https://deytalytics.github.io/deyblog/tag/cms.html">cms</a>,    <a href="https://deytalytics.github.io/deyblog/tag/fintech.html">fintech</a>,    <a href="https://deytalytics.github.io/deyblog/tag/alexa.html">alexa</a>,    <a href="https://deytalytics.github.io/deyblog/tag/openbanking.html">openbanking</a>,    <a href="https://deytalytics.github.io/deyblog/tag/data-standards.html">data standards</a>,    <a href="https://deytalytics.github.io/deyblog/tag/financial-services.html">financial services</a>,    <a href="https://deytalytics.github.io/deyblog/tag/business-glossary.html">business glossary</a>,    <a href="https://deytalytics.github.io/deyblog/tag/iso20022.html">iso20022</a>,    <a href="https://deytalytics.github.io/deyblog/tag/data-integration.html">data integration</a>,    <a href="https://deytalytics.github.io/deyblog/tag/rest.html">REST</a>,    <a href="https://deytalytics.github.io/deyblog/tag/api.html">API</a>,    <a href="https://deytalytics.github.io/deyblog/tag/semantic-web.html">semantic web</a>,    <a href="https://deytalytics.github.io/deyblog/tag/rdf.html">rdf</a>,    <a href="https://deytalytics.github.io/deyblog/tag/owl.html">owl</a>,    <a href="https://deytalytics.github.io/deyblog/tag/web-30.html">web 3.0</a>,    <a href="https://deytalytics.github.io/deyblog/tag/digital-transformation.html">digital transformation</a>,    <a href="https://deytalytics.github.io/deyblog/tag/digital-marketing.html">digital marketing</a>,    <a href="https://deytalytics.github.io/deyblog/tag/strategy.html">strategy</a>,    <a href="https://deytalytics.github.io/deyblog/tag/data-architecture.html">data architecture</a>  </section>
+
+
+    <section>
+        <h1>Social</h1>
+        <ul>
+            <li><a href="https://www.linkedin.com/company/deytalyticsltd" target="_blank">Linkedin</a></li>
+        </ul>
+    </section>
+    <section>
+        <h1>Blogroll</h1>
+        <ul>
+            <li><a href="http://www.deytalytics.com" target="_blank">Deytalytics.com</a></li>
+        </ul>
+    </section>
+
+</aside>    </div>
+  </div>
+ <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5f51ef315bda6dfd"></script>
+ <div class="addthis_inline_share_toolbox"></div>  <footer role="contentinfo"><p>
+    Copyright &copy;  2015&ndash;2020  James Dey &mdash;
+  <span class="credit">Powered by <a href="http://getpelican.com">Pelican</a></span>
+</p></footer>
+  <script src="https://deytalytics.github.io/deyblog/theme/js/modernizr-2.0.js"></script>
+  <script src="https://deytalytics.github.io/deyblog/theme/js/ender.js"></script>
+  <script src="https://deytalytics.github.io/deyblog/theme/js/octopress.js" type="text/javascript"></script>
+</body>
+</html>
