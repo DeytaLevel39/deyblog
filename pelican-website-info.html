@@ -125,7 +125,7 @@
 	<a href="https://deytalytics.github.io/deyblog/tag/cms.html"><i class="icon-tag"></i>cms</a>
 	<a href="https://deytalytics.github.io/deyblog/tag/github-pages.html"><i class="icon-tag"></i>github pages</a>
 </footer><!-- /.post-info -->                </div>
-                <p><img alt="&quot;Get Pelican&quot;" src="images/pelican.jpg"></p>
+                <p><img src="images/pelican.jpg" alt="pelican"/></p>
 <h1>Summary</h1>
 <p>There are a lot of online blogging websites out there, and if you don't mind a 3rd party hosting your website, being constrained to what the 3rd party provides, and having your content owned by a 3rd party, that's certainly the simplest way forward.</p>
 <p>Wordpress is still very much the easiest way of starting up your own website, but this article is describing a method of generating a static website for a relatively technical audience who want full control.</p>
@@ -170,7 +170,22 @@ As my current website is already written in Python, I looked for a static site g
 <li>Integrate the static site in with my existing dynamic website as an additional menu option</li>
 </ol>
                 </div><!-- /.entry-content -->
+                <div class="comments">
+                <h2>Comments !</h2>
+                        <div id="disqus_thread"></div>
+                        <script type="text/javascript">
+                           var disqus_identifier = "pelican-website-info.html";
+                           (function() {
+                                var dsq = document.createElement('script');
+                                dsq.type = 'text/javascript'; dsq.async = true;
+                                dsq.src = 'https://deyblog.disqus.com/embed.js';
+                                (document.getElementsByTagName('head')[0] ||
+                                 document.getElementsByTagName('body')[0]).appendChild(dsq);
+                          })();
+                        </script>
+                </div>
         </article>
+
 </section>
         </div><!--/span-->
 
@@ -224,6 +239,15 @@ As my current website is already written in Python, I looked for a static site g
     </div><!--/.fluid-container-->
 
 
+<script type="text/javascript">
+    var disqus_shortname = 'deyblog';
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
 
     <!-- Le javascript -->
     <!-- Placed at the end of the document so the pages load faster -->
