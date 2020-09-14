@@ -5,8 +5,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://deytalytics.github.io/deyblog/</loc>
-<lastmod>2020-09-14T11:43:13-00:00</lastmod>
+<lastmod>2020-09-14T14:15:52-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://deytalytics.github.io/deyblog/cloud-choices.html</loc>
+<lastmod>2020-09-14T19:30:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -96,7 +103,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://deytalytics.github.io/deyblog/category/cloud-architecture.html</loc>
-<lastmod>2020-09-03T19:30:00-00:01</lastmod>
+<lastmod>2020-09-14T19:30:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -123,6 +130,41 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://deytalytics.github.io/deyblog/tag/cloud.html</loc>
+<lastmod>2020-09-14T19:30:00-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://deytalytics.github.io/deyblog/tag/github-pages.html</loc>
+<lastmod>2020-09-14T19:30:00-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://deytalytics.github.io/deyblog/tag/aws.html</loc>
+<lastmod>2020-09-14T19:30:00-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://deytalytics.github.io/deyblog/tag/azure.html</loc>
+<lastmod>2020-09-14T19:30:00-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://deytalytics.github.io/deyblog/tag/gcp.html</loc>
+<lastmod>2020-09-14T19:30:00-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://deytalytics.github.io/deyblog/tag/website.html</loc>
 <lastmod>2020-09-03T19:30:00-00:01</lastmod>
 <changefreq>daily</changefreq>
@@ -138,13 +180,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://deytalytics.github.io/deyblog/tag/cms.html</loc>
-<lastmod>2020-09-03T19:30:00-00:01</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://deytalytics.github.io/deyblog/tag/github-pages.html</loc>
 <lastmod>2020-09-03T19:30:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -327,7 +362,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://deytalytics.github.io/deyblog/author/deytalytics-ltd.html</loc>
-<lastmod>2020-09-03T19:30:00-00:01</lastmod>
+<lastmod>2020-09-14T19:30:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

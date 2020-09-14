@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Choosing your cloud platform &mdash; Deytalytics Blog</title>
+  <meta name="author" content="James Dey">
+  <meta name="google-site-verification" content="cU1FV6UY8WjlyEc_1AO8F7mD75hchAIDn0a-7Q4xxiM" />
+
+
+
+
+
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+    <link href="https://deytalytics.github.io/deyblog/favicon.png" rel="icon">
+
+  <link href="https://deytalytics.github.io/deyblog/theme/css/main.css" media="screen, projection"
+        rel="stylesheet" type="text/css">
+
+  <link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic"
+        rel="stylesheet" type="text/css">
+  <link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic"
+        rel="stylesheet" type="text/css">
+</head>
+
+<body>
+  <header role="banner"><hgroup>
+  <h1><a href="https://deytalytics.github.io/deyblog/"><img src="https://deytalytics.github.io/deyblog/theme/images/deytalyticslogobig.png"></a></h1>
+</hgroup></header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+</ul>
+
+<form class="search" action="https://deytalytics.github.io/deyblog/search.html">
+    <input type="text" class="search-query" placeholder="Search" name="q" id="s">
+</form>
+
+<ul class="main-navigation">
+      <li class="active">
+        <a href="https://deytalytics.github.io/deyblog/category/cloud-architecture.html">Cloud architecture</a>
+      </li>
+      <li >
+        <a href="https://deytalytics.github.io/deyblog/category/data-architecture.html">Data architecture</a>
+      </li>
+      <li >
+        <a href="https://deytalytics.github.io/deyblog/category/enterprise-architecture.html">Enterprise architecture</a>
+      </li>
+      <li >
+        <a href="https://deytalytics.github.io/deyblog/category/solution-architecture.html">Solution architecture</a>
+      </li>
+</ul></nav>
+  <div id="main">
+    <div id="content">
+<div>
+  <article class="hentry" role="article">
+<header>
+      <h1 class="entry-title">Choosing your cloud platform</h1>
+    <p class="meta">
+<time datetime="2020-09-14T10:20:00+01:00" pubdate>Mon 14 September 2020</time>    </p>
+</header>
+
+  <div class="entry-content"><p>I cover all of the aspects, at a high level, that you need to consider when developing, finding a cloud provider, getting a web domain and securing your website,
+ordered by the main cloud providers in terms of technical complexity required to get started.</p>
+<h1>First some website development basics</h1>
+<h1>Creating web content</h1>
+<p>Web content tends to be a mixture of:-</p>
+<ul>
+<li>
+<p><a href="https://www.w3schools.com/html/">Hypertext Markup Language (HTML)</a> - Current version of this is known as HTML5. This is where you write the bulk of your content.</p>
+</li>
+<li>
+<p><a href="https://www.w3schools.com/css/default.asp">Cascading Style Sheets (CSS)</a> - This provides the styling e.g. you can define the colour &amp; fontsize that you want for a heading seperately from that which you want for the body. CSS files are usually stored seperately from the HTML web page files and referenced by them. CSS is really where you'll need to employ somebody with an artistic flair, if you want your website to look cool. Like HTML, CSS comes in versions, with the latest one being CSS3</p>
+</li>
+<li>
+<p><a href="https://www.w3schools.com/js/default.asp">Javascript</a> - This allows code to be called from the web page, typically as the result of an event or action e.g. if you don't fill in the correct content in a field, you call javascript code to inform the use that the field needs to be completed.
+Javascript code can be found easily by googling and there are plenty of examples as to how to incorporate javascript in to your webpage to do a variety of actions. </p>
+</li>
+</ul>
+<h2>Static website</h2>
+<p>Most people start by creating a website which just has information on it. As the content remains the same as when you first publish the website, this is known as a static website. Even webpages that incorporate javascript code are still called static websites.
+To create nice looking websites, typical choices are:-
+1. <a href="https://wordpress.com">Wordpress.com</a>
+2. <a href="https://wix.com">Wix.com</a></p>
+<h2>Software as a Service (SaaS)</h2>
+<p>Rather than building everything yourself from scratch, it's much easier to integrate with SaaS providers e.g. you might want to integrate with a payments gateway e.g. Paypal to provide a checkout service for your website, or Disqus to add comments to your blog</p>
+<h2>Dynamic websites</h2>
+<p>Dynamic websites differ in that they rely on server-side code (Common ones are PHP, Node.JS &amp; Python) to generate webpages on the fly. This means that dependent on what the user chooses or their settings, different webpages can be returned </p>
+<h2>Web Hosting</h2>
+<p>In order for anybody to be able to access your website, you'll need to have it hosted by a cloud provider. This means that your website html5, css, javascript (and server-side code, if relevant) needs to be uploaded to a cloud web hosting provider.</p>
+<h2>Web Domains</h2>
+<p>When you first develop your site, you'll typically be given a technical looking url e.g. <a href="https://deytalytics.github.io/deyblog">https://deytalytics.github.io/deyblog</a> provided by the cloud provider
+In order to get a nice looking url that's more relevant to your business e.g. <a href="https://www.deytalytics.com">https://www.deytalytics.com</a>, you will need to seperately purchase a web domain.
+Web domains are typically rented on a yearly basis and can cost very little. I think I pay £10/year for the deytalytics.com domain.</p>
+<h2>Website Security</h2>
+<p>If you're just creating a website for your own needs, then website security isn't top of your mind, but nowadays, if you do anything much more sophisticated, you can find yourself in a legal minefield if you're not careful.
+For example, if you wish to store a database of people who've shown an interest in your product, you need to ensure that no hacker can steal this personal info. 
+For these reasons, you'll eventually need to set up website security which will ensure that only the people that you want to can do things like change the website content or access a backend database. In addition to this as your needs progress, you'll want to add in logging functionality to audit anybody whose trying to access your website and prevent denial of service (DDOS) or code injection attacks</p>
+<h1>Website provider choices</h1>
+<h2>Common Options for Individuals &amp; Small Businesses</h2>
+<p>Although an individual or small business may choose to use any cloud provider due to having smaller budgets than larger businesses, the options below are the typical choices made.</p>
+<h3><a href="https://wordpress.com">Wordpress.com</a></h3>
+<p>Wordpress is pretty much the go-to site for anybody who wants to produce a static website with a rich set of functionality provided e.g. styling/themes and plugins 
+which allow you to integrate with a vast range of other tools. Wordpress.com is the version of Wordpress where they'll host your site for you.
+Wordpress.com allows you to develop your website on their website.</p>
+<p>Pros: 
+1. Simple to get started, deploy a site and get a web domain.
+2. There are a vast array of plugins on offer that allow integration with most well known SaaS providers</p>
+<p>Cons: 
+1. Can be difficult to differentiate your website from 100s of others, as most people don't do much to change the theme.
+2. Wordpress.com control everything about your website. If their business fails, potentially you could lose your website. 
+3. As your needs become more sophisticated e.g. you might want improved security or more control over who can access the site, Wordpress becomes more limiting, and you'll need to migrate to another provider.</p>
+<h3><a href="https://wordpress.org/">Wordpress.org</a></h3>
+<p>Wordpress.org allows you to download the code that is used to build your website and develop your website locally. You'll then have a choice as to which web domain &amp; cloud provider you wish to use. </p>
+<p>Pros: 
+1. Gives you all of the functionality of wordpress.com but you own your own website material and can choose your own web host &amp; domain
+2. You aren't sharing your website with 100s of 1000s of other people's websites so the performance can be better
+3. As you can pick &amp; choose your web host &amp; web domain provider, you may be able to save money</p>
+<p>Cons:</p>
+<ol>
+<li>Requires more technical expertise than Wordpress.com</li>
+<li>Although you have more control over how you can adapt your website, you're still dependent on Wordpress for any plugins you might use. </li>
+</ol>
+<h3><a href="https://uk.godaddy.com/">GoDaddy</a></h3>
+<p>GoDaddy started off by being best known for selling web domains. They do provide a web hosting platform as well, however. </p>
+<p>Pros:
+1. It's less expensive than going for a more fully functioned cloud provider</p>
+<p>Cons:
+1. It's very limited on being able to integrate with other software providers that are not hosted by GoDaddy e.g. if you wanted Tableau to produce reports against your GoDaddy website, GoDaddy doesn't support Tableau and you need to open up ports, risking your security, in order to allow the integration.
+2. If you're producing a dynamic website, you're pretty much limited to PHP which is considered an outdated web language nowadays</p>
+<h3><a href="https://pages.github.com/">Github pages</a></h3>
+<p>Github is best known as the place to store your code/website material. 
+Less well known is that they provide the ability to host a static website for free. </p>
+<p>Pros:</p>
+<ol>
+<li>It's free</li>
+<li>As you should be stored your website code/material somewhere, GitHub is 1 of the best places, so it's not a huge learning curve to setup GitHub pages</li>
+</ol>
+<p>Cons: 
+1. You're limited to a static website. 
+2. There's no assistance in creating your own website, so you'll have to be fairly technical to use this option.</p>
+<h3><a href="https://www.heroku.com/">Heroku</a></h3>
+<p>Heroku is another developer friendly method of deploying code. 
+The Pros &amp; Cons are pretty much identical to Github pages, but an advantage of Heroku is that you can also deploy a dynamic website that uses PHP, Node.JS or Python.
+Heroku doesn't provide a https url on the free tier, but you can stick cloudflare.com </p>
+<h2>Big Boy Cloud Providers</h2>
+<p>For larger businesses, these are the 3 main cloud providers as of 2020 (Note: There are others like IBM, Oracle &amp; Redhat Openshift but they're not popular)
+The main cloud providers really provide the following functionality that makes them different:-</p>
+<ol>
+<li>Seperation of the 3 tiers of website development (Presentation, Business Logic, Database)</li>
+<li>Fine grained control of cloud security</li>
+<li>Sophisticated logging tools</li>
+<li>Ability to deploy dynamic websites using a variety of development languages</li>
+<li>Containerisation of website applications - This is very useful to provide a reliable deployment for complex websites</li>
+<li>Ability to be able to deploy an application from a local environment to the cloud using an API</li>
+<li>Able to deploy your website application in different geographies</li>
+<li>Able to control the scaling of the deployment environment to adjust for a cost vs performance budget model</li>
+<li>Budget reports so you know how much you're being charged for each service.</li>
+</ol>
+<h3><a href="https://cloud.google.com/">Google Cloud Platform (GCP)</a></h3>
+<p>Google are obviously known for producing a range of funky web tools as well as their ubiquitous search engine. 
+Google were relatively late to the party for enterprise scale cloud provision but produce a decent enough platform</p>
+<p>Pros: 
+1. They do provide the functionality mentioned above
+2. As well as the common functionality, Google can provide services such as a custom search of your website, integration with Google Maps and a Google Home Skills kit
+Cons:
+1. Google's products are less well known by end users than Microsoft's and are much less extensive than what AWS offers.</p>
+<h3><a href="https://azure.microsoft.com/">Microsoft Azure</a></h3>
+<p>Pros: 
+1. Microsoft have the leading database in the non-cloud world - SQL*Server. As it can be difficult to migrate from existing databases to new databases, 
+Azure is often the choice made for this reason. </p>
+<ol>
+<li>Azure integrates well with Office360 products</li>
+</ol>
+<p>Cons: 
+1. Some Azure products can be pretty ropey e.g. Azure Data Factory V1 was little better than a job scheduler and didn't provide the data integration that enterprise level businesses require. </p>
+<h3><a href="https://aws.amazon.com/">Amazon Web Services (AWS)</a></h3>
+<p>Amazon were the first to create an enterprise cloud platform and are still the cloud platform that very technical developers enjoy using the most. </p>
+<p>Pros:
+1. AWS is the most technically sophisticated of the 3 cloud providers providing services that cover pretty much anything you'd want to do technically.
+2. As well as AWS, Amazon provide the Alexa Skills kit</p>
+<p>Cons:
+1. Technical sophistication comes with the need for more technically expert staff to be involved.</p></div>
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = "https://deytalytics.github.io/deyblog/cloud-choices.html";  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = "cloud-choices; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://deyblog.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+    <footer>
+<p class="meta">
+  <span class="byline author vcard">
+    Posted by <span class="fn">
+        Deytalytics Ltd
+    </span>
+  </span>
+<time datetime="2020-09-14T10:20:00+01:00" pubdate>Mon 14 September 2020</time>  <span class="categories">
+    <a class='category' href='https://deytalytics.github.io/deyblog/category/cloud-architecture.html'>Cloud Architecture</a>
+  </span>
+  <span class="categories">
+    <a class="category" href="https://deytalytics.github.io/deyblog/tag/cloud.html">cloud</a>,    <a class="category" href="https://deytalytics.github.io/deyblog/tag/github-pages.html">github pages</a>,    <a class="category" href="https://deytalytics.github.io/deyblog/tag/aws.html">aws</a>,    <a class="category" href="https://deytalytics.github.io/deyblog/tag/azure.html">azure</a>,    <a class="category" href="https://deytalytics.github.io/deyblog/tag/gcp.html">gcp</a>  </span>
+</p><div class="sharing">
+</div>    </footer>
+  </article>
+
+</div>
+<aside class="sidebar">
+  <section>
+    <h1>Recent Posts</h1>
+    <ul id="recent_posts">
+      <li class="post">
+          <a href="https://deytalytics.github.io/deyblog/cloud-choices.html">Choosing your cloud platform</a>
+      </li>
+      <li class="post">
+          <a href="https://deytalytics.github.io/deyblog/pelican-website-info.html">Pelican Static Website Generator</a>
+      </li>
+      <li class="post">
+          <a href="https://deytalytics.github.io/deyblog/alexa-skills-video.html">Fintech Alexa Skills Demo</a>
+      </li>
+      <li class="post">
+          <a href="https://deytalytics.github.io/deyblog/finance-data-standards.html">Common Finance Industry Data Standards</a>
+      </li>
+      <li class="post">
+          <a href="https://deytalytics.github.io/deyblog/business-glossary.html">Creating a business glossary</a>
+      </li>
+    </ul>
+  </section>
+  <section>
+      
+    <h1>Categories</h1>
+    <ul id="recent_posts">
+        <li><a href="https://deytalytics.github.io/deyblog/category/cloud-architecture.html">Cloud Architecture</a></li>
+        <li><a href="https://deytalytics.github.io/deyblog/category/data-architecture.html">Data Architecture</a></li>
+        <li><a href="https://deytalytics.github.io/deyblog/category/enterprise-architecture.html">Enterprise Architecture</a></li>
+        <li><a href="https://deytalytics.github.io/deyblog/category/solution-architecture.html">Solution Architecture</a></li>
+    </ul>
+  </section>
+ 
+
+  <section>
+  <h1>Tags</h1>
+    <a href="https://deytalytics.github.io/deyblog/tag/cloud.html">cloud</a>,    <a href="https://deytalytics.github.io/deyblog/tag/github-pages.html">github pages</a>,    <a href="https://deytalytics.github.io/deyblog/tag/aws.html">aws</a>,    <a href="https://deytalytics.github.io/deyblog/tag/azure.html">azure</a>,    <a href="https://deytalytics.github.io/deyblog/tag/gcp.html">gcp</a>,    <a href="https://deytalytics.github.io/deyblog/tag/website.html">website</a>,    <a href="https://deytalytics.github.io/deyblog/tag/python.html">python</a>,    <a href="https://deytalytics.github.io/deyblog/tag/cms.html">cms</a>,    <a href="https://deytalytics.github.io/deyblog/tag/fintech.html">fintech</a>,    <a href="https://deytalytics.github.io/deyblog/tag/alexa.html">alexa</a>,    <a href="https://deytalytics.github.io/deyblog/tag/openbanking.html">openbanking</a>,    <a href="https://deytalytics.github.io/deyblog/tag/data-standards.html">data standards</a>,    <a href="https://deytalytics.github.io/deyblog/tag/financial-services.html">financial services</a>,    <a href="https://deytalytics.github.io/deyblog/tag/business-glossary.html">business glossary</a>,    <a href="https://deytalytics.github.io/deyblog/tag/iso20022.html">iso20022</a>,    <a href="https://deytalytics.github.io/deyblog/tag/data-integration.html">data integration</a>,    <a href="https://deytalytics.github.io/deyblog/tag/rest.html">REST</a>,    <a href="https://deytalytics.github.io/deyblog/tag/api.html">API</a>,    <a href="https://deytalytics.github.io/deyblog/tag/semantic-web.html">semantic web</a>,    <a href="https://deytalytics.github.io/deyblog/tag/rdf.html">rdf</a>,    <a href="https://deytalytics.github.io/deyblog/tag/owl.html">owl</a>,    <a href="https://deytalytics.github.io/deyblog/tag/web-30.html">web 3.0</a>,    <a href="https://deytalytics.github.io/deyblog/tag/data-modelling.html">data modelling</a>,    <a href="https://deytalytics.github.io/deyblog/tag/data-vault.html">data vault</a>,    <a href="https://deytalytics.github.io/deyblog/tag/erwin.html">erwin</a>,    <a href="https://deytalytics.github.io/deyblog/tag/powerdesigner.html">powerdesigner</a>,    <a href="https://deytalytics.github.io/deyblog/tag/uml.html">uml</a>,    <a href="https://deytalytics.github.io/deyblog/tag/relational.html">relational</a>,    <a href="https://deytalytics.github.io/deyblog/tag/e-r.html">e-r</a>,    <a href="https://deytalytics.github.io/deyblog/tag/data-architecture.html">data architecture</a>,    <a href="https://deytalytics.github.io/deyblog/tag/digital-transformation.html">digital transformation</a>,    <a href="https://deytalytics.github.io/deyblog/tag/digital-marketing.html">digital marketing</a>,    <a href="https://deytalytics.github.io/deyblog/tag/strategy.html">strategy</a>  </section>
+
+
+    <section>
+        <h1>Social</h1>
+        <ul>
+            <li><a href="https://www.linkedin.com/company/deytalyticsltd" target="_blank">Linkedin</a></li>
+        </ul>
+    </section>
+    <section>
+        <h1>Blogroll</h1>
+        <ul>
+            <li><a href="http://www.deytalytics.com" target="_blank">Deytalytics.com</a></li>
+        </ul>
+    </section>
+
+</aside>    </div>
+  </div>
+ <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5f51ef315bda6dfd"></script>
+ <div class="addthis_inline_share_toolbox"></div>  <footer role="contentinfo"><p>
+    Copyright &copy;  2015&ndash;2020  James Dey &mdash;
+  <span class="credit">Powered by <a href="http://getpelican.com">Pelican</a></span>
+</p></footer>
+  <script src="https://deytalytics.github.io/deyblog/theme/js/modernizr-2.0.js"></script>
+  <script src="https://deytalytics.github.io/deyblog/theme/js/ender.js"></script>
+  <script src="https://deytalytics.github.io/deyblog/theme/js/octopress.js" type="text/javascript"></script>
+</body>
+</html>
