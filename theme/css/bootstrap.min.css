@@ -19,10 +19,10 @@ textarea{overflow:auto;vertical-align:top;}
 .clearfix:after{clear:both;}
 .hide-text{overflow:hidden;text-indent:100%;white-space:nowrap;}
 .input-block-level{display:block;width:100%;min-height:28px;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;box-sizing:border-box;}
-body{height:100%;margin:0;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:13px;line-height:18px;color:#333333;background-color:#ffffff;}
+body{height:auto;margin-left: 0px; margin-right:auto; margin-bottom:auto; font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:13px;line-height:18px;color:#333333;background-color:#ffffff;}
 a{color:#0088cc;text-decoration:none;}
 a:hover{color:#005580;text-decoration:underline;}
-.row{background-color:white;}.row:before,.row:after{display:table;content:"";}
+.row{background-color:white}.row:before,.row:after{display:table;content:"";}
 .row:after{clear:both;}
 [class*="span"]{float:left;margin-left:20px;}
 .container,.navbar-fixed-top .container,.navbar-fixed-bottom .container{width:940px;}
@@ -68,7 +68,7 @@ a:hover{color:#005580;text-decoration:underline;}
 .row-fluid > .span1{width:6.382978723%;}
 .container{margin-left:auto;margin-right:auto;*zoom:1;}.container:before,.container:after{display:table;content:"";}
 .container:after{clear:both;}
-.container-fluid{background-color:#0c1e5a;*zoom:1;}.container-fluid:before,.container-fluid:after{display:table; content:"";}
+.container-fluid{background-color:#0c1e5a;margin-left:10px}.container-fluid:before,.container-fluid:after{display:table; content:"";}
 .container-fluid:after{clear:both;color:#222222}
 p{margin:0 0 9px;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:13px;line-height:18px;}p small{font-size:11px;color:#999999;}
 .lead{margin-bottom:18px;font-size:20px;font-weight:200;line-height:27px;}
@@ -687,3 +687,4 @@ a.thumbnail:hover{border-color:#0088cc;-webkit-box-shadow:0 1px 4px rgba(0, 105,
 .hide{display:none;}
 .show{display:block;}
 .invisible{visibility:hidden;}
+.footer{margin:10px}
