@@ -7,7 +7,7 @@ Slug: business-glossary
 Authors: Deytalytics Ltd
 Summary:This post describes:- When and why you need a business glossary, the features that you should look for when evaluating your choice of a business glossary tool & the most popular business glossary tools currently on the market. It's aimed at solution architects working on information related systems
 
-Article first published at [www.deytalytics.com](http://www.deytalytics.com)
+![Business Glossary image](images/business-glossary.jpg)
 
 #Why do you need a business glossary?
 Most companies tend to buy systems that meet particular needs of a particular business function e.g. sales, marketing, hr, finance etc. Users of these systems then start to learn the terminology which is peculiar to that particular system. Problems arise when there is a need to report on data stored across multiple systems. In this situation, there may be many systems from which you wish to pull information from, each of which have their own dialect.
@@ -58,8 +58,8 @@ As with reporting, Microsoft Excel remains the most popular choice for business 
 
 Business Glossary tools which have more of the necessary features (thereby reducing development costs) include:-
 
-* Collibra Business Systems Glossary
-* Adaptive Business Glossary Manager
-* Kalido Business Information Modeler
-* Infosphere Business Glossary
-* Informatica Metadata Manager & Business Glossary
+* [Collibra Business Systems Glossary](https://www.collibra.com/download/building-managing-and-sharing-a-business-glossary)
+* [Adaptive Business Glossary Manager](http://www.adaptive.com/products/adaptive-business-glossary-manager/)
+* [Kalido Business Information Modeler](https://magnitude.com/mdm/products/business-information-modeling/)
+* [Infosphere Business Glossary](https://www.ibm.com/support/knowledgecenter/es/SSZJPZ_9.1.0/com.ibm.swg.im.iis.productization.iisinfsv.overview.doc/topics/c_bg_and_bga.html)
+* [Informatica Axon Data Governance](https://www.informatica.com/gb/products/data-quality/axon-data-governance.html)

@@ -3,7 +3,7 @@
 
 AUTHOR = 'James Dey'
 SITENAME = 'Deytalytics Blog'
-SITEURL = 'http://127.0.0.1:8000/'
+SITEURL = 'https://deytalytics.github.io/deyblog/'
 
 PATH = 'content'
 
@@ -36,5 +36,4 @@ SEARCH_BOX = True
 DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'search'))
 
 DISQUS_SITENAME="deyblog"
-
 
