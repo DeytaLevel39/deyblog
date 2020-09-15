@@ -2,7 +2,8 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = 'James Dey'
-SITENAME = 'Deytalytics Blog'
+SITENAME = 'Deytalytics'
+SITESUBTITLE='Blog'
 SITEURL = 'https://deytalytics.github.io/deyblog/'
 
 PATH = 'content'
@@ -33,7 +34,9 @@ THEME='bootstrap2'
 
 SEARCH_BOX = True
 
-DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'search'))
+DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'search','blog'))
 
 DISQUS_SITENAME="deyblog"
+
+MAINMENUITEMS=(('Articles','blog.html'),('Download Brochure','https://onedrive.live.com/view.aspx?resid=8541F6645D6AA323!21854&ithint=file%2cpptx&authkey=!AKyiGu7IGeJy2Bc'),('Development Projects','https://www.deytalytics.com/development_projects'))
 
