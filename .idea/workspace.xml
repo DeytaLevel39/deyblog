@@ -2140,7 +2140,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/pelican-themes" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -2164,17 +2164,17 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\JamesDey\PycharmProjects\pelican\pelican-themes\bootstrap2\templates" />
-      <recent name="C:\Users\JamesDey\PycharmProjects\pelican\output\images" />
-      <recent name="C:\Users\JamesDey\PycharmProjects\pelican\content" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\JamesDey\PycharmProjects\pelican\output" />
       <recent name="C:\Users\JamesDey\PycharmProjects\pelican\content" />
       <recent name="C:\Users\JamesDey\PycharmProjects\pelican" />
       <recent name="C:\Users\JamesDey\PycharmProjects\pelican\pelican-themes\deyblog\templates" />
       <recent name="C:\Users\JamesDey\PycharmProjects\pelican\output\theme" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\JamesDey\PycharmProjects\pelican\pelican-themes\bootstrap2\templates" />
+      <recent name="C:\Users\JamesDey\PycharmProjects\pelican\output\images" />
+      <recent name="C:\Users\JamesDey\PycharmProjects\pelican\content" />
     </key>
   </component>
   <component name="RunManager">

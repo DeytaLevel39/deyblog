@@ -34,7 +34,7 @@ THEME='bootstrap2'
 
 SEARCH_BOX = True
 
-DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'search','blog'))
+DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'search','blog','dev_projects'))
 
 DISQUS_SITENAME="deyblog"
 
