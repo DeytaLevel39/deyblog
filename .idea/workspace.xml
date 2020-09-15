@@ -2140,7 +2140,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/pelican-themes" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -2164,17 +2164,17 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\JamesDey\PycharmProjects\pelican\pelican-themes\bootstrap2\templates" />
+      <recent name="C:\Users\JamesDey\PycharmProjects\pelican\output\images" />
+      <recent name="C:\Users\JamesDey\PycharmProjects\pelican\content" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\JamesDey\PycharmProjects\pelican\output" />
       <recent name="C:\Users\JamesDey\PycharmProjects\pelican\content" />
       <recent name="C:\Users\JamesDey\PycharmProjects\pelican" />
       <recent name="C:\Users\JamesDey\PycharmProjects\pelican\pelican-themes\deyblog\templates" />
       <recent name="C:\Users\JamesDey\PycharmProjects\pelican\output\theme" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\JamesDey\PycharmProjects\pelican\pelican-themes\bootstrap2\templates" />
-      <recent name="C:\Users\JamesDey\PycharmProjects\pelican\output\images" />
-      <recent name="C:\Users\JamesDey\PycharmProjects\pelican\content" />
     </key>
   </component>
   <component name="RunManager">
@@ -2253,10 +2253,10 @@
     </state>
     <state x="279" y="76" key="SettingsEditor/0.0.1536.864/3840.0.1920.1080@0.0.1536.864" timestamp="1600093264412" />
     <state x="279" y="76" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1598995622063" />
-    <state x="467" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1600154347631">
+    <state x="467" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1600191493096">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="467" y="257" key="com.intellij.ide.util.TipDialog/0.0.1536.864/3840.0.1920.1080@0.0.1536.864" timestamp="1600154347631" />
+    <state x="467" y="257" key="com.intellij.ide.util.TipDialog/0.0.1536.864/3840.0.1920.1080@0.0.1536.864" timestamp="1600191493096" />
     <state x="467" y="257" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1600144720648" />
     <state x="462" y="30" width="613" height="804" key="find.popup" timestamp="1599257901025">
       <screen x="0" y="0" width="1536" height="864" />
