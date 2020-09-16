@@ -1,0 +1,80 @@
+{% extends "site_base.html" %}
+{% block content_title %}{% endblock %}
+<div class="card-background">
+     <style>
+        /* override Bootstrap's container */
+        .container-fluid {
+            padding-right:10;
+            padding-left:10;
+            margin-right:auto;
+            margin-left:auto
+         }
+    </style>
+{% block content %}
+
+
+WELCOME TO DEYTALYTICS
+<p>
+<div class="row mx-auto"">
+  <div class="card-deck"">
+      <div class="card bg-primary text-white"">
+        <div class="card-body">
+          <h5 class="card-title">About</h5>
+            <p class="card-text">
+              Deytalytics is a London based company which will partner with your organisation in order to assist you with all aspects of information management
+            </p>
+        </div>
+    </div>
+<div class="card bg-info text-white">
+        <div class="card-body">
+          <h5 class="card-title">Services</h5>
+          <p class="card-text">
+
+
+          <ul><li>Strategy & Roadmap</li>
+
+          <li>Solution Architecture</li>
+
+          <li>Data Governance</li>
+
+          <li>Data Security</li>
+
+          <li>Data Quality</li>
+
+          <li>Master Data Management</li>
+
+          <li>Data Modelling</li>
+
+          <li>Data Integration</li>
+
+          <li>Dashboards & Reports</li>
+
+          <li>Business Glossary & Subject Classification</li>
+
+          <li>REST API</li>
+
+          <li>Cloud (GCP, Redhat Openshift, AWS, Heroku, Azure)</li>
+          <li>Fintech (Open Banking, ISO20022</li></ul></p>
+        </div>
+      </div>
+      <div class="card bg-warning text-white">
+          <div class="card-body">
+            <h5 class="card-title">Find Us</h5>
+            <p class="card-text">
+              <address>
+                Deytalytics Ltd
+                <br>Milton Road
+                <br>London
+                <br>SW19 8SF
+                <br></br><a href="mailto:james.dey@deytalytics.com">james.dey@deytalytics.com</a>
+                <br>+44 (0)7941 252447
+              </address></p>
+          </div>
+        </div>
+</div>
+</div>
+<br>
+{% endblock content %}
+
+
+
