@@ -3,7 +3,7 @@
 
 AUTHOR = 'James Dey'
 SITENAME = 'Deytalytics'
-SITESUBTITLE='Blog'
+SITESUBTITLE='Articles'
 SITEURL = 'http://127.0.0.1:8000/'
 
 PATH = 'content'
