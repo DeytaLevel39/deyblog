@@ -1,0 +1,615 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://www.deytalytics.com)
+>> /Border [ 0 0 0 ] /Rect [ 152.1029 540.1247 213.9532 547.9997 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://blog.getpelican.com/)
+>> /Border [ 0 0 0 ] /Rect [ 88.48866 516.4997 152.3969 524.3747 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://www.pelicanthemes.com)
+>> /Border [ 0 0 0 ] /Rect [ 388.1639 419.3004 459.3539 427.1754 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://docs.getpelican.com/en/3.6.3/plugins.html)
+>> /Border [ 0 0 0 ] /Rect [ 202.5922 381.8004 316.1077 389.6754 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://deytalytics.github.io/deyblog/)
+>> /Border [ 0 0 0 ] /Rect [ 330.3614 277.5266 413.2379 285.4016 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://www.deytalytics.com)
+>> /Border [ 0 0 0 ] /Rect [ 63.69291 269.6516 125.5432 277.5266 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R ] /Contents 22 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 21 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+11 0 obj
+<<
+/Outlines 13 0 R /PageLabels 23 0 R /PageMode /UseNone /Pages 21 0 R /Type /Catalog
+>>
+endobj
+12 0 obj
+<<
+/Author () /CreationDate (D:20200918134307+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200918134307+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Pelican Static Website Generator) /Trapped /False
+>>
+endobj
+13 0 obj
+<<
+/Count 7 /First 14 0 R /Last 20 0 R /Type /Outlines
+>>
+endobj
+14 0 obj
+<<
+/Dest [ 10 0 R /Fit ] /Next 15 0 R /Parent 13 0 R /Title (Summary)
+>>
+endobj
+15 0 obj
+<<
+/Dest [ 10 0 R /Fit ] /Next 16 0 R /Parent 13 0 R /Prev 14 0 R /Title (Static vs Dynamic)
+>>
+endobj
+16 0 obj
+<<
+/Dest [ 10 0 R /Fit ] /Next 17 0 R /Parent 13 0 R /Prev 15 0 R /Title (Pelican)
+>>
+endobj
+17 0 obj
+<<
+/Dest [ 10 0 R /Fit ] /Next 18 0 R /Parent 13 0 R /Prev 16 0 R /Title (What are the advantages of Pelican?)
+>>
+endobj
+18 0 obj
+<<
+/Dest [ 10 0 R /Fit ] /Next 19 0 R /Parent 13 0 R /Prev 17 0 R /Title (When shouldn't you use Pelican?)
+>>
+endobj
+19 0 obj
+<<
+/Dest [ 10 0 R /Fit ] /Next 20 0 R /Parent 13 0 R /Prev 18 0 R /Title (Work in Progress)
+>>
+endobj
+20 0 obj
+<<
+/Dest [ 10 0 R /Fit ] /Parent 13 0 R /Prev 19 0 R /Title (Next Steps)
+>>
+endobj
+21 0 obj
+<<
+/Count 1 /Kids [ 10 0 R ] /Type /Pages
+>>
+endobj
+22 0 obj
+<<
+/Length 10019
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+BT 1 0 0 1 0 4 Tm 78.22488 0 Td 24 TL /F2 20 Tf 0 0 0 rg (Pelican Static Website Generator) Tj T* -78.22488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 716.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 48.03937 0 Td (Date:) Tj T* -48.03937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2020-09-03 10:20:00) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 695.8455 cm
+q
+1 0 0 1 1 -1 cm
+q
+.68168 w
+BT 1 0 0 1 0 7.686117 Tm 10.90688 TL /F2 7.27125 Tf 0 0 0 rg (Summary) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 670.8242 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+.492188 w
+BT 1 0 0 1 0 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (There are a lot of online blogging websites out there, and if you don't mind a 3rd party hosting your website, being constrained to what the 3rd party provides, and having your content owned by a 3rd) Tj T* (party, that's certainly the simplest way forward.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 655.6992 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Wordpress is still very much the easiest way of starting up your own website, but this article is describing a method of generating a static website for a relatively technical audience who want full control.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 635.5211 cm
+q
+1 0 0 1 1 -1 cm
+q
+.68168 w
+BT 1 0 0 1 0 7.686117 Tm 10.90688 TL /F2 7.27125 Tf 0 0 0 rg (Static vs Dynamic) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 618.3749 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Static site's content is fixed from when you generate the content, whereas dynamic website's can update the content, typically by retrieval from a backend database) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 598.1967 cm
+q
+1 0 0 1 1 -1 cm
+q
+.68168 w
+BT 1 0 0 1 0 7.686117 Tm 10.90688 TL /F2 7.27125 Tf 0 0 0 rg (Pelican) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 581.0505 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Over the past few days, I've been prompted to create my own static site.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 565.9255 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Two drivers led to this:-) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 550.8005 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (A friend of mine wanted full control over a blogging website having previously used Facebook blog and lost the content.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 512.0505 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+0 0 1 RG
+n 88.41 28.74612 m 150.2602 28.74612 l S
+.492188 w
+.492188 w
+.492188 w
+0 0 1 RG
+n 24.79575 5.121125 m 88.704 5.121125 l S
+BT 1 0 0 1 7.875 29.7305 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (I already have a dynamic web site ) Tj 0 0 1 rg (http://www.deytalytics.com) Tj 0 0 0 rg ( written in Python/Flask, which has whitepaper/blog post/article content in it. I've found it a pain to add content to it, as I handcrafted it in) Tj T* (Python/Flask so every article requires me to cut and paste html. It also doesn't have neat features such as tags & categorisation which is kind of expected nowadays and would improve the ability of) Tj T* (search engines to process and deliver the content to a wider audience. As my current website is already written in Python, I looked for a static site generator that was written in that language. I came) Tj T* (across ) Tj 0 0 1 rg (https://blog.getpelican.com/) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 506.8005 cm
+Q
+q
+1 0 0 1 62.69291 486.6224 cm
+q
+1 0 0 1 1 -1 cm
+q
+.68168 w
+BT 1 0 0 1 0 7.686117 Tm 10.90688 TL /F2 7.27125 Tf 0 0 0 rg (What are the advantages of Pelican?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 469.4761 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Pelican provides the following Content Management System \(CMS\) capabilities:-) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 454.3511 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (1.) Tj ET
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Splits the production of content \(which can be created in markdown or HTML\), from CMS IT.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 444.4761 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (2.) Tj ET
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Automatically groups blog posts by tags & categories identified by the author) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 434.6011 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (3.) Tj ET
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Allows sharing of content to social media e.g. Facebook, Twitter, WhatsApp) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 424.7261 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (4.) Tj ET
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Adds comment functionality to articles/blog posts by using 3rd party comment engines e.g. Disqus) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 414.8511 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (5.) Tj ET
+.492188 w
+0 0 1 RG
+n 324.471 5.121125 m 395.661 5.121125 l S
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (A common theme is applied consistently across the static website and the pelican community have provided almost 200 base themes at ) Tj 0 0 1 rg (http://www.pelicanthemes.com) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 397.1011 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 13.9805 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (6.) Tj ET
+.492188 w
+.492188 w
+BT 1 0 0 1 7.875 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Can be hosted on Content Delivery Networks \(CDNs\) such as Github pages. This has 2 key advantages. Firstly it's free/very low cost. Secondly, they tend to be more performant than the free tiers) Tj T* (offered by the major cloud providers) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 387.2261 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (7.) Tj ET
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Can allow a Site to be searched for content) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 377.3511 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (8.) Tj ET
+.492188 w
+0 0 1 RG
+n 138.8992 5.121125 m 252.4147 5.121125 l S
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Additional functionality can be provided via plugins. See ) Tj 0 0 1 rg (https://docs.getpelican.com/en/3.6.3/plugins.html) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 367.4761 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (9.) Tj ET
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Posts/Articles are automatically sorted by date) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 357.6011 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (10.) Tj ET
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 2.5725 0 Td 7.875 TL /F1 5.25 Tf 0 0 0 rg (As metadata has to be included with the content, this makes it easier for search engines to understand what you publish) Tj T* -2.5725 0 Td ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 357.6011 cm
+Q
+q
+1 0 0 1 62.69291 337.423 cm
+q
+1 0 0 1 1 -1 cm
+q
+.68168 w
+BT 1 0 0 1 0 7.686117 Tm 10.90688 TL /F2 7.27125 Tf 0 0 0 rg (When shouldn't you use Pelican?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 320.2767 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (1.) Tj ET
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (If you don't mind a 3rd party owning and controlling your content, the online blogging sites are much easier to get set up) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 310.4017 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (2.) Tj ET
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Pelican is really geared up for content publication e.g. blogging. It's not suitable for ecommerce or any dynamic content \(content that changes dependent on what the user has chosen\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 310.4017 cm
+Q
+q
+1 0 0 1 62.69291 290.2236 cm
+q
+1 0 0 1 1 -1 cm
+q
+.68168 w
+BT 1 0 0 1 0 7.686117 Tm 10.90688 TL /F2 7.27125 Tf 0 0 0 rg (Work in Progress) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 265.2024 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+0 0 1 RG
+n 266.6685 12.99612 m 349.545 12.99612 l S
+.492188 w
+0 0 1 RG
+n 0 5.121125 m 61.85025 5.121125 l S
+BT 1 0 0 1 0 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (I'm currently at the stage where I've implemented most of the technical capabilities and the result can be viewed at ) Tj 0 0 1 rg (https://deytalytics.github.io/deyblog/) Tj 0 0 0 rg (. The theme is similar to my existing website) Tj T* 0 0 1 rg (http://www.deytalytics.com) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 245.0242 cm
+q
+1 0 0 1 1 -1 cm
+q
+.68168 w
+BT 1 0 0 1 0 7.686117 Tm 10.90688 TL /F2 7.27125 Tf 0 0 0 rg (Next Steps) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 227.878 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (1.) Tj ET
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Add articles from my existing website and linkedin posts) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 218.003 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (2.) Tj ET
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Integrate the static site in with my existing dynamic website as an additional menu option) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 218.003 cm
+Q
+ 
+endstream
+endobj
+23 0 obj
+<<
+/Nums [ 0 24 0 R ]
+>>
+endobj
+24 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+xref
+0 25
+0000000000 65535 f 
+0000000073 00000 n 
+0000000114 00000 n 
+0000000221 00000 n 
+0000000333 00000 n 
+0000000511 00000 n 
+0000000691 00000 n 
+0000000871 00000 n 
+0000001072 00000 n 
+0000001262 00000 n 
+0000001440 00000 n 
+0000001694 00000 n 
+0000001800 00000 n 
+0000002090 00000 n 
+0000002164 00000 n 
+0000002253 00000 n 
+0000002365 00000 n 
+0000002467 00000 n 
+0000002597 00000 n 
+0000002723 00000 n 
+0000002834 00000 n 
+0000002926 00000 n 
+0000002987 00000 n 
+0000013059 00000 n 
+0000013100 00000 n 
+trailer
+<<
+/ID 
+[<44eb6cd0f851cf6a35850901f40008d2><44eb6cd0f851cf6a35850901f40008d2>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 12 0 R
+/Root 11 0 R
+/Size 25
+>>
+startxref
+13134
+%%EOF

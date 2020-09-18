@@ -1,0 +1,905 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://en.wikipedia.org/wiki/Hierarchical_database_model)
+>> /Border [ 0 0 0 ] /Rect [ 201.4162 527.2336 263.8544 535.1086 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model)
+>> /Border [ 0 0 0 ] /Rect [ 103.3829 488.4836 216.5834 496.3586 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://en.wikipedia.org/wiki/Unified_Modeling_Language)
+>> /Border [ 0 0 0 ] /Rect [ 71.56791 449.7336 182.1434 457.6086 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://en.wikipedia.org/wiki/Third_normal_form)
+>> /Border [ 0 0 0 ] /Rect [ 179.8282 319.989 231.7507 327.864 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://en.wikipedia.org/wiki/Online_transaction_processing)
+>> /Border [ 0 0 0 ] /Rect [ 367.8569 288.489 454.5134 296.364 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://en.wikipedia.org/wiki/Dimensional_modeling)
+>> /Border [ 0 0 0 ] /Rect [ 380.8822 265.489 432.8152 273.364 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://en.wikipedia.org/wiki/Data_vault_modeling)
+>> /Border [ 0 0 0 ] /Rect [ 291.3067 203.114 337.9949 210.989 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R ] /Contents 35 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 34 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://erwin.com/)
+>> /Border [ 0 0 0 ] /Rect [ 71.56791 650.8532 84.69291 658.7282 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://go.sap.com/uk/product/data-mgmt/powerdesigner-data-modeling-tools.html)
+>> /Border [ 0 0 0 ] /Rect [ 71.56791 640.9782 119.4164 648.8532 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.idera.com/er-studio-data-architect-software?utm_source=google&utm_medium=cpc&utm_campaign=emberstudio&utm_content=brand&gclid=cj0keqjwr7s-brd96_uw9jk8unabeiqaujbffams4poe6mowozdx0dvu9brjbmr69xi9odxyxyma-poaar2g8p8haq)
+>> /Border [ 0 0 0 ] /Rect [ 71.56791 631.1032 95.20341 638.9782 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://msdn.microsoft.com/en-us/library/ms188251.aspx)
+>> /Border [ 0 0 0 ] /Rect [ 310.2119 600.8532 386.6624 608.7282 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://www-03.ibm.com/software/products/en/ibminfodataarch)
+>> /Border [ 0 0 0 ] /Rect [ 104.8267 585.7282 164.0624 593.6032 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://www.oracle.com/technetwork/developer-tools/datamodeler/overview/index.html)
+>> /Border [ 0 0 0 ] /Rect [ 134.8829 570.6032 221.8282 578.4782 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://www.sparxsystems.com/products/ea/)
+>> /Border [ 0 0 0 ] /Rect [ 204.7552 555.4782 226.9312 563.3532 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://en.wikipedia.org/wiki/Barker%27s_notation)
+>> /Border [ 0 0 0 ] /Rect [ 270.8789 515.7336 286.3402 523.6086 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.eastcoastoracle.org/PDF_files/2011/Presentations/LurtonDatamodeling.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 289.2592 515.7336 294.2204 523.6086 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://en.wikipedia.org/wiki/IDEF1X)
+>> /Border [ 0 0 0 ] /Rect [ 300.6412 515.7336 319.0214 523.6086 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://www.uml-diagrams.org/class-reference.html)
+>> /Border [ 0 0 0 ] /Rect [ 433.9964 515.7336 445.0792 523.6086 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/Annots [ 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 
+  22 0 R ] /Contents 36 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 34 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+24 0 obj
+<<
+/Outlines 26 0 R /PageLabels 37 0 R /PageMode /UseNone /Pages 34 0 R /Type /Catalog
+>>
+endobj
+25 0 obj
+<<
+/Author () /CreationDate (D:20200918134308+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200918134308+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Data Modelling) /Trapped /False
+>>
+endobj
+26 0 obj
+<<
+/Count 2 /First 27 0 R /Last 27 0 R /Type /Outlines
+>>
+endobj
+27 0 obj
+<<
+/Count -6 /Dest [ 11 0 R /Fit ] /First 28 0 R /Last 33 0 R /Parent 26 0 R /Title (What is data modelling?)
+>>
+endobj
+28 0 obj
+<<
+/Dest [ 11 0 R /Fit ] /Next 29 0 R /Parent 27 0 R /Title (What is data modelling?)
+>>
+endobj
+29 0 obj
+<<
+/Dest [ 11 0 R /Fit ] /Next 30 0 R /Parent 27 0 R /Prev 28 0 R /Title (What are the 3 common data modelling techniques?)
+>>
+endobj
+30 0 obj
+<<
+/Dest [ 11 0 R /Fit ] /Next 31 0 R /Parent 27 0 R /Prev 29 0 R /Title (What are the 3 common data modelling methodologies used in E-R modelling?)
+>>
+endobj
+31 0 obj
+<<
+/Dest [ 11 0 R /Fit ] /Next 32 0 R /Parent 27 0 R /Prev 30 0 R /Title (What the 3 main levels of data modelling in use today?)
+>>
+endobj
+32 0 obj
+<<
+/Dest [ 23 0 R /Fit ] /Next 33 0 R /Parent 27 0 R /Prev 31 0 R /Title (What are the most popular data modelling tools used today?)
+>>
+endobj
+33 0 obj
+<<
+/Dest [ 23 0 R /Fit ] /Parent 27 0 R /Prev 32 0 R /Title (Which data modelling notation should I use?)
+>>
+endobj
+34 0 obj
+<<
+/Count 2 /Kids [ 11 0 R 23 0 R ] /Type /Pages
+>>
+endobj
+35 0 obj
+<<
+/Length 11987
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+BT 1 0 0 1 0 4 Tm 163.8249 0 Td 24 TL /F2 20 Tf 0 0 0 rg (Data Modelling) Tj T* -163.8249 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 716.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 48.03937 0 Td (Date:) Tj T* -48.03937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2016-09-05 10:20:00) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 697.8667 cm
+q
+1 0 0 1 1 -1 cm
+q
+.605883 w
+BT 1 0 0 1 0 7.05387 Tm 9.694125 TL /F2 6.46275 Tf 0 0 0 rg (What is data modelling?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 673.654 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+.492188 w
+BT 1 0 0 1 0 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Data modelling is used to describe data objects \(aka entities or tables\), their attributes \(aka fields or columns\) and the relationships between them. It is important to do this so that you know what data) Tj T* (needs to be stored for a particular purpose, and how relationships between that data should be enforced.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 658.529 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (For example a customer sale, may involve:-) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 643.404 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (A customer entity) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 628.279 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (A sales order header entity) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 613.154 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (A sales order item entity.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 607.904 cm
+Q
+q
+1 0 0 1 62.69291 592.779 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (The relationships between these entities may be:-) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 577.654 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (A customer can place 1 or more sales orders) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 562.529 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (A sales order contains 1 sales order header and 1 or more sales order items.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 557.279 cm
+Q
+q
+1 0 0 1 62.69291 539.1221 cm
+q
+1 0 0 1 1 -1 cm
+q
+.605883 w
+BT 1 0 0 1 0 7.05387 Tm 9.694125 TL /F2 6.46275 Tf 0 0 0 rg (What are the 3 common data modelling techniques?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 499.1594 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+0 0 1 RG
+n 137.7233 28.74612 m 200.1615 28.74612 l S
+.492188 w
+.492188 w
+.492188 w
+BT 1 0 0 1 7.875 29.7305 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (The oldest way of modelling data object relationships is ) Tj 0 0 1 rg (hierarchical data modelling) Tj 0 0 0 rg (. This was the most common data modelling technique in the 1970s when mainframe databases were in common) Tj T* (use. This technique also had a revival when XML \(1 of the main document integration formats\) was introduced in the 1990s to allow documents to be shared between systems. In hierarchical data) Tj T* (modelling, data is stored in a tree like structure e.g. for a customer sale, you might have customer as 1 entity and sales order header-) Tj (>) Tj (sales order item as another entity with a link between the sales) Tj T* (order header entity and the customer entity.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 468.2844 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+0 0 1 RG
+n 39.69 20.87112 m 152.8905 20.87112 l S
+.492188 w
+.492188 w
+BT 1 0 0 1 7.875 21.8555 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (In the 1980s, ) Tj 0 0 1 rg (entity-relationship data modelling \(ER-modelling\)) Tj 0 0 0 rg ( became common as relational databases e.g. Oracle, DB2, Sybase became more common. This remains by far the most common) Tj T* (method of modelling data today, and is typically used for online transaction processing and data warehousing applications. In the customer sale problem, you have 3 entities - a customer, a sales) Tj T* (order header and a sales order item. A customer can be associated to 1 or more sales order headers. A sales order header can have 1 or more sales order items.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 429.5344 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+.492188 w
+0 0 1 RG
+n 7.875 20.87112 m 118.4505 20.87112 l S
+.492188 w
+.492188 w
+BT 1 0 0 1 7.875 29.7305 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (In the 1990s, as object-orientated progamming e.g. C++, Java became popular within application developers, there was a need to store data in the same way as the application held data in memory.) Tj T* 0 0 1 rg (Universal Modelling Language \(UML\) modelling) Tj 0 0 0 rg ( was introduced to meet this need with the class diagram concept of most use to data architects. This remains little used in practice, however, due to) Tj T* (the lack of popularity of object-orientated databases and application developers using other techniques to quickly store data e.g. in JSON objects nowadays. In the customer sale problem, the class) Tj T* (diagram would have classes for customer and sales order and sales order item.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 424.2844 cm
+Q
+q
+1 0 0 1 62.69291 409.1594 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (The main differences between a class diagram and an E-R diagram are that a class diagram can:-) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 394.0344 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Describe the allowable operations that can be applied to the class e.g. registerCustomer, createSalesOrderHeader, readSalesOrderHeader etc.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 363.1594 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+.492188 w
+.492188 w
+BT 1 0 0 1 7.875 21.8555 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Can use more sophisticated relationships. For example, in an E-R diagram, there is no differentiation between the way that you model "a customer can place 1 or more sales orders" \(2 distinctly) Tj T* (different entities\) and "a team is made up of 1 or more people \(team is simply an aggregate of people\). Similarly E-R modelling doesn't model composition objects e.g. a car is made up of 1 steering) Tj T* (wheel, a body shell, x doors, x wheels etc.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 357.9094 cm
+Q
+q
+1 0 0 1 62.69291 339.7525 cm
+q
+1 0 0 1 1 -1 cm
+q
+.605883 w
+BT 1 0 0 1 0 7.05387 Tm 9.694125 TL /F2 6.46275 Tf 0 0 0 rg (What are the 3 common data modelling methodologies used in E-R modelling?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 276.1647 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+.492188 w
+0 0 1 RG
+n 116.1352 44.49612 m 168.0577 44.49612 l S
+.492188 w
+.492188 w
+.492188 w
+.492188 w
+0 0 1 RG
+n 304.164 12.99612 m 390.8205 12.99612 l S
+.492188 w
+BT 1 0 0 1 7.875 53.3555 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (The oldest method of storing data in a relational database was developed by E.F. Codd and focuses on ensuring that data is physically stored in as efficient method as possible. This methodology) Tj T* (requires data to be stored in what is known as ) Tj 0 0 1 rg (3rd normal form \(3NF\)) Tj 0 0 0 rg (. A simple mantra "The key, the whole key and nothing but the key, so help me Codd" reminds the data modeller that a data) Tj T* (object needs to have a set of attributes that can be uniquely identified by the whole primary key defined for that data object and is not dependent on other data attributes within the data object. A) Tj T* (primary key is simply a field which uniquely identifies a particular instance of data object. For example, for a customer, a customer id would be a good primary key, so long as you truly uniquely) Tj T* (identify a customer using it. You might think that a combination of customer first name and last name or their email address would make good primary keys but the drawbacks there are that people's) Tj T* (names aren't particularly unique and a person can have more than 1 email address. Data is typically physically stored in 3NF in ) Tj 0 0 1 rg (online transaction processing \(OLTP\)) Tj 0 0 0 rg ( relational databases or in) Tj T* (enterprise data warehouses that use the Bill Inmon approach.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 213.7897 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+0 0 1 RG
+n 317.1893 52.37112 m 369.1223 52.37112 l S
+.492188 w
+.492188 w
+.492188 w
+.492188 w
+.492188 w
+.492188 w
+BT 1 0 0 1 7.875 53.3555 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (The 2nd most common method of storing data in relational databases was developed by Ralph Kimball in the 1990s and is known as ) Tj 0 0 1 rg (dimensional modelling) Tj 0 0 0 rg (. It's typically used for data warehousing) Tj T* (applications. The downside of efficiently storing data in 3NF is that querying data can become non-performant due to the extensive set of relationships that need to be navigated in order to join data) Tj T* (between different data objects. Kimball's dimensional model stores transactions either at a granular or aggregated level in a central fact table, and reference data hierarchies that are used to dice,) Tj T* (slice and aggregate the fact table at different levels are merged in to single tables \(for each hierarchy\) known as dimensions. By having a single central fact table joined directly to dimension tables,) Tj T* (the number of joins required to retrieve data is dramatically reduced leading to much more performant queries. The downside of dimensional modelling is that data can be lost. For example, if you) Tj T* (create a sales data model with customer, product and store as dimensions, then you would not be able to query products by store, where a product has yet to be sold. For most use cases, the) Tj T* (advantage of performant queries overcomes any minor disadvantages that Kimball's technique incurs, however.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 190.7897 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+0 0 1 RG
+n 227.6138 12.99612 m 274.302 12.99612 l S
+.492188 w
+BT 1 0 0 1 7.875 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (An emerging data modelling methodology has been invented by Dan Linstadt and is known as ) Tj 0 0 1 rg (data vault modelling) Tj 0 0 0 rg (. One of the drawbacks of data modelling for a data warehouse is having to change) Tj T* (the data model \(and associated data integration scripts\) as new data objects and relationships are discovered. Data vault modelling has a concept of:-) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 175.6647 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (A hub - which is a data object containing just the primary key information) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 160.5397 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (A satellite - which is a data object which contains all of the associated attributes) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 121.7897 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+.492188 w
+.492188 w
+.492188 w
+BT 1 0 0 1 7.875 29.7305 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (A link - which is a data object which allows many to many relationships to be stored between 2 or more hub objects. The advantage of data vault modelling is around it's flexibility. If new attributes) Tj T* (need to be added, then you can create an additional satellite table. If new relationships need to be added, you can create a new link data object. If new data objects need to be added, you can create) Tj T* (a new hub, satellite and link tables. The disadvantage of data vault modelling is that it leads to the creation of many more tables than you would using the 3NF approach, so is even less performant) Tj T* (for actually querying the data.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 116.5397 cm
+Q
+q
+1 0 0 1 62.69291 98.38287 cm
+q
+1 0 0 1 1 -1 cm
+q
+.605883 w
+BT 1 0 0 1 0 7.05387 Tm 9.694125 TL /F2 6.46275 Tf 0 0 0 rg (What the 3 main levels of data modelling in use today?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+36 0 obj
+<<
+/Length 5301
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.2736 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+.492188 w
+BT 1 0 0 1 7.875 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (A data modelling exercise typically starts with a conceptual data model. This is simply identifying key entities that are required to be stored and relationships between them without identifiying primary) Tj T* (keys or attributes.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 724.2736 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+.492188 w
+BT 1 0 0 1 7.875 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Logical data modelling then fills in the primary keys, attributes and relationships. The logical data model most closely represents in totality a business analyst or SME's view as to how entities and) Tj T* (their relationships work in the real world.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 701.2736 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+.492188 w
+BT 1 0 0 1 7.875 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Physical data modelling models data in a form that is relevant to a particular database management system. So will define specific datatypes, storage requirements and indexes, for example. It also) Tj T* (resolves supertype/subtype and many to many relationships which appear in a logical data model but can't be physically accommodated in relational database management systems.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 696.0236 cm
+Q
+q
+1 0 0 1 62.69291 677.8667 cm
+q
+1 0 0 1 1 -1 cm
+q
+.605883 w
+BT 1 0 0 1 0 7.05387 Tm 9.694125 TL /F2 6.46275 Tf 0 0 0 rg (What are the most popular data modelling tools used today?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 661.529 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Gartner hasn't covered data modelling tools for a number of years but the 3 choices that are most commonly made \(not tied to a single database vendor\), in my experience are:-) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 646.404 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (1.) Tj ET
+.492188 w
+0 0 1 RG
+n 7.875 5.121125 m 21 5.121125 l S
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 1 rg (Erwin) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 636.529 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (2.) Tj ET
+.492188 w
+0 0 1 RG
+n 7.875 5.121125 m 55.7235 5.121125 l S
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 1 rg (SAP PowerDesigner) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 626.654 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (3.) Tj ET
+.492188 w
+0 0 1 RG
+n 7.875 5.121125 m 31.5105 5.121125 l S
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 1 rg (ER/Studio) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 626.654 cm
+Q
+q
+1 0 0 1 62.69291 611.529 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Other worthy candidates include:-) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 596.404 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+0 0 1 RG
+n 246.519 5.121125 m 322.9695 5.121125 l S
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (If you're predominantly modelling SQL*Server databases, you'll likely do physical data modelling using ) Tj 0 0 1 rg (SQL*Server Management Studio) Tj 0 0 0 rg  T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 581.279 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+0 0 1 RG
+n 41.13375 5.121125 m 100.3695 5.121125 l S
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (For IBM DB2, ) Tj 0 0 1 rg (Infosphere Data Architect) Tj 0 0 0 rg ( is a data modelling tool that IBM promote.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 566.154 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+0 0 1 RG
+n 71.19 5.121125 m 158.1352 5.121125 l S
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (For Oracle data modelling, ) Tj 0 0 1 rg (Oracle SQL Developer Data Modeller) Tj 0 0 0 rg ( is a popular free offering) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 551.029 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+0 0 1 RG
+n 141.0623 5.121125 m 163.2382 5.121125 l S
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (If you're working at the enterprise architecture level, then ) Tj 0 0 1 rg (Sparx EA) Tj 0 0 0 rg ( is often chosen.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 545.779 cm
+Q
+q
+1 0 0 1 62.69291 527.6221 cm
+q
+1 0 0 1 1 -1 cm
+q
+.605883 w
+BT 1 0 0 1 0 7.05387 Tm 9.694125 TL /F2 6.46275 Tf 0 0 0 rg (Which data modelling notation should I use?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 511.2844 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+0 0 1 RG
+n 207.186 5.121125 m 222.6472 5.121125 l S
+n 225.5662 5.121125 m 230.5275 5.121125 l S
+n 236.9483 5.121125 m 255.3285 5.121125 l S
+n 370.3035 5.121125 m 381.3862 5.121125 l S
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (There are 4 common data modelling notations in use today. The easiest to understand is ) Tj 0 0 1 rg (Barker) Tj 0 0 0 rg (. ) Tj 0 0 1 rg (IE) Tj 0 0 0 rg ( & ) Tj 0 0 1 rg (IDEF1X) Tj 0 0 0 rg ( are supported by most data modelling tools, and ) Tj 0 0 1 rg (UML) Tj 0 0 0 rg ( is also quite common.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 496.1594 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (The diagram shows the way that various data modelling components are depicted using these notations:-) Tj T* ET
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+37 0 obj
+<<
+/Nums [ 0 38 0 R 1 39 0 R ]
+>>
+endobj
+38 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+39 0 obj
+<<
+/S /D /St 2
+>>
+endobj
+xref
+0 40
+0000000000 65535 f 
+0000000073 00000 n 
+0000000114 00000 n 
+0000000221 00000 n 
+0000000333 00000 n 
+0000000542 00000 n 
+0000000757 00000 n 
+0000000964 00000 n 
+0000001161 00000 n 
+0000001370 00000 n 
+0000001570 00000 n 
+0000001770 00000 n 
+0000002031 00000 n 
+0000002201 00000 n 
+0000002431 00000 n 
+0000002812 00000 n 
+0000003019 00000 n 
+0000003230 00000 n 
+0000003464 00000 n 
+0000003657 00000 n 
+0000003859 00000 n 
+0000004095 00000 n 
+0000004284 00000 n 
+0000004485 00000 n 
+0000004783 00000 n 
+0000004889 00000 n 
+0000005161 00000 n 
+0000005235 00000 n 
+0000005364 00000 n 
+0000005469 00000 n 
+0000005612 00000 n 
+0000005780 00000 n 
+0000005929 00000 n 
+0000006082 00000 n 
+0000006207 00000 n 
+0000006275 00000 n 
+0000018315 00000 n 
+0000023668 00000 n 
+0000023718 00000 n 
+0000023752 00000 n 
+trailer
+<<
+/ID 
+[<4d0f56f746bfb9d8e9382904c581a202><4d0f56f746bfb9d8e9382904c581a202>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 25 0 R
+/Root 24 0 R
+/Size 40
+>>
+startxref
+23786
+%%EOF

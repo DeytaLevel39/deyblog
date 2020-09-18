@@ -1,0 +1,792 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/Contents 20 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 19 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.collibra.com/download/building-managing-and-sharing-a-business-glossary)
+>> /Border [ 0 0 0 ] /Rect [ 71.56791 744.4729 155.8777 752.3479 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://www.adaptive.com/products/adaptive-business-glossary-manager/)
+>> /Border [ 0 0 0 ] /Rect [ 71.56791 734.5979 159.1012 742.4729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://magnitude.com/mdm/products/business-information-modeling/)
+>> /Border [ 0 0 0 ] /Rect [ 71.56791 724.7229 157.0589 732.5979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.ibm.com/support/knowledgecenter/es/SSZJPZ_9.1.0/com.ibm.swg.im.iis.productization.iisinfsv.overview.doc/topics/c_bg_and_bga.html)
+>> /Border [ 0 0 0 ] /Rect [ 71.56791 714.8479 141.3037 722.7229 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.informatica.com/gb/products/data-quality/axon-data-governance.html)
+>> /Border [ 0 0 0 ] /Rect [ 71.56791 704.9729 153.5624 712.8479 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/Annots [ 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R ] /Contents 21 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 19 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+11 0 obj
+<<
+/Outlines 13 0 R /PageLabels 22 0 R /PageMode /UseNone /Pages 19 0 R /Type /Catalog
+>>
+endobj
+12 0 obj
+<<
+/Author () /CreationDate (D:20200918134307+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200918134307+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Creating a business glossary) /Trapped /False
+>>
+endobj
+13 0 obj
+<<
+/Count 5 /First 14 0 R /Last 18 0 R /Type /Outlines
+>>
+endobj
+14 0 obj
+<<
+/Dest [ 4 0 R /Fit ] /Next 15 0 R /Parent 13 0 R /Title (Why do you need a business glossary?)
+>>
+endobj
+15 0 obj
+<<
+/Dest [ 4 0 R /Fit ] /Next 16 0 R /Parent 13 0 R /Prev 14 0 R /Title (Is a business glossary simply a dictionary?)
+>>
+endobj
+16 0 obj
+<<
+/Dest [ 4 0 R /Fit ] /Next 17 0 R /Parent 13 0 R /Prev 15 0 R /Title (Who should create a business glossary?)
+>>
+endobj
+17 0 obj
+<<
+/Dest [ 4 0 R /Fit ] /Next 18 0 R /Parent 13 0 R /Prev 16 0 R /Title (What features should your business glossary have?)
+>>
+endobj
+18 0 obj
+<<
+/Dest [ 4 0 R /Fit ] /Parent 13 0 R /Prev 17 0 R /Title (Where can I get a business glossary?)
+>>
+endobj
+19 0 obj
+<<
+/Count 2 /Kids [ 4 0 R 10 0 R ] /Type /Pages
+>>
+endobj
+20 0 obj
+<<
+/Length 15596
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+BT 1 0 0 1 0 4 Tm 96.00488 0 Td 24 TL /F2 20 Tf 0 0 0 rg (Creating a business glossary) Tj T* -96.00488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 716.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 48.03937 0 Td (Date:) Tj T* -48.03937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2016-11-28 10:20:00) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 695.8455 cm
+q
+1 0 0 1 1 -1 cm
+q
+.68168 w
+BT 1 0 0 1 0 7.686117 Tm 10.90688 TL /F2 7.27125 Tf 0 0 0 rg (Why do you need a business glossary?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 662.9492 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+.492188 w
+.492188 w
+BT 1 0 0 1 0 21.8555 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Most companies tend to buy systems that meet particular needs of a particular business function e.g. sales, marketing, hr, finance etc. Users of these systems then start to learn the terminology which is) Tj T* (peculiar to that particular system. Problems arise when there is a need to report on data stored across multiple systems. In this situation, there may be many systems from which you wish to pull) Tj T* (information from, each of which have their own dialect.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 647.8242 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Identifiable business benefits of creating a business glossary include:-) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 624.8242 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 13.9805 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+.492188 w
+.492188 w
+BT 1 0 0 1 7.875 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Clear reporting \226 field labels in reports are typically abbreviated and often the same term can lead to a multitude of labels. By linking a field label to a business glossary term, it becomes clear what) Tj T* (the report is telling you.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 614.9492 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (A clear understanding of each other) Tj (\222) Tj (s terminology allows different functional areas to work together more effectively \226 it reduces the \221) Tj (Tower of Babel) Tj (\222 problem.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 605.0742 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (It helps to identify subject matter experts within the business \226 the authors of the terms are likely to be those with the best knowledge as to how systems and reports work.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 595.1992 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (It allows information about business rules e.g. conditional logic, KPIs and format enforcement to maintained centrally rather than hidden within systems) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 585.3242 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Gets rid of system-specific terminology which becomes problematic when the organisation needs to change systems.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 585.3242 cm
+Q
+q
+1 0 0 1 62.69291 565.1461 cm
+q
+1 0 0 1 1 -1 cm
+q
+.68168 w
+BT 1 0 0 1 0 7.686117 Tm 10.90688 TL /F2 7.27125 Tf 0 0 0 rg (Is a business glossary simply a dictionary?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 547.9999 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (A business glossary is more like a thesaurus than a dictionary.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 524.9999 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+.492188 w
+BT 1 0 0 1 0 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (A dictionary provides multiple meanings for the same sounding word e.g. volume may refer to loudness of sound or it may refer to capacity of a liquid or space, whereas a thesaurus provides multiple) Tj T* (words with the same meaning e.g. volume, bulk, cubic measure are different terms used for a capacity of a liquid or space.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 504.8217 cm
+q
+1 0 0 1 1 -1 cm
+q
+.68168 w
+BT 1 0 0 1 0 7.686117 Tm 10.90688 TL /F2 7.27125 Tf 0 0 0 rg (Who should create a business glossary?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 471.9255 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+.492188 w
+.492188 w
+BT 1 0 0 1 0 21.8555 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Bear in mind that people don) Tj (\222) Tj (t work in isolation but fit in to a particular community with a language developing that serves a particular purpose. With that thought, you need to identify those communities) Tj T* (within your organisation. Typically, they) Tj (\222) Tj (ll cluster around specific business functional areas e.g. marketing, sales, hr, finance and different geographies. Within this community, there will be people who) Tj T* (already face the task of needing to understand terms across multiple systems e.g. management reporting faces this task. So these will be your natural author community.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 451.7474 cm
+q
+1 0 0 1 1 -1 cm
+q
+.68168 w
+BT 1 0 0 1 0 7.686117 Tm 10.90688 TL /F2 7.27125 Tf 0 0 0 rg (What features should your business glossary have?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 434.6011 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (The following features will lend themselves to providing a glossary which is practically useful to your organisation:-) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 419.4761 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Cost effective \226 It) Tj (\222) Tj (s really important that the cost of the business glossary doesn) Tj (\222) Tj (t outweigh the benefits that you expect to get from it.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 401.7261 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 13.9805 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+.492188 w
+.492188 w
+BT 1 0 0 1 7.875 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Usable \226 If you want subject matter experts to compile a business glossary for your organisation, then you) Tj (\222) Tj (ve got to choose a product that they want to actually use. It shouldn) Tj (\222) Tj (t feel like a chore to) Tj T* (add information to the glossary) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 383.9761 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 13.9805 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+.492188 w
+.492188 w
+BT 1 0 0 1 7.875 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (User & Group roles \226 you want to allow as many people as possible to add candidate terms & definitions to the glossary, but you still need the concept of an editor to approve those terms for) Tj T* (approval, to ensure quality.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 374.1011 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Multiple users \226 many users need to be able to search for, add and approve content of the glossary) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 356.3511 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 13.9805 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+.492188 w
+.492188 w
+BT 1 0 0 1 7.875 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Auditing \226 you) Tj (\222) Tj (ll need to ensure that any changes to content are audited, since you) Tj (\222) Tj (ll have links to your business glossary from systems and reports, so you don) Tj (\222) Tj (t want the content to be changed in) Tj T* (an adverse way without knowing who did it.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 346.4761 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Workflow mechanism \226 you) Tj (\222) Tj (ll need an approval process for the content) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 336.6011 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Terms & definitions \226 Need to be able to create terms and definitions to produce rich content) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 326.7261 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Related terms \226 need to be able to relate terms produced by different functional areas to each other, so that the aim of improving understanding can be achieved) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 301.1011 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 21.8555 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+.492188 w
+.492188 w
+.492188 w
+BT 1 0 0 1 7.875 21.8555 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Classification schemes \226 This covers 2 areas \226 you need to be able to group your terms in to structures so that you can drill up and down the structure in a logical way. It) Tj (\222) Tj (s also useful for the) Tj T* (business glossary to hold information about how to classify data in your systems. For example, the Dewey Decimal Classification system is a well known way of labeling books, so that a book can be) Tj T* (easily found in a library.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 283.3511 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 13.9805 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+.492188 w
+.492188 w
+BT 1 0 0 1 7.875 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Code sets \(list of values, enumerations\) \226 The business glossary can hold pre-defined lists for certain data items. e.g. ISO provide lists of countries & currencies. by using pre-defined code sets, it) Tj T* (makes it easier to integrate your data with other system) Tj (\222) Tj (s data both externally & internally.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 265.6011 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 13.9805 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+.492188 w
+.492188 w
+BT 1 0 0 1 7.875 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Import/export metadata \226 although having an online searchable business glossary is a great step forward for a business, there is typically a need to export the content so that it can be processed) Tj T* (elsewhere and to import content from industry standard material or glossaries provided by systems or previously produced within the organisation.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 255.7261 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Search engine \226 It) Tj (\222) Tj (s often difficult to know exactly the term that you) Tj (\222) Tj (re searching for, so having a Google style search capability, makes it easier to discover relevant content.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 237.9761 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 13.9805 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+.492188 w
+.492188 w
+BT 1 0 0 1 7.875 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Business rules \226 Conditional logic, Key performance indicators/measures and validation rules e.g. email should be of format @ are important for ensuring that data is standardised and consistent) Tj T* (which improves data quality and integration) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 228.1011 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Supportable \226 The IT team will need to be able to back up the glossary and support the system without extensive additional training being required.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 210.3511 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 13.9805 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+.492188 w
+.492188 w
+BT 1 0 0 1 7.875 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Hyperlink from a reporting tool/system \226 A key benefit is to be able to provide hyperlinks from system or report fields to terms within the business glossary. This eliminates the ambiguity of meaning) Tj T* (that typically uncontrolled abbreviated field labeling can cause.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 210.3511 cm
+Q
+q
+1 0 0 1 62.69291 195.2261 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Other features that you might wish to consider include:-) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 180.1011 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Linking to fields in your data modeling tool. It can be useful to link data elements in your data model to business terms when those data elements will be made visible to business users.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 162.3511 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 13.9805 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+.492188 w
+.492188 w
+BT 1 0 0 1 7.875 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Linking to validation rules from a data quality/master data management tool \226 this means that you don) Tj (\222) Tj (t need to replicate validation rules with data quality systems, that have been defined in your) Tj T* (business glossary already) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 144.6011 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 13.9805 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+.492188 w
+.492188 w
+BT 1 0 0 1 7.875 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Available in the cloud \226 The business glossary needs to be shareable by multiple users. Having it on a network drive achieves that, but by putting it on a public or private cloud, the business glossary) Tj T* (will be available from multiple media and from home and work, providing the ability to research terms at will.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 144.6011 cm
+Q
+q
+1 0 0 1 62.69291 124.423 cm
+q
+1 0 0 1 1 -1 cm
+q
+.68168 w
+BT 1 0 0 1 0 7.686117 Tm 10.90688 TL /F2 7.27125 Tf 0 0 0 rg (Where can I get a business glossary?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 83.65175 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+.492188 w
+.492188 w
+.492188 w
+BT 1 0 0 1 0 29.7305 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (As with reporting, Microsoft Excel remains the most popular choice for business glossaries, simply because it's free and everybody has it on their desktop. Bear in mind, however, that such an approach) Tj T* (would meet few of the features listed above, without extensive development required. Cost is more than just the initial purchase costs, it also includes the development and support \(including) Tj T* (maintenance & training\) costs. When business glossary terms exceed about 100 terms, the effort required to relate terms via hyperlinks becomes tiresome, and you need to start to think about using) Tj T* (more professional tools, as it will save you time.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+21 0 obj
+<<
+/Length 1895
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 755.1486 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Business Glossary tools which have more of the necessary features \(thereby reducing development costs\) include:-) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 740.0236 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+.492188 w
+0 0 1 RG
+n 7.875 5.121125 m 92.18475 5.121125 l S
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 1 rg (Collibra Business Systems Glossary) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 730.1486 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+.492188 w
+0 0 1 RG
+n 7.875 5.121125 m 95.40825 5.121125 l S
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 1 rg (Adaptive Business Glossary Manager) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 720.2736 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+.492188 w
+0 0 1 RG
+n 7.875 5.121125 m 93.366 5.121125 l S
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 1 rg (Kalido Business Information Modeler) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 710.3986 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+.492188 w
+0 0 1 RG
+n 7.875 5.121125 m 77.61075 5.121125 l S
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 1 rg (Infosphere Business Glossary) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 700.5236 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+.492188 w
+0 0 1 RG
+n 7.875 5.121125 m 89.8695 5.121125 l S
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 1 rg (Informatica Axon Data Governance) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 700.5236 cm
+Q
+ 
+endstream
+endobj
+22 0 obj
+<<
+/Nums [ 0 23 0 R 1 24 0 R ]
+>>
+endobj
+23 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+24 0 obj
+<<
+/S /D /St 2
+>>
+endobj
+xref
+0 25
+0000000000 65535 f 
+0000000073 00000 n 
+0000000114 00000 n 
+0000000221 00000 n 
+0000000333 00000 n 
+0000000538 00000 n 
+0000000773 00000 n 
+0000000993 00000 n 
+0000001210 00000 n 
+0000001502 00000 n 
+0000001732 00000 n 
+0000001980 00000 n 
+0000002086 00000 n 
+0000002372 00000 n 
+0000002446 00000 n 
+0000002563 00000 n 
+0000002700 00000 n 
+0000002832 00000 n 
+0000002975 00000 n 
+0000003092 00000 n 
+0000003159 00000 n 
+0000018808 00000 n 
+0000020755 00000 n 
+0000020805 00000 n 
+0000020839 00000 n 
+trailer
+<<
+/ID 
+[<ebdf9bbfaba33cb601ef56e3c57dfb61><ebdf9bbfaba33cb601ef56e3c57dfb61>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 12 0 R
+/Root 11 0 R
+/Size 25
+>>
+startxref
+20873
+%%EOF

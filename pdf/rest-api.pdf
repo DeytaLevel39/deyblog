@@ -1,0 +1,777 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 6 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://restcookbook.com/)
+>> /Border [ 0 0 0 ] /Rect [ 221.2454 145.4944 235.2472 153.3694 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/Annots [ 4 0 R ] /Contents 21 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 20 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://json.org/)
+>> /Border [ 0 0 0 ] /Rect [ 487.3784 729.3479 501.3802 737.2229 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://xml.org/)
+>> /Border [ 0 0 0 ] /Rect [ 508.9664 729.3479 519.7604 737.2229 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://raml.org/)
+>> /Border [ 0 0 0 ] /Rect [ 204.9179 641.6032 297.1184 649.4782 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/Annots [ 7 0 R 8 0 R 9 0 R ] /Contents 22 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 20 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+11 0 obj
+<<
+/Outlines 13 0 R /PageLabels 23 0 R /PageMode /UseNone /Pages 20 0 R /Type /Catalog
+>>
+endobj
+12 0 obj
+<<
+/Author () /CreationDate (D:20200918134307+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200918134307+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Designing an API) /Trapped /False
+>>
+endobj
+13 0 obj
+<<
+/Count 2 /First 14 0 R /Last 14 0 R /Type /Outlines
+>>
+endobj
+14 0 obj
+<<
+/Count -5 /Dest [ 5 0 R /Fit ] /First 15 0 R /Last 19 0 R /Parent 13 0 R /Title (What is an API?)
+>>
+endobj
+15 0 obj
+<<
+/Dest [ 5 0 R /Fit ] /Next 16 0 R /Parent 14 0 R /Title (What is an API?)
+>>
+endobj
+16 0 obj
+<<
+/Dest [ 5 0 R /Fit ] /Next 17 0 R /Parent 14 0 R /Prev 15 0 R /Title (Why do we need APIs?)
+>>
+endobj
+17 0 obj
+<<
+/Dest [ 5 0 R /Fit ] /Next 18 0 R /Parent 14 0 R /Prev 16 0 R /Title (What are the steps in designing an API?)
+>>
+endobj
+18 0 obj
+<<
+/Dest [ 5 0 R /Fit ] /Next 19 0 R /Parent 14 0 R /Prev 17 0 R /Title (What style should an API be written in?)
+>>
+endobj
+19 0 obj
+<<
+/Dest [ 10 0 R /Fit ] /Parent 14 0 R /Prev 18 0 R /Title (What is the best way of specifying a complete set of REST service APIs?)
+>>
+endobj
+20 0 obj
+<<
+/Count 2 /Kids [ 5 0 R 10 0 R ] /Type /Pages
+>>
+endobj
+21 0 obj
+<<
+/Length 11592
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+BT 1 0 0 1 0 4 Tm 152.7049 0 Td 24 TL /F2 20 Tf 0 0 0 rg (Designing an API) Tj T* -152.7049 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 716.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 48.03937 0 Td (Date:) Tj T* -48.03937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2016-11-24 10:20:00) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 697.8667 cm
+q
+1 0 0 1 1 -1 cm
+q
+.605883 w
+BT 1 0 0 1 0 7.05387 Tm 9.694125 TL /F2 6.46275 Tf 0 0 0 rg (What is an API?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 673.654 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+.492188 w
+BT 1 0 0 1 0 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (An API defines a controlled way in which you can interact with a service. It restricts the methods by which you can access a service, the parameters that can be passed, and the messages that can be) Tj T* (sent to a service as a request, and the message that is returned as a response.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 655.4971 cm
+q
+1 0 0 1 1 -1 cm
+q
+.605883 w
+BT 1 0 0 1 0 7.05387 Tm 9.694125 TL /F2 6.46275 Tf 0 0 0 rg (Why do we need APIs?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 623.4094 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+.492188 w
+.492188 w
+BT 1 0 0 1 0 21.8555 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Service orientated architecture splits systems and applications in to a logical set of services. So, for example, in order to access your facebook page, you need to be able to logon. What happens behind) Tj T* (the scenes is that the username and password is passed to an authentication service via a defined API. Similarly, when you view your posts, the facebook web page has called a post retrieval service) Tj T* (via an API, in order to retrieve the posts that you've made from a back end data store. The advantages of logically splitting systems and applications in to services include:-) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 608.2844 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (It's easier to understand how the system works) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 593.1594 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (It's easier to maintain the code, as you've split what would otherwise be a very large piece of code in to smaller parts) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 578.0344 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (You can have developers work independently on a particular service.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 562.9094 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (You can re-write a particular service, or move the service to different hardware without affecting the system.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 547.7844 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (You can apply appropriate levels of security to different services) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 542.5344 cm
+Q
+q
+1 0 0 1 62.69291 519.5344 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+.492188 w
+BT 1 0 0 1 0 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (An API is effectively a contract. In the same way that when you're dealing with a human interaction, there are rules that define what information you need to provide and what you expect as a response.) Tj T* (For example, if you make a cash payment in a store for a basket of items, you:-) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 504.4094 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Hand over the shopping items.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 489.2844 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Hand over money for a particular value and currency) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 474.1594 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (And wait for a receipt or verbal acknowledgement that the transaction is complete.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 468.9094 cm
+Q
+q
+1 0 0 1 62.69291 422.2844 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+.492188 w
+.492188 w
+.492188 w
+.492188 w
+BT 1 0 0 1 0 37.6055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (In order for payment services to take an online payment, it has to emulate that same transaction, so it requires identification of the particular shopping basket and the value and currency to be paid as) Tj T* (part of the order completion service. The payment request service will request the customer to make payment. The customer then has to enter information about his payment method \(e.g. debit card or) Tj T* (paypal\) and the payment authorisation service will respond to state whether the card payment worked properly \(after calling a service to authorise payment from the cardholder's bank\). Since this set of) Tj T* (services has to work as smoothly as possible, an API will restrict the methods, parameters and messages which can be passed to the service, and the valid responses and messages that can be) Tj T* (returned.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 404.1275 cm
+q
+1 0 0 1 1 -1 cm
+q
+.605883 w
+BT 1 0 0 1 0 7.05387 Tm 9.694125 TL /F2 6.46275 Tf 0 0 0 rg (What are the steps in designing an API?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 387.7897 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (You will first need to understand the business service that you want to emulate. So in the example above, the business service is a shopping service.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 372.6647 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (From there, you need to consider how to split that business service in to a logical set of technical services e.g. add_shopping_item, finalise_shopping_basket, take_payment.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 349.6647 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+.492188 w
+BT 1 0 0 1 7.875 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (You will need a data architect to define the attributes associated to each object for which you wish to store information. For example, shopping item, shopping basket, payment method, payment) Tj T* (card, currency, transaction date, payment instruction etc.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 318.7897 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+.492188 w
+.492188 w
+BT 1 0 0 1 7.875 21.8555 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (The data architect will also need to define the relationships between these data objects so that information that relates to each other can be retrieved later. For example, the payment instruction) Tj T* (involves a payment card \(f card is the payment method\), a currency, a transaction date and a payment method. The payment instruction also relates to the shopping basket. The shopping basket) Tj T* (contains many shopping basket items.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 295.7897 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+.492188 w
+BT 1 0 0 1 7.875 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (The data architect will also need to specify which attributes should have a restricted set of values. For example, there will only be restricted set of payment methods e.g. paypal, credit card, debit card) Tj T* (and the list of currencies should be restricted to those defined by the International Standards Organisation \(ISO\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 280.6647 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (The security architect will need to be consulted to ensure that legally sensitive data is not passed over the network in an unencrypted form, or stored in it's raw form in a data store or backup file.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 234.0397 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+.492188 w
+.492188 w
+.492188 w
+.492188 w
+BT 1 0 0 1 7.875 37.6055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (The security architect will also need to approve the authentication method that is used to ensure that only authorised users can obtain access to certain data. For example, to gain access to your) Tj T* (facebook posts, you first have to use the OAUTH authentication service to authenticate yourself via a username & password. You are then given a unique access code which needs to be supplied in) Tj T* (subsequent API calls in order to retrieve sensitive data. \(You may have noticed that it is common nowadays to register for a web site using your social media login. Invariably, you are also asked as) Tj T* (to whether you agree to share certain private data with the web site owner. Since you've authenticated and accepted that the website should be authorised, Facebook will update it's internal) Tj T* (authorisation tables to allow the website access to the data that you agreed to share\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 218.9147 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (The API designer will need to consider the methods by which information can be sent to the service and the parameters \(fields and acceptable values\) that need to be supplied.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 203.7897 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (The API designer will need to also define the response messages and any status codes to help the calling application understand whether the service call was successful or not.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 180.7897 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+.492188 w
+BT 1 0 0 1 7.875 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (The API will need to be documented in order that there's a clear understanding to 3rd party application developers as to how the technical services interact with each other in order to complete the) Tj T* (business service, and the what the methods, parameters and messages are that need to be passed to and received from each technical service, and how to respond to status codes.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 175.5397 cm
+Q
+q
+1 0 0 1 62.69291 157.3829 cm
+q
+1 0 0 1 1 -1 cm
+q
+.605883 w
+BT 1 0 0 1 0 7.05387 Tm 9.694125 TL /F2 6.46275 Tf 0 0 0 rg (What style should an API be written in?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 133.1701 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+0 0 1 RG
+n 157.5525 12.99612 m 171.5543 12.99612 l S
+.492188 w
+BT 1 0 0 1 0 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (The predominant style for writing modern web services is known as ) Tj 0 0 1 rg (REST) Tj 0 0 0 rg (. It uses the http protocol methods \(POST, PUT, DELETE & GET\) to interact with a technical service via it's API. The advantage) Tj T* (of this is that most programming languages already support the http style and status codes, so it's easier to write technical services.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 110.1701 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+.492188 w
+BT 1 0 0 1 0 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (The programmer can interact with any web-based service by identifying resources which are defined using the uniform resource identifier \(URI\). For example, this web page might have a URI of) Tj T* (http://www.deytaltyics.com/designing-an-api.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 95.04512 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (The application programmer can retrieve information from the service via the API using the GET method) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 79.92012 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (For example:-) Tj T* ET
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+22 0 obj
+<<
+/Length 3185
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 755.1486 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.57275 Tm 7.875 TL /F3 5.25 Tf 0 0 0 rg (GET) Tj ( ) Tj (http://api.deytalytics.com/retrieve_shopping_basket?basket_id=100001) Tj  T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 740.0236 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (would call the retrieve_shopping_basket service and request the contents of shopping basket 100001.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 717.0236 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+0 0 1 RG
+n 423.6855 12.99612 m 437.6873 12.99612 l S
+n 445.2735 12.99612 m 456.0675 12.99612 l S
+.492188 w
+BT 1 0 0 1 0 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Typically, the API designer will respond with a http status code which tells the calling application whether the service call succeeded, failed, timed out etc. plus a response message in ) Tj 0 0 1 rg (JSON) Tj 0 0 0 rg ( or ) Tj 0 0 1 rg (XML) Tj 0 0 0 rg  T* (format.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 701.8986 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (In a similar fashion data can be stored via a service API call using the POST method e.g.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 686.7736 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.57275 Tm 7.875 TL /F3 5.25 Tf 0 0 0 rg (POST) Tj ( ) Tj (http://api.deytalytics.com/add_shopping_item?basket_id=100001) Tj ( ) Tj ({item_id:1}) Tj  T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 671.6486 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (might add a particular product to a shopping basket.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 653.4917 cm
+q
+1 0 0 1 1 -1 cm
+q
+.605883 w
+BT 1 0 0 1 0 7.05387 Tm 9.694125 TL /F2 6.46275 Tf 0 0 0 rg (What is the best way of specifying a complete set of REST service APIs?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 637.154 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+0 0 1 RG
+n 141.225 5.121125 m 233.4255 5.121125 l S
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (A popular way of specifying REST service APIs is to use the ) Tj 0 0 1 rg (REST API Modelling Language \(RAML\)) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 622.029 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Using the modelling language has the benefits of:-) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 606.904 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Ensuring that your design contains all of the necessary elements required for the API) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 591.779 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (That the API can be tested) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 576.654 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (The API is well documented) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 561.529 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (The API can be published to API repositories for discovery by 3rd party providers.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 556.279 cm
+Q
+ 
+endstream
+endobj
+23 0 obj
+<<
+/Nums [ 0 24 0 R 1 25 0 R ]
+>>
+endobj
+24 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+25 0 obj
+<<
+/S /D /St 2
+>>
+endobj
+xref
+0 26
+0000000000 65535 f 
+0000000073 00000 n 
+0000000124 00000 n 
+0000000231 00000 n 
+0000000343 00000 n 
+0000000519 00000 n 
+0000000742 00000 n 
+0000000847 00000 n 
+0000001015 00000 n 
+0000001182 00000 n 
+0000001350 00000 n 
+0000001586 00000 n 
+0000001692 00000 n 
+0000001966 00000 n 
+0000002040 00000 n 
+0000002160 00000 n 
+0000002256 00000 n 
+0000002370 00000 n 
+0000002503 00000 n 
+0000002636 00000 n 
+0000002789 00000 n 
+0000002856 00000 n 
+0000014501 00000 n 
+0000017738 00000 n 
+0000017788 00000 n 
+0000017822 00000 n 
+trailer
+<<
+/ID 
+[<0d65887c3952f1ac9b9a60e41fdd9e66><0d65887c3952f1ac9b9a60e41fdd9e66>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 12 0 R
+/Root 11 0 R
+/Size 26
+>>
+startxref
+17856
+%%EOF

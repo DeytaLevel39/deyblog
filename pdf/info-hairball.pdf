@@ -1,0 +1,656 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/Contents 18 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 17 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+5 0 obj
+<<
+/Contents 19 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 17 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+6 0 obj
+<<
+/Outlines 8 0 R /PageLabels 20 0 R /PageMode /UseNone /Pages 17 0 R /Type /Catalog
+>>
+endobj
+7 0 obj
+<<
+/Author () /CreationDate (D:20200918134308+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200918134308+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Avoiding an information hairball) /Trapped /False
+>>
+endobj
+8 0 obj
+<<
+/Count 2 /First 9 0 R /Last 9 0 R /Type /Outlines
+>>
+endobj
+9 0 obj
+<<
+/Count -7 /Dest [ 4 0 R /Fit ] /First 10 0 R /Last 16 0 R /Parent 8 0 R /Title (Why are there data integration challenges?)
+>>
+endobj
+10 0 obj
+<<
+/Dest [ 4 0 R /Fit ] /Next 11 0 R /Parent 9 0 R /Title (Why are there data integration challenges?)
+>>
+endobj
+11 0 obj
+<<
+/Dest [ 4 0 R /Fit ] /Next 12 0 R /Parent 9 0 R /Prev 10 0 R /Title (Problems with a typical data integration approach)
+>>
+endobj
+12 0 obj
+<<
+/Dest [ 4 0 R /Fit ] /Next 13 0 R /Parent 9 0 R /Prev 11 0 R /Title (Enterprise Data Integration requirements)
+>>
+endobj
+13 0 obj
+<<
+/Dest [ 4 0 R /Fit ] /Next 14 0 R /Parent 9 0 R /Prev 12 0 R /Title (Enterprise Data Integration technologies)
+>>
+endobj
+14 0 obj
+<<
+/Dest [ 4 0 R /Fit ] /Next 15 0 R /Parent 9 0 R /Prev 13 0 R /Title (Integration Architecture)
+>>
+endobj
+15 0 obj
+<<
+/Dest [ 4 0 R /Fit ] /Next 16 0 R /Parent 9 0 R /Prev 14 0 R /Title (Interface Design)
+>>
+endobj
+16 0 obj
+<<
+/Dest [ 4 0 R /Fit ] /Parent 9 0 R /Prev 15 0 R /Title (Monitoring enterprise data integration)
+>>
+endobj
+17 0 obj
+<<
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
+>>
+endobj
+18 0 obj
+<<
+/Length 10633
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+BT 1 0 0 1 0 4 Tm 81.58488 0 Td 24 TL /F2 20 Tf 0 0 0 rg (Avoiding an information hairball) Tj T* -81.58488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 716.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 48.03937 0 Td (Date:) Tj T* -48.03937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2016-07-07 10:20:00) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 697.8667 cm
+q
+1 0 0 1 1 -1 cm
+q
+.605883 w
+BT 1 0 0 1 0 7.05387 Tm 9.694125 TL /F2 6.46275 Tf 0 0 0 rg (Why are there data integration challenges?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 681.529 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Typical reasons for data integration challenges include:-) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 666.404 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Multiple systems created to provide the same business function e.g. business units choosing their own sales order processing systems either prior to or after acquisition.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 651.279 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Each system has it) Tj (\222) Tj (s own view as to how data should be stored \(aka physical data model\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 628.279 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+.492188 w
+BT 1 0 0 1 7.875 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Systems needing to be replaced over time e.g. because they are no longer supported, no longer capable of meeting business requirements or the business function has moved between divisions) Tj T* (and new technology choices are implemented.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 623.029 cm
+Q
+q
+1 0 0 1 62.69291 604.8721 cm
+q
+1 0 0 1 1 -1 cm
+q
+.605883 w
+BT 1 0 0 1 0 7.05387 Tm 9.694125 TL /F2 6.46275 Tf 0 0 0 rg (Problems with a typical data integration approach) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 588.5344 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Integration of data between systems is primarily done via peer-to-peer bespoke methods most typically moving data in batch. Problems with this approach include:-) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 565.5344 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+.492188 w
+BT 1 0 0 1 7.875 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Time delays whilst data is being batch processed which reduces the customer experience e.g. where a sales order completes, but a billing invoice is generated only on a weekly cycle and can lead to) Tj T* (inconsistencies in reported information e.g. where payment is made, but there is a delay in feeding this to a reporting system.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 550.4094 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Complexity of peer to peer integration grows exponentially as more systems are added and the connections between systems increase \226 commonly referred to as the \223) Tj (information hairball) Tj (\224 problem.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 535.2844 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Makes it difficult to integrate systems owned by new companies that are acquired in to existing systems) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 520.1594 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Multiple physical data integration interfaces are developed to cover what essentially is the same logical data integration requirement.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 505.0344 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Whenever a system is replaced, every physical data interface between it and other systems needs to be re-written.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 489.9094 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Knowledge as to how data integration works is retained by delivery projects and often lost if external consultancies were used in delivery) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 484.6594 cm
+Q
+q
+1 0 0 1 62.69291 469.5344 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (All of this can cost your company significant amounts of money in development, maintenance and opportunity costs - a money pit.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 451.3775 cm
+q
+1 0 0 1 1 -1 cm
+q
+.605883 w
+BT 1 0 0 1 0 7.05387 Tm 9.694125 TL /F2 6.46275 Tf 0 0 0 rg (Enterprise Data Integration requirements) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 435.0397 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (There are many different data integration technologies available to you to solve this problem, but first you will need to gather requirements. You'll need to gather information about the following:-) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 416.8829 cm
+q
+1 0 0 1 1 -1 cm
+q
+.605883 w
+BT 1 0 0 1 0 7.05387 Tm 9.694125 TL /F2 6.46275 Tf 0 0 0 rg (Enterprise Data Integration technologies) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 400.5451 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Dependent on requirements, there are different data integration technologies available.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 377.5451 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+.492188 w
+BT 1 0 0 1 0 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Table below identifies examples of popular technology solutions which meet different types of requirements today. \(Note: You should determine for yourselves, however, which technology is most) Tj T* (appropriate for your organisation and have a vendor demonstrate via a proof of concept\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 359.3882 cm
+q
+1 0 0 1 1 -1 cm
+q
+.605883 w
+BT 1 0 0 1 0 7.05387 Tm 9.694125 TL /F2 6.46275 Tf 0 0 0 rg (Integration Architecture) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 343.0505 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Rather than building peer to peer, system specific \223) Tj (information hairballs) Tj (\224) Tj (, a better approach is to create a hub and spoke publisher-subscriber architecture.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 320.0505 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+.492188 w
+BT 1 0 0 1 0 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (For example, the integration architecture below shows a situation where you have 3 sales systems, each with different ways of physically storing sales order information. Each sales system publishes) Tj T* (their sales orders to a sales order hub which automatically passes on that information to the billing and sales system who have subscribed.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 297.0505 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+.492188 w
+BT 1 0 0 1 0 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Advantages of this architecture is that you can easily add a new sales system or replace an existing system without impacting the downstream billing or reporting systems. It) Tj (\222) Tj (s also easier to get a holistic) Tj T* (view of sales orders.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 278.8936 cm
+q
+1 0 0 1 1 -1 cm
+q
+.605883 w
+BT 1 0 0 1 0 7.05387 Tm 9.694125 TL /F2 6.46275 Tf 0 0 0 rg (Interface Design) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 254.6809 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+.492188 w
+BT 1 0 0 1 0 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (In order to build a reliable standard interface between systems, that another system owner could reasonably be expected to supply high quality data for, you will need to supply an interface specification) Tj T* (containing the following elements:-) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 231.6809 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+.492188 w
+BT 1 0 0 1 0 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (1.A message structure down to field level with descriptions. The message structure should indicate the relationships between sections within the message e.g. a message for a sales order might contain) Tj T* (a sales order header which can contain 1 or more sales order line items.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 216.5559 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (2.Information as to restricted list of values \(aka codeset\) that are applicable to particular attributes) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 201.4309 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (3.Information on specific format restrictions e.g. date formats must be \223) Tj (dd/mm/yyyy) Tj (\224) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 186.3059 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (4.Information as to the validation rules) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 171.1809 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (The interface spec should ideally be machine readable e.g. xml schema definition \(xsd\) are typically used to define an interface specification which can validate xml messages.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 156.0559 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (In addition to the interface spec, a word document describing the purpose of the interface and where it would typically be used in a business process within Informa provides context.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 125.1809 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+.492188 w
+.492188 w
+BT 1 0 0 1 0 21.8555 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (A very good example of well defined interface documentation is provided by the ISO20022 organisation whose purpose is to standardise electronic messages which are typically passed between) Tj T* (financial institutions e.g. payment information - https://www.iso20022.org/full_catalogue.page. Each message has a supplied xsd containing the information set out above, and accompanying message) Tj T* (definition report \(MDR\) documentation which provides interface spec documentation and typical business process usage.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 107.024 cm
+q
+1 0 0 1 1 -1 cm
+q
+.605883 w
+BT 1 0 0 1 0 7.05387 Tm 9.694125 TL /F2 6.46275 Tf 0 0 0 rg (Monitoring enterprise data integration) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 90.68625 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (As well as the physical movement of data from 1 system to another, there needs to be a capability in place to monitor how well this is operating.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+19 0 obj
+<<
+/Length 1100
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 755.1486 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (However robust a data integration system is, there will always be messages that are rejected and require manual intervention. There needs to be a process in place to deal with this situation.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 732.1486 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+.492188 w
+BT 1 0 0 1 0 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Checks also need to be made to ensure that data isn) Tj (\222) Tj (t lost during the transfer. This is typically achieved by capturing statistics about data as it) Tj (\222) Tj (s sent from the source, and then running identical queries) Tj T* (against the target system and comparing the difference.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 717.0236 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Your IT Operations unit will also need to ensure that the data integration system is operational, and is capable of handling peak transaction rates.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+20 0 obj
+<<
+/Nums [ 0 21 0 R 1 22 0 R ]
+>>
+endobj
+21 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+22 0 obj
+<<
+/S /D /St 2
+>>
+endobj
+xref
+0 23
+0000000000 65535 f 
+0000000073 00000 n 
+0000000114 00000 n 
+0000000221 00000 n 
+0000000333 00000 n 
+0000000538 00000 n 
+0000000743 00000 n 
+0000000847 00000 n 
+0000001136 00000 n 
+0000001207 00000 n 
+0000001352 00000 n 
+0000001474 00000 n 
+0000001616 00000 n 
+0000001749 00000 n 
+0000001882 00000 n 
+0000001999 00000 n 
+0000002108 00000 n 
+0000002226 00000 n 
+0000002292 00000 n 
+0000012978 00000 n 
+0000014130 00000 n 
+0000014180 00000 n 
+0000014214 00000 n 
+trailer
+<<
+/ID 
+[<d3179fec952afd6cde1971c2ccf25d10><d3179fec952afd6cde1971c2ccf25d10>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 7 0 R
+/Root 6 0 R
+/Size 23
+>>
+startxref
+14248
+%%EOF
