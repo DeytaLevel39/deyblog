@@ -7,7 +7,7 @@ Slug: business-glossary
 Authors: Deytalytics Ltd
 Summary:This post describes:- When and why you need a business glossary, the features that you should look for when evaluating your choice of a business glossary tool & the most popular business glossary tools currently on the market. It's aimed at solution architects working on information related systems
 
-![Business Glossary image](images/business-glossary.jpg)
+![Business Glossary image](https://deytalytics.github.io/deyblog/images/business-glossary.jpg)
 
 #Why do you need a business glossary?
 Most companies tend to buy systems that meet particular needs of a particular business function e.g. sales, marketing, hr, finance etc. Users of these systems then start to learn the terminology which is peculiar to that particular system. Problems arise when there is a need to report on data stored across multiple systems. In this situation, there may be many systems from which you wish to pull information from, each of which have their own dialect.

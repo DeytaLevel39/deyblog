@@ -44,5 +44,3 @@ PDF_PROCESSOR=True
 
 PLUGIN_PATHS=['pelican-plugins',]
 PLUGINS=['pdf',]
-
-RELATIVE_URL=False

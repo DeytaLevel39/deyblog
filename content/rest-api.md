@@ -7,7 +7,7 @@ Slug: rest-api
 Authors: Deytalytics Ltd
 Summary: This post covers what you need to do to design an application programming interface (API).
 
-![Rest API](images/rest-api.jpg)
+![Rest API](https://deytalytics.github.io/deyblog/images/rest-api.jpg)
 ## What is an API?
 An API defines a controlled way in which you can interact with a service. It restricts the methods by which you can access a service, the parameters that can be passed, and the messages that can be sent to a service as a request, and the message that is returned as a response.
 

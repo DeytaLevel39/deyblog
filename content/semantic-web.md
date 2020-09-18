@@ -7,7 +7,7 @@ Slug: semantic-web
 Authors: Deytalytics Ltd
 Summary: For a number of year's the concept of being able to strictly define and classify data in order to allow websites to be able to share data easily has been gaining ground. This concept is known as the "Semantic web". This post provides information about it and a basic description of the technologies used.
 
-![Semantic Web image](images/semantic-web.jpg)
+![Semantic Web image](https://deytalytics.github.io/deyblog/images/semantic-web.jpg)
 ##History of Web Development
 The first web sites consisted of static web pages developed in HTML stored on the web server. This is now referred to as Web 1.0
 

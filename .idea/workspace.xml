@@ -3,6 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="abf537de-f661-42df-9a9d-bc70ff92e42e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/businessglossary.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/businessglossary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/data-modelling.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/data-modelling.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/enterprise-architecture.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/enterprise-architecture.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/finance-data-standards.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/finance-data-standards.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/information-hairball.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/information-hairball.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/iso20022.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/iso20022.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pelican-website.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pelican-website.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/rest-api.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/rest-api.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/semantic-web.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/semantic-web.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/alexa-skills-video.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/alexa-skills-video.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/author/deytalytics-ltd.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/author/deytalytics-ltd.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/blog.html" afterDir="false" />
@@ -23,6 +32,20 @@
       <change beforePath="$PROJECT_DIR$/output/info-hairball.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/info-hairball.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/info-strategy-dev.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/info-strategy-dev.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/iso20022.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/iso20022.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf/alexa-skills-video.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf/business-glossary.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf/cloud-choices.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf/data-modelling.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf/digital-marketing.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf/digital-platforms.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf/enterprise-architecture.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf/finance-data-standards.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf/info-hairball.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf/info-strategy-dev.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf/iso20022.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf/pelican-website-info.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf/rest-api.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf/semantic-web.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/output/pelican-website-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/pelican-website-info.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/rest-api.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/rest-api.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/search.html" afterDir="false" />
@@ -64,6 +87,7 @@
       <change beforePath="$PROJECT_DIR$/output/tag/web-30.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/web-30.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/tag/website.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/website.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tags.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/test.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/test.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pelicanconf-localhost.py" beforeDir="false" afterPath="$PROJECT_DIR$/pelicanconf-localhost.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pelicanconf.py" beforeDir="false" afterPath="$PROJECT_DIR$/pelicanconf.py" afterDir="false" />
     </list>
@@ -202,10 +226,10 @@
     </state>
     <state x="467" y="257" key="com.intellij.ide.util.TipDialog/0.0.1536.864/3840.0.1920.1080@0.0.1536.864" timestamp="1600435614242" />
     <state x="467" y="257" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1600144720648" />
-    <state x="462" y="30" width="613" height="804" key="find.popup" timestamp="1599257901025">
+    <state x="462" y="30" width="742" height="804" key="find.popup" timestamp="1600437420817">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="462" y="30" width="613" height="804" key="find.popup/0.0.1536.864/3840.0.1920.1080@0.0.1536.864" timestamp="1599257901025" />
+    <state x="462" y="30" width="742" height="804" key="find.popup/0.0.1536.864/3840.0.1920.1080@0.0.1536.864" timestamp="1600437420817" />
     <state x="431" y="182" width="672" height="678" key="search.everywhere.popup" timestamp="1599297941441">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

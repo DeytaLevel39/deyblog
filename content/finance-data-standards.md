@@ -7,7 +7,7 @@ Slug: finance-data-standards
 Authors: Deytalytics Ltd
 Summary: This post covers common data standards used in the financial services industry. It can be useful for data architects working in the industry.
 
-![Common Finance Industry Data Standards](images/iso20022.jpg)
+![Common Finance Industry Data Standards](https://deytalytics.github.io/deyblog/images/iso20022.jpg)
 #What types of data standards are there?
 Data standards cover 3 main areas:-
 

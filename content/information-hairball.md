@@ -7,7 +7,7 @@ Slug: info-hairball
 Authors: Deytalytics Ltd
 Summary: Data integration within an organisation tends to be delivered as part of a project delivering a particular system for a particular set of users. Due to the need to rapidly deliver a project, data flows are quickly added to ship data from system A to B. Over time, as more and more data integration points are added, an organisation rapidly encounters the "Information Hairball" problem. This post describes the challenge and how to address the problem.
 
-![Info hairball](images/info-hairball.jpg)
+![Info hairball](https://deytalytics.github.io/deyblog/images/info-hairball.jpg)
 ## Why are there data integration challenges?
 Typical reasons for data integration challenges include:-
 
@@ -34,19 +34,19 @@ Integration of data between systems is primarily done via peer-to-peer bespoke m
 
 All of this can cost your company significant amounts of money in development, maintenance and opportunity costs - a money pit.
 
-![Money pit](images/money-pit.jpg)
+![Money pit](https://deytalytics.github.io/deyblog/images/money-pit.jpg)
 
 ## Enterprise Data Integration requirements
 There are many different data integration technologies available to you to solve this problem, but first you will need to gather requirements. You'll need to gather information about the following:-
 
-![EDI requirements](images/edi-reqs.jpg)
+![EDI requirements](https://deytalytics.github.io/deyblog/images/edi-reqs.jpg)
 
 ## Enterprise Data Integration technologies
 Dependent on requirements, there are different data integration technologies available.  
 
 Table below identifies examples of popular technology solutions which meet different types of requirements today. (Note: You should determine for yourselves, however, which technology is most appropriate for your organisation and have a vendor demonstrate via a proof of concept)
 
-![EDI solution components](images/edi-solns.jpg)
+![EDI solution components](https://deytalytics.github.io/deyblog/images/edi-solns.jpg)
 ## Integration Architecture
 Rather than building peer to peer, system specific “information hairballs”, a better approach is to create a hub and spoke publisher-subscriber architecture.
 
@@ -54,7 +54,7 @@ For example, the integration architecture below shows a situation where you have
 
 Advantages of this architecture is that you can easily add a new sales system or replace an existing system without impacting the downstream billing or reporting systems. It’s also easier to get a holistic view of sales orders.
 
-![information hairball sales integration example](images/info-hairball-sales-example.jpg)
+![information hairball sales integration example](https://deytalytics.github.io/deyblog/images/info-hairball-sales-example.jpg)
 
 ## Interface Design
 In order to build a reliable standard interface between systems, that another system owner could reasonably be expected to supply high quality data for, you will need to supply an interface specification containing the following elements:-

@@ -7,7 +7,7 @@ Slug: data-modelling
 Authors: Deytalytics Ltd
 Summary: This post covers the various data modelling techniques, methodologies and concepts that are in use today. It is not designed to teach data modelling but simply to provide brief statements of the purpose of different techniques and links to material which will provide further insight in to how to model data. There are plenty of online tutorials and youtube videos which will take you step by step through the modelling process.
 
-![data modelling image](images/data-modelling.jpg)
+![data modelling image](https://deytalytics.github.io/deyblog/images/data-modelling.jpg)
 ## What is data modelling?
 Data modelling is used to describe data objects (aka entities or tables), their attributes (aka fields or columns) and the relationships between them. It is important to do this so that you know what data needs to be stored for a particular purpose, and how relationships between that data should be enforced.
 
@@ -119,4 +119,4 @@ There are 4 common data modelling notations in use today. The easiest to underst
  
  The diagram shows the way that various data modelling components are depicted using these notations:-
 
-![data modelling notation](images/data-modelling-notation.jpg)
+![data modelling notation](https://deytalytics.github.io/deyblog/images/data-modelling-notation.jpg)
