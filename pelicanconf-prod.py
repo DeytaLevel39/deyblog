@@ -40,3 +40,7 @@ DISQUS_SITENAME="deyblog"
 
 MAINMENUITEMS=(('Articles','blog.html'),('Download Brochure','https://onedrive.live.com/view.aspx?resid=8541F6645D6AA323!21854&ithint=file%2cpptx&authkey=!AKyiGu7IGeJy2Bc'),('Development Projects','dev_projects.html'))
 
+PDF_PROCESSOR=True
+
+PLUGIN_PATHS=['pelican-plugins',]
+PLUGINS=['pdf',]
