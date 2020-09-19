@@ -45,7 +45,7 @@ body {
     display: flex;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
-    padding: 20px 0;
+    padding-left: 0px;
     margin-left: -15px;
     margin-right: -15px;
 
