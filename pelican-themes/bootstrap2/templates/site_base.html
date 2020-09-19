@@ -9,10 +9,8 @@
 
     <!-- Le styles -->
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/bootstrap-card.min.css" type="text/css" />
     <style type="text/css">
-      .row {
-            padding: 20px 0;
-            }
       .tag-1 {
         font-size: 13pt;
       }
@@ -59,20 +57,19 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </a>
-          <a class="brand" href="{{ SITEURL }}/index.html"><img alt="Deytalytics"  src="{{ SITEURL }}/images/deytalyticslogobig.png"></a>
-          <div class="nav-collapse">
+          <a class="brand" href="{{ SITEURL }}/index.html"><img alt="Deytalytics"  src="{{ SITEURL }}/images/deytalytics-icon.png" width="30px">Deytalytics Homepage</a>
             <ul class="nav">
               {% for title, link in MAINMENUITEMS %}
                   <li><a href="{{ link }}">{{ title }}</a></li>
               {% endfor %}
+                          <li class="divider-vertical"></li>
             </ul>
-            <!--<p class="navbar-text pull-right">Logged in as <a href="#">username</a></p>-->
-          </div><!--/.nav-collapse -->
+
         </div>
       </div>
     </div>
 
-    <div class="container-fluid">
+    <div class="container-fluid mt-4">
       <div class="row">
         <div class="span9" id="content">
             {% block content %}
@@ -96,8 +93,8 @@
 
     <!-- Le javascript -->
     <!-- Placed at the end of the document so the pages load faster -->
-         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <script src="{{ SITEURL }}/theme/js/jquery-1.7.2.min.js"></script>
+    <script src="{{ SITEURL }}/theme/css/bootstrap-card.min.js" !important></script>
+         <script src="{{ SITEURL }}/theme/js/jquery-1.7.2.min.js"></script>
     <script src="{{ SITEURL }}/theme/js/bootstrap.min.js" !important></script>
   </body>
 </html>
