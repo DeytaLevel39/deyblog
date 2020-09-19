@@ -28,6 +28,7 @@ body {
     color: #212529;
     text-align: left;
     padding-top: 70px;
+    padding-left: 10px;
     background-color: #fff;
 }
 
@@ -46,7 +47,6 @@ body {
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
     padding-left: 0px;
-    margin-left: -15px;
     margin-right: -15px;
 
 }
