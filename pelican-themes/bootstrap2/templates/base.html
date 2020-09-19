@@ -11,8 +11,7 @@
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/bootstrap.min.css" type="text/css" />
     <style type="text/css">
       body {
-        padding-top: 60px;
-        padding-bottom: 40px;
+        height: 100%
       }
       .sidebar-nav {
         padding: 9px 0;
@@ -99,25 +98,21 @@
             {% endblock %}
         </div><!--/span-->
 
-                <div class="span3 well sidebar-nav" id="sidebar">
+        <div class="span3 well sidebar-nav" id="sidebar">
             {% include 'sidebar.html' %}
         </div><!--/.well -->
 
       </div><!--/row-->
 
-      </div>
-
     </div><!--/.fluid-container-->
 
-       <div class="navbar navbar-fixed-bottom">
+    <div class="navbar navbar-fixed-bottom">
       <div class="navbar-inner">
-        <div class="container-fluid">
-      {% include 'addthis.html' %}
+        <div class="container-fluid text-right">
+            {% include 'addthis.html' %}
       </div>
-        </div>
-    {% include 'analytics.html' %}
-    {% include 'piwik.html' %}
-    {% include 'disqus_script.html' %}
+      </div>
+    </div>
 
     <!-- Le javascript -->
     <!-- Placed at the end of the document so the pages load faster -->
