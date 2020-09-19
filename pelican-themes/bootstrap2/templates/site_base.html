@@ -49,7 +49,7 @@
 
   <body>
 
-    <div class="navbar navbar-fixed-top p-0">
+    <div class="navbar navbar-fixed-top">
       <div class="navbar-inner">
         <div class="container-fluid">
           <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
@@ -57,13 +57,12 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </a>
-          <a class="brand" href="{{ SITEURL }}/index.html"><img alt="Deytalytics"  src="{{ SITEURL }}/images/deytalytics-icon.png" width="30px">Deytalytics Homepage</a>
+          <a class="brand" href="{{ SITEURL }}/index.html"><img alt="Deytalytics"  src="{{ SITEURL }}/images/deytalytics-icon.png" width="30px">Deytalytics Homepage </a>
           <div class="nav-collapse">
             <ul class="nav">
               {% for title, link in MAINMENUITEMS %}
-                  <li><a href="{{ link }}">{{ title }}</a></li>
+                  <li><a href="{{ link }}"><i class="icon-folder-open icon-large"></i>{{ title }}</a></li>
               {% endfor %}
-                          <li class="divider-vertical"></li>
             </ul>
           </div>
         </div>
