@@ -1,9 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="abf537de-f661-42df-9a9d-bc70ff92e42e" name="Default Changelist" comment="">
+    <list default="true" id="abf537de-f661-42df-9a9d-bc70ff92e42e" name="Default Changelist" comment=".">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/cloud-choices.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/cloud-choices.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/alexa-skills-video.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/alexa-skills-video.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/business-glossary.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/business-glossary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/categories.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/categories.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/cloud-choices.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/cloud-choices.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data-modelling.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/data-modelling.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/digital-marketing.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/digital-marketing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/digital-platforms.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/digital-platforms.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/enterprise-architecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/enterprise-architecture.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/finance-data-standards.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/finance-data-standards.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/info-hairball.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/info-hairball.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/info-strategy-dev.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/info-strategy-dev.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/iso20022.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/iso20022.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pelican-website-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/pelican-website-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/rest-api.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/rest-api.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/semantic-web.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/semantic-web.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/alexa.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/alexa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/api.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/api.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/aws.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/aws.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/cms.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/cms.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/e-r.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/e-r.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/gcp.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/gcp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/owl.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/owl.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/rdf.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/rdf.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/rest.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/rest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/uml.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/uml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tags.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +125,19 @@
       <option name="presentableId" value="Default" />
       <updated>1598994607259</updated>
     </task>
+    <task id="LOCAL-00001" summary=".">
+      <created>1600601604871</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600601604872</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="WindowStateProjectService">
     <state x="362" y="92" key="#Plugins" timestamp="1600601510250">
@@ -109,9 +148,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="517" y="236" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864/3840.0.1920.1080@0.0.1536.864" timestamp="1600083921816" />
-    <state x="424" y="28" key="CommitChangelistDialog2" timestamp="1599205385457">
+    <state x="424" y="28" key="CommitChangelistDialog2" timestamp="1600601730938">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
+    <state x="424" y="28" key="CommitChangelistDialog2/0.0.1536.864/3840.0.1920.1080@0.0.1536.864" timestamp="1600601730938" />
     <state x="424" y="28" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1599205385457" />
     <state x="550" y="188" key="FileChooserDialogImpl" timestamp="1599645194649">
       <screen x="0" y="0" width="1536" height="864" />
@@ -139,6 +179,10 @@
     </state>
     <state x="279" y="76" key="SettingsEditor/0.0.1536.864/3840.0.1920.1080@0.0.1536.864" timestamp="1600429296038" />
     <state x="279" y="76" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1598995622063" />
+    <state x="362" y="166" key="Vcs.Push.Dialog.v2" timestamp="1600601623640">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="362" y="166" key="Vcs.Push.Dialog.v2/0.0.1536.864/3840.0.1920.1080@0.0.1536.864" timestamp="1600601623640" />
     <state x="467" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1600601441671">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
