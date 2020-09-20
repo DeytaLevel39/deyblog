@@ -3,34 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="abf537de-f661-42df-9a9d-bc70ff92e42e" name="Default Changelist" comment=".">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/alexa-skills-video.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/alexa-skills-video.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/business-glossary.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/business-glossary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/categories.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/categories.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/cloud-choices.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/cloud-choices.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/data-modelling.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/data-modelling.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/digital-marketing.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/digital-marketing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/digital-platforms.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/digital-platforms.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/enterprise-architecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/enterprise-architecture.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/finance-data-standards.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/finance-data-standards.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/info-hairball.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/info-hairball.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/info-strategy-dev.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/info-strategy-dev.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/iso20022.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/iso20022.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pelican-website-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/pelican-website-info.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/rest-api.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/rest-api.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/search.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/semantic-web.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/semantic-web.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/alexa.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/alexa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/api.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/api.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/aws.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/aws.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/cms.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/cms.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/e-r.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/e-r.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/gcp.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/gcp.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/owl.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/owl.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/rdf.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/rdf.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/rest.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/rest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/uml.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/uml.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tags.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +42,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/content" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="Settings.Markdown" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -174,10 +146,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1515" height="224" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1599149827818" />
-    <state x="279" y="76" key="SettingsEditor" timestamp="1600429296038">
+    <state x="279" y="76" key="SettingsEditor" timestamp="1600601966677">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="279" y="76" key="SettingsEditor/0.0.1536.864/3840.0.1920.1080@0.0.1536.864" timestamp="1600429296038" />
+    <state x="279" y="76" key="SettingsEditor/0.0.1536.864/3840.0.1920.1080@0.0.1536.864" timestamp="1600601966677" />
     <state x="279" y="76" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1598995622063" />
     <state x="362" y="166" key="Vcs.Push.Dialog.v2" timestamp="1600601623640">
       <screen x="0" y="0" width="1536" height="864" />
@@ -192,9 +164,9 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="462" y="30" width="742" height="804" key="find.popup/0.0.1536.864/3840.0.1920.1080@0.0.1536.864" timestamp="1600437420817" />
-    <state x="431" y="182" width="672" height="678" key="search.everywhere.popup" timestamp="1600442384510">
+    <state x="431" y="182" width="672" height="678" key="search.everywhere.popup" timestamp="1600602163634">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="431" y="182" width="672" height="678" key="search.everywhere.popup/0.0.1536.864/3840.0.1920.1080@0.0.1536.864" timestamp="1600442384510" />
+    <state x="431" y="182" width="672" height="678" key="search.everywhere.popup/0.0.1536.864/3840.0.1920.1080@0.0.1536.864" timestamp="1600602163634" />
   </component>
 </project>

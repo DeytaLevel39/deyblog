@@ -49,7 +49,7 @@ Web domains are typically rented on a yearly basis and can cost very little. I t
 If you're just creating a website for your own needs, then website security isn't top of your mind, but nowadays, if you do anything much more sophisticated, you can find yourself in a legal minefield if you're not careful.
 For example, if you wish to store a database of people who've shown an interest in your product, you need to ensure that no hacker can steal this personal info. 
 For these reasons, you'll eventually need to set up website security which will ensure that only the people that you want to can do things like change the website content or access a backend database. In addition to this as your needs progress, you'll want to add in logging functionality to audit anybody whose trying to access your website and prevent denial of service (DDOS) or code injection attacks
-
+[Cloudflare](https://cloudflare.com) is an excellent solution for encrypting your web traffic (uses https to ensure things like passwords are safe) as well as protecting your website from DDOS attacks. In addition to the security functionality, it also acts as a [content delivery network (cdn)](https://en.wikipedia.org/wiki/Content_delivery_network) which means that all of your static content (html, css, javascript etc) will be served directly from cloudflare increasing your website performance
 
 #Website provider choices
 
