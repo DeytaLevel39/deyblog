@@ -7,7 +7,7 @@ Slug: cloud-choices
 Authors: Deytalytics Ltd
 Summary: Most businesses have moved to the cloud nowadays, but which is the best option for you if you're creating a new website or have yet to make the move. This post discusses pros & cons are how to get started.
 
-I cover all of the aspects, at a high level, that you need to consider when developing, finding a cloud provider, getting a web domain and securing your website,
+The points below cover the main aspects, at a high level, that you need to consider when developing, finding a cloud provider, getting a web domain and securing your website,
 ordered by the main cloud providers in terms of technical complexity required to get started.
 
 #First some website development basics
@@ -25,7 +25,9 @@ Javascript code can be found easily by googling and there are plenty of examples
 ##Static website
 Most people start by creating a website which just has information on it. As the content remains the same as when you first publish the website, this is known as a static website. Even webpages that incorporate javascript code are still called static websites.
 To create nice looking websites, typical choices are:-
+
 1. [Wordpress.com](https://wordpress.com)
+
 2. [Wix.com](https://wix.com)
 
 
