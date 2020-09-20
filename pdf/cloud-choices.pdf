@@ -40,35 +40,35 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://wordpress.com)
->> /Border [ 0 0 0 ] /Rect [ 328.0409 515.4757 364.7962 523.3507 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 71.56791 500.3507 108.3232 508.2257 ] /Subtype /Link /Type /Annot
 >>
 endobj
 8 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://wix.com)
->> /Border [ 0 0 0 ] /Rect [ 372.0937 515.4757 392.2169 523.3507 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 71.56791 485.2257 91.69116 493.1007 ] /Subtype /Link /Type /Annot
 >>
 endobj
 9 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://deytalytics.github.io/deyblog)
->> /Border [ 0 0 0 ] /Rect [ 258.1529 353.8722 339.5699 361.7472 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 258.1529 318.3722 339.5699 326.2472 ] /Subtype /Link /Type /Annot
 >>
 endobj
 10 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://www.deytalytics.com)
->> /Border [ 0 0 0 ] /Rect [ 133.7279 345.9972 198.2032 353.8722 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 133.7279 310.4972 198.2032 318.3722 ] /Subtype /Link /Type /Annot
 >>
 endobj
 11 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://wordpress.com)
->> /Border [ 0 0 0 ] /Rect [ 63.69291 208.6223 106.5411 217.1273 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 63.69291 173.1223 106.5411 181.6273 ] /Subtype /Link /Type /Annot
 >>
 endobj
 12 0 obj
@@ -85,40 +85,33 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://wordpress.org/)
->> /Border [ 0 0 0 ] /Rect [ 63.69291 730.5738 104.018 739.0788 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 63.69291 700.3238 104.018 708.8288 ] /Subtype /Link /Type /Annot
 >>
 endobj
 14 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://uk.godaddy.com/)
->> /Border [ 0 0 0 ] /Rect [ 63.69291 582.4788 88.89606 590.9838 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 63.69291 552.2288 88.89606 560.7338 ] /Subtype /Link /Type /Annot
 >>
 endobj
 15 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://pages.github.com/)
->> /Border [ 0 0 0 ] /Rect [ 63.69291 462.0088 99.92421 470.5138 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 63.69291 431.7588 99.92421 440.2638 ] /Subtype /Link /Type /Annot
 >>
 endobj
 16 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://www.heroku.com/)
->> /Border [ 0 0 0 ] /Rect [ 63.69291 329.0388 83.22606 337.5438 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 63.69291 298.7888 83.22606 307.2938 ] /Subtype /Link /Type /Annot
 >>
 endobj
 17 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://cloud.google.com/)
->> /Border [ 0 0 0 ] /Rect [ 63.69291 105.6992 143.0786 114.2042 ] /Subtype /Link /Type /Annot
->>
-endobj
-18 0 obj
-<<
-/Annots [ 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R ] /Contents 46 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 44 0 R /Resources <<
+/Annots [ 13 0 R 14 0 R 15 0 R 16 0 R ] /Contents 46 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 44 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -126,23 +119,30 @@ endobj
 >> /Type /Page
 >>
 endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cloud.google.com/)
+>> /Border [ 0 0 0 ] /Rect [ 63.69291 759.2438 143.0786 767.7488 ] /Subtype /Link /Type /Annot
+>>
+endobj
 19 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://azure.microsoft.com/)
->> /Border [ 0 0 0 ] /Rect [ 63.69291 677.9488 106.5354 686.4538 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 63.69291 638.7738 106.5354 647.2788 ] /Subtype /Link /Type /Annot
 >>
 endobj
 20 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://aws.amazon.com/)
->> /Border [ 0 0 0 ] /Rect [ 63.69291 580.4788 142.7724 588.9838 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 63.69291 541.3038 142.7724 549.8088 ] /Subtype /Link /Type /Annot
 >>
 endobj
 21 0 obj
 <<
-/Annots [ 19 0 R 20 0 R ] /Contents 47 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 44 0 R /Resources <<
+/Annots [ 18 0 R 19 0 R 20 0 R ] /Contents 47 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 44 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -157,7 +157,7 @@ endobj
 endobj
 23 0 obj
 <<
-/Author () /CreationDate (D:20200920121155+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200920121155+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20200920123352+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200920123352+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Choosing your cloud platform) /Trapped /False
 >>
 endobj
@@ -226,33 +226,33 @@ endobj
 endobj
 36 0 obj
 <<
-/Dest [ 18 0 R /Fit ] /Next 37 0 R /Parent 34 0 R /Prev 35 0 R /Title (Wordpress.org)
+/Dest [ 17 0 R /Fit ] /Next 37 0 R /Parent 34 0 R /Prev 35 0 R /Title (Wordpress.org)
 >>
 endobj
 37 0 obj
 <<
-/Dest [ 18 0 R /Fit ] /Next 38 0 R /Parent 34 0 R /Prev 36 0 R /Title (GoDaddy)
+/Dest [ 17 0 R /Fit ] /Next 38 0 R /Parent 34 0 R /Prev 36 0 R /Title (GoDaddy)
 >>
 endobj
 38 0 obj
 <<
-/Dest [ 18 0 R /Fit ] /Next 39 0 R /Parent 34 0 R /Prev 37 0 R /Title (Github pages)
+/Dest [ 17 0 R /Fit ] /Next 39 0 R /Parent 34 0 R /Prev 37 0 R /Title (Github pages)
 >>
 endobj
 39 0 obj
 <<
-/Dest [ 18 0 R /Fit ] /Parent 34 0 R /Prev 38 0 R /Title (Heroku)
+/Dest [ 17 0 R /Fit ] /Parent 34 0 R /Prev 38 0 R /Title (Heroku)
 >>
 endobj
 40 0 obj
 <<
-/Count -3 /Dest [ 18 0 R /Fit ] /First 41 0 R /Last 43 0 R /Parent 33 0 R /Prev 34 0 R 
+/Count -3 /Dest [ 17 0 R /Fit ] /First 41 0 R /Last 43 0 R /Parent 33 0 R /Prev 34 0 R 
   /Title (Big Boy Cloud Providers)
 >>
 endobj
 41 0 obj
 <<
-/Dest [ 18 0 R /Fit ] /Next 42 0 R /Parent 40 0 R /Title (Google Cloud Platform \(GCP\))
+/Dest [ 21 0 R /Fit ] /Next 42 0 R /Parent 40 0 R /Title (Google Cloud Platform \(GCP\))
 >>
 endobj
 42 0 obj
@@ -267,12 +267,12 @@ endobj
 endobj
 44 0 obj
 <<
-/Count 3 /Kids [ 12 0 R 18 0 R 21 0 R ] /Type /Pages
+/Count 3 /Kids [ 12 0 R 17 0 R 21 0 R ] /Type /Pages
 >>
 endobj
 45 0 obj
 <<
-/Length 10356
+/Length 10117
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -310,7 +310,7 @@ q
 q
 .492188 w
 .492188 w
-BT 1 0 0 1 0 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (I cover all of the aspects, at a high level, that you need to consider when developing, finding a cloud provider, getting a web domain and securing your website, ordered by the main cloud providers in) Tj T* (terms of technical complexity required to get started.) Tj T* ET
+BT 1 0 0 1 0 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (The points below cover the main aspects, at a high level, that you need to consider when developing, finding a cloud provider, getting a web domain and securing your website, ordered by the main) Tj T* (cloud providers in terms of technical complexity required to get started.) Tj T* ET
 Q
 Q
 q
@@ -420,17 +420,45 @@ q
 q
 .492188 w
 .492188 w
+BT 1 0 0 1 0 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Most people start by creating a website which just has information on it. As the content remains the same as when you first publish the website, this is known as a static website. Even webpages that) Tj T* (incorporate javascript code are still called static websites. To create nice looking websites, typical choices are:-) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 495.9015 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
 0 0 1 RG
-n 264.348 5.121125 m 301.1033 5.121125 l S
-n 308.4008 5.121125 m 328.524 5.121125 l S
-BT 1 0 0 1 0 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Most people start by creating a website which just has information on it. As the content remains the same as when you first publish the website, this is known as a static website. Even webpages that) Tj T* (incorporate javascript code are still called static websites. To create nice looking websites, typical choices are:- 1. ) Tj 0 0 1 rg (Wordpress.com) Tj 0 0 0 rg ( 2. ) Tj 0 0 1 rg (Wix.com) Tj T* ET
+n 7.875 5.121125 m 44.63025 5.121125 l S
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 1 rg (Wordpress.com) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 492.8696 cm
+1 0 0 1 62.69291 480.7765 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+0 0 1 RG
+n 7.875 5.121125 m 27.99825 5.121125 l S
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 1 rg (Wix.com) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 475.5265 cm
+Q
+q
+1 0 0 1 62.69291 457.3696 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -442,7 +470,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 468.6569 cm
+1 0 0 1 62.69291 433.1569 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -455,7 +483,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 450.5 cm
+1 0 0 1 62.69291 415 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -467,7 +495,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 426.2872 cm
+1 0 0 1 62.69291 390.7872 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -480,7 +508,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 408.1304 cm
+1 0 0 1 62.69291 372.6304 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -492,7 +520,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 383.9176 cm
+1 0 0 1 62.69291 348.4176 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -505,7 +533,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 365.7607 cm
+1 0 0 1 62.69291 330.2607 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -517,7 +545,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 333.673 cm
+1 0 0 1 62.69291 298.173 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -535,7 +563,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 315.5161 cm
+1 0 0 1 62.69291 280.0161 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -547,7 +575,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 275.5534 cm
+1 0 0 1 62.69291 240.0534 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -562,7 +590,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 255.3752 cm
+1 0 0 1 62.69291 219.8752 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -574,7 +602,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 236.4099 cm
+1 0 0 1 62.69291 200.9099 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -586,7 +614,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 220.0721 cm
+1 0 0 1 62.69291 184.5721 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -598,7 +626,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 203.8971 cm
+1 0 0 1 62.69291 168.3971 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -612,7 +640,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 180.4771 cm
+1 0 0 1 62.69291 144.9771 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -625,7 +653,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 165.3521 cm
+1 0 0 1 62.69291 129.8521 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -637,7 +665,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 150.2271 cm
+1 0 0 1 62.69291 114.7271 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -649,7 +677,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 135.1021 cm
+1 0 0 1 62.69291 99.60212 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -661,10 +689,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 129.8521 cm
+1 0 0 1 62.69291 94.35212 cm
 Q
 q
-1 0 0 1 62.69291 114.7271 cm
+1 0 0 1 62.69291 79.22712 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -675,8 +703,17 @@ Q
 q
 Q
 Q
+ 
+endstream
+endobj
+46 0 obj
+<<
+/Length 9764
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 99.60212 cm
+1 0 0 1 62.69291 755.1486 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -688,7 +725,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 84.47712 cm
+1 0 0 1 62.69291 740.0236 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -699,17 +736,8 @@ Q
 q
 Q
 Q
- 
-endstream
-endobj
-46 0 obj
-<<
-/Length 9840
->>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 747.2736 cm
+1 0 0 1 62.69291 717.0236 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -722,10 +750,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 742.0236 cm
+1 0 0 1 62.69291 711.7736 cm
 Q
 q
-1 0 0 1 62.69291 725.8486 cm
+1 0 0 1 62.69291 695.5986 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -739,7 +767,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 710.3036 cm
+1 0 0 1 62.69291 680.0536 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -751,7 +779,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 695.1786 cm
+1 0 0 1 62.69291 664.9286 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -763,7 +791,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 680.0536 cm
+1 0 0 1 62.69291 649.8036 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -775,7 +803,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 664.9286 cm
+1 0 0 1 62.69291 634.6786 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -787,7 +815,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 649.8036 cm
+1 0 0 1 62.69291 619.5536 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -799,10 +827,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 644.5536 cm
+1 0 0 1 62.69291 614.3036 cm
 Q
 q
-1 0 0 1 62.69291 629.4286 cm
+1 0 0 1 62.69291 599.1786 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -814,7 +842,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 614.3036 cm
+1 0 0 1 62.69291 584.0536 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -826,7 +854,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 599.1786 cm
+1 0 0 1 62.69291 568.9286 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -838,10 +866,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 593.9286 cm
+1 0 0 1 62.69291 563.6786 cm
 Q
 q
-1 0 0 1 62.69291 577.7536 cm
+1 0 0 1 62.69291 547.5036 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -855,7 +883,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 562.2086 cm
+1 0 0 1 62.69291 531.9586 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -867,7 +895,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 547.0836 cm
+1 0 0 1 62.69291 516.8336 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -879,7 +907,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 531.9586 cm
+1 0 0 1 62.69291 501.7086 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -892,10 +920,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 531.9586 cm
+1 0 0 1 62.69291 501.7086 cm
 Q
 q
-1 0 0 1 62.69291 516.8336 cm
+1 0 0 1 62.69291 486.5836 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -907,7 +935,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 493.8336 cm
+1 0 0 1 62.69291 463.5836 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -920,7 +948,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 478.7086 cm
+1 0 0 1 62.69291 448.4586 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -932,10 +960,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 473.4586 cm
+1 0 0 1 62.69291 443.2086 cm
 Q
 q
-1 0 0 1 62.69291 457.2836 cm
+1 0 0 1 62.69291 427.0336 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -949,7 +977,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 441.7386 cm
+1 0 0 1 62.69291 411.4886 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -961,7 +989,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 426.6136 cm
+1 0 0 1 62.69291 396.3636 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -973,7 +1001,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 411.4886 cm
+1 0 0 1 62.69291 381.2386 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -985,7 +1013,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 396.3636 cm
+1 0 0 1 62.69291 366.1136 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -997,10 +1025,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 391.1136 cm
+1 0 0 1 62.69291 360.8636 cm
 Q
 q
-1 0 0 1 62.69291 375.9886 cm
+1 0 0 1 62.69291 345.7386 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1012,7 +1040,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 360.8636 cm
+1 0 0 1 62.69291 330.6136 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1024,7 +1052,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 345.7386 cm
+1 0 0 1 62.69291 315.4886 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1036,10 +1064,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 340.4886 cm
+1 0 0 1 62.69291 310.2386 cm
 Q
 q
-1 0 0 1 62.69291 324.3136 cm
+1 0 0 1 62.69291 294.0636 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1053,7 +1081,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 300.8936 cm
+1 0 0 1 62.69291 270.6436 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1066,7 +1094,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 282.7367 cm
+1 0 0 1 62.69291 252.4867 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1078,7 +1106,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 258.524 cm
+1 0 0 1 62.69291 228.274 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1091,7 +1119,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 243.399 cm
+1 0 0 1 62.69291 213.149 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1103,7 +1131,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 228.274 cm
+1 0 0 1 62.69291 198.024 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1115,7 +1143,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 213.149 cm
+1 0 0 1 62.69291 182.899 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1127,7 +1155,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 198.024 cm
+1 0 0 1 62.69291 167.774 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1139,7 +1167,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 182.899 cm
+1 0 0 1 62.69291 152.649 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1151,7 +1179,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 167.774 cm
+1 0 0 1 62.69291 137.524 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1163,7 +1191,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 152.649 cm
+1 0 0 1 62.69291 122.399 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1175,7 +1203,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 137.524 cm
+1 0 0 1 62.69291 107.274 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1187,7 +1215,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 122.399 cm
+1 0 0 1 62.69291 92.149 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1199,10 +1227,19 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 117.149 cm
+1 0 0 1 62.69291 86.899 cm
 Q
+ 
+endstream
+endobj
+47 0 obj
+<<
+/Length 4947
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 100.974 cm
+1 0 0 1 62.69291 754.5186 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1216,7 +1253,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 77.554 cm
+1 0 0 1 62.69291 731.0986 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1228,17 +1265,8 @@ Q
 q
 Q
 Q
- 
-endstream
-endobj
-47 0 obj
-<<
-/Length 4355
->>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 755.1486 cm
+1 0 0 1 62.69291 715.9736 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1250,7 +1278,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 740.0236 cm
+1 0 0 1 62.69291 700.8486 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1262,7 +1290,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 724.8986 cm
+1 0 0 1 62.69291 685.7236 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1274,10 +1302,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 719.6486 cm
+1 0 0 1 62.69291 680.4736 cm
 Q
 q
-1 0 0 1 62.69291 704.5236 cm
+1 0 0 1 62.69291 665.3486 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1289,7 +1317,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 689.3986 cm
+1 0 0 1 62.69291 650.2236 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1302,10 +1330,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 689.3986 cm
+1 0 0 1 62.69291 650.2236 cm
 Q
 q
-1 0 0 1 62.69291 673.2236 cm
+1 0 0 1 62.69291 634.0486 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1319,7 +1347,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 657.6786 cm
+1 0 0 1 62.69291 618.5036 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1331,7 +1359,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 642.5536 cm
+1 0 0 1 62.69291 603.3786 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1343,7 +1371,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 627.4286 cm
+1 0 0 1 62.69291 588.2536 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1355,10 +1383,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 622.1786 cm
+1 0 0 1 62.69291 583.0036 cm
 Q
 q
-1 0 0 1 62.69291 607.0536 cm
+1 0 0 1 62.69291 567.8786 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1370,7 +1398,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 591.9286 cm
+1 0 0 1 62.69291 552.7536 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1383,10 +1411,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 591.9286 cm
+1 0 0 1 62.69291 552.7536 cm
 Q
 q
-1 0 0 1 62.69291 575.7536 cm
+1 0 0 1 62.69291 536.5786 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1400,7 +1428,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 560.2086 cm
+1 0 0 1 62.69291 521.0336 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1412,7 +1440,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 545.0836 cm
+1 0 0 1 62.69291 505.9086 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1424,7 +1452,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 529.9586 cm
+1 0 0 1 62.69291 490.7836 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1436,7 +1464,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 514.8336 cm
+1 0 0 1 62.69291 475.6586 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1448,10 +1476,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 509.5836 cm
+1 0 0 1 62.69291 470.4086 cm
 Q
 q
-1 0 0 1 62.69291 494.4586 cm
+1 0 0 1 62.69291 455.2836 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1463,7 +1491,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 479.3336 cm
+1 0 0 1 62.69291 440.1586 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1476,7 +1504,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 479.3336 cm
+1 0 0 1 62.69291 440.1586 cm
 Q
  
 endstream
@@ -1521,10 +1549,10 @@ xref
 0000002402 00000 n 
 0000002580 00000 n 
 0000002756 00000 n 
-0000002934 00000 n 
-0000003187 00000 n 
-0000003368 00000 n 
-0000003544 00000 n 
+0000003002 00000 n 
+0000003180 00000 n 
+0000003361 00000 n 
+0000003537 00000 n 
 0000003776 00000 n 
 0000003882 00000 n 
 0000004168 00000 n 
@@ -1549,16 +1577,16 @@ xref
 0000006341 00000 n 
 0000006450 00000 n 
 0000006525 00000 n 
-0000016934 00000 n 
-0000026826 00000 n 
-0000031233 00000 n 
-0000031292 00000 n 
-0000031326 00000 n 
-0000031360 00000 n 
+0000016695 00000 n 
+0000026511 00000 n 
+0000031510 00000 n 
+0000031569 00000 n 
+0000031603 00000 n 
+0000031637 00000 n 
 trailer
 <<
 /ID 
-[<83e536a3e7931b3361645e269c2727cf><83e536a3e7931b3361645e269c2727cf>]
+[<55a95b2558106e16f1077d574a38a33b><55a95b2558106e16f1077d574a38a33b>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 23 0 R
@@ -1566,5 +1594,5 @@ trailer
 /Size 52
 >>
 startxref
-31394
+31671
 %%EOF
