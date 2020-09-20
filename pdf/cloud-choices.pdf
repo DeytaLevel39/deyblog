@@ -67,51 +67,27 @@ endobj
 11 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://wordpress.com)
->> /Border [ 0 0 0 ] /Rect [ 63.69291 173.1223 106.5411 181.6273 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://cloudflare.com)
+>> /Border [ 0 0 0 ] /Rect [ 481.3829 244.5026 505.3072 252.3776 ] /Subtype /Link /Type /Annot
 >>
 endobj
 12 0 obj
 <<
-/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R ] /Contents 45 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 44 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/A <<
+/S /URI /Type /Action /URI (https://en.wikipedia.org/wiki/Content_delivery_network)
+>> /Border [ 0 0 0 ] /Rect [ 97.25091 228.7526 167.2754 236.6276 ] /Subtype /Link /Type /Annot
 >>
 endobj
 13 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://wordpress.org/)
->> /Border [ 0 0 0 ] /Rect [ 63.69291 700.3238 104.018 708.8288 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://wordpress.com)
+>> /Border [ 0 0 0 ] /Rect [ 63.69291 157.3723 106.5411 165.8773 ] /Subtype /Link /Type /Annot
 >>
 endobj
 14 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://uk.godaddy.com/)
->> /Border [ 0 0 0 ] /Rect [ 63.69291 552.2288 88.89606 560.7338 ] /Subtype /Link /Type /Annot
->>
-endobj
-15 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://pages.github.com/)
->> /Border [ 0 0 0 ] /Rect [ 63.69291 431.7588 99.92421 440.2638 ] /Subtype /Link /Type /Annot
->>
-endobj
-16 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.heroku.com/)
->> /Border [ 0 0 0 ] /Rect [ 63.69291 298.7888 83.22606 307.2938 ] /Subtype /Link /Type /Annot
->>
-endobj
-17 0 obj
-<<
-/Annots [ 13 0 R 14 0 R 15 0 R 16 0 R ] /Contents 46 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 44 0 R /Resources <<
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R ] /Contents 47 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 46 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -119,30 +95,68 @@ endobj
 >> /Type /Page
 >>
 endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://wordpress.org/)
+>> /Border [ 0 0 0 ] /Rect [ 63.69291 685.1988 104.018 693.7038 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://uk.godaddy.com/)
+>> /Border [ 0 0 0 ] /Rect [ 63.69291 537.1038 88.89606 545.6088 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pages.github.com/)
+>> /Border [ 0 0 0 ] /Rect [ 63.69291 416.6338 99.92421 425.1388 ] /Subtype /Link /Type /Annot
+>>
+endobj
 18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.heroku.com/)
+>> /Border [ 0 0 0 ] /Rect [ 63.69291 283.6638 83.22606 292.1688 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/Annots [ 15 0 R 16 0 R 17 0 R 18 0 R ] /Contents 48 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 46 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+20 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://cloud.google.com/)
 >> /Border [ 0 0 0 ] /Rect [ 63.69291 759.2438 143.0786 767.7488 ] /Subtype /Link /Type /Annot
 >>
 endobj
-19 0 obj
+21 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://azure.microsoft.com/)
 >> /Border [ 0 0 0 ] /Rect [ 63.69291 638.7738 106.5354 647.2788 ] /Subtype /Link /Type /Annot
 >>
 endobj
-20 0 obj
+22 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://aws.amazon.com/)
 >> /Border [ 0 0 0 ] /Rect [ 63.69291 541.3038 142.7724 549.8088 ] /Subtype /Link /Type /Annot
 >>
 endobj
-21 0 obj
+23 0 obj
 <<
-/Annots [ 18 0 R 19 0 R 20 0 R ] /Contents 47 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 44 0 R /Resources <<
+/Annots [ 20 0 R 21 0 R 22 0 R ] /Contents 49 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 46 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -150,129 +164,129 @@ endobj
 >> /Type /Page
 >>
 endobj
-22 0 obj
-<<
-/Outlines 24 0 R /PageLabels 48 0 R /PageMode /UseNone /Pages 44 0 R /Type /Catalog
->>
-endobj
-23 0 obj
-<<
-/Author () /CreationDate (D:20200920123553+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200920123553+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (Choosing your cloud platform) /Trapped /False
->>
-endobj
 24 0 obj
 <<
-/Count 7 /First 25 0 R /Last 33 0 R /Type /Outlines
+/Outlines 26 0 R /PageLabels 50 0 R /PageMode /UseNone /Pages 46 0 R /Type /Catalog
 >>
 endobj
 25 0 obj
 <<
-/Dest [ 12 0 R /Fit ] /Next 26 0 R /Parent 24 0 R /Title (First some website development basics)
+/Author () /CreationDate (D:20200920124411+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200920124411+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Choosing your cloud platform) /Trapped /False
 >>
 endobj
 26 0 obj
 <<
-/Count -6 /Dest [ 12 0 R /Fit ] /First 27 0 R /Last 32 0 R /Next 33 0 R /Parent 24 0 R 
-  /Prev 25 0 R /Title (Creating web content)
+/Count 7 /First 27 0 R /Last 35 0 R /Type /Outlines
 >>
 endobj
 27 0 obj
 <<
-/Dest [ 12 0 R /Fit ] /Next 28 0 R /Parent 26 0 R /Title (Static website)
+/Dest [ 14 0 R /Fit ] /Next 28 0 R /Parent 26 0 R /Title (First some website development basics)
 >>
 endobj
 28 0 obj
 <<
-/Dest [ 12 0 R /Fit ] /Next 29 0 R /Parent 26 0 R /Prev 27 0 R /Title (Software as a Service \(SaaS\))
+/Count -6 /Dest [ 14 0 R /Fit ] /First 29 0 R /Last 34 0 R /Next 35 0 R /Parent 26 0 R 
+  /Prev 27 0 R /Title (Creating web content)
 >>
 endobj
 29 0 obj
 <<
-/Dest [ 12 0 R /Fit ] /Next 30 0 R /Parent 26 0 R /Prev 28 0 R /Title (Dynamic websites)
+/Dest [ 14 0 R /Fit ] /Next 30 0 R /Parent 28 0 R /Title (Static website)
 >>
 endobj
 30 0 obj
 <<
-/Dest [ 12 0 R /Fit ] /Next 31 0 R /Parent 26 0 R /Prev 29 0 R /Title (Web Hosting)
+/Dest [ 14 0 R /Fit ] /Next 31 0 R /Parent 28 0 R /Prev 29 0 R /Title (Software as a Service \(SaaS\))
 >>
 endobj
 31 0 obj
 <<
-/Dest [ 12 0 R /Fit ] /Next 32 0 R /Parent 26 0 R /Prev 30 0 R /Title (Web Domains)
+/Dest [ 14 0 R /Fit ] /Next 32 0 R /Parent 28 0 R /Prev 30 0 R /Title (Dynamic websites)
 >>
 endobj
 32 0 obj
 <<
-/Dest [ 12 0 R /Fit ] /Parent 26 0 R /Prev 31 0 R /Title (Website Security)
+/Dest [ 14 0 R /Fit ] /Next 33 0 R /Parent 28 0 R /Prev 31 0 R /Title (Web Hosting)
 >>
 endobj
 33 0 obj
 <<
-/Count -2 /Dest [ 12 0 R /Fit ] /First 34 0 R /Last 40 0 R /Parent 24 0 R /Prev 26 0 R 
-  /Title (Website provider choices)
+/Dest [ 14 0 R /Fit ] /Next 34 0 R /Parent 28 0 R /Prev 32 0 R /Title (Web Domains)
 >>
 endobj
 34 0 obj
 <<
-/Count -5 /Dest [ 12 0 R /Fit ] /First 35 0 R /Last 39 0 R /Next 40 0 R /Parent 33 0 R 
-  /Title (Common Options for Individuals & Small Businesses)
+/Dest [ 14 0 R /Fit ] /Parent 28 0 R /Prev 33 0 R /Title (Website Security)
 >>
 endobj
 35 0 obj
 <<
-/Dest [ 12 0 R /Fit ] /Next 36 0 R /Parent 34 0 R /Title (Wordpress.com)
+/Count -2 /Dest [ 14 0 R /Fit ] /First 36 0 R /Last 42 0 R /Parent 26 0 R /Prev 28 0 R 
+  /Title (Website provider choices)
 >>
 endobj
 36 0 obj
 <<
-/Dest [ 17 0 R /Fit ] /Next 37 0 R /Parent 34 0 R /Prev 35 0 R /Title (Wordpress.org)
+/Count -5 /Dest [ 14 0 R /Fit ] /First 37 0 R /Last 41 0 R /Next 42 0 R /Parent 35 0 R 
+  /Title (Common Options for Individuals & Small Businesses)
 >>
 endobj
 37 0 obj
 <<
-/Dest [ 17 0 R /Fit ] /Next 38 0 R /Parent 34 0 R /Prev 36 0 R /Title (GoDaddy)
+/Dest [ 14 0 R /Fit ] /Next 38 0 R /Parent 36 0 R /Title (Wordpress.com)
 >>
 endobj
 38 0 obj
 <<
-/Dest [ 17 0 R /Fit ] /Next 39 0 R /Parent 34 0 R /Prev 37 0 R /Title (Github pages)
+/Dest [ 19 0 R /Fit ] /Next 39 0 R /Parent 36 0 R /Prev 37 0 R /Title (Wordpress.org)
 >>
 endobj
 39 0 obj
 <<
-/Dest [ 17 0 R /Fit ] /Parent 34 0 R /Prev 38 0 R /Title (Heroku)
+/Dest [ 19 0 R /Fit ] /Next 40 0 R /Parent 36 0 R /Prev 38 0 R /Title (GoDaddy)
 >>
 endobj
 40 0 obj
 <<
-/Count -3 /Dest [ 17 0 R /Fit ] /First 41 0 R /Last 43 0 R /Parent 33 0 R /Prev 34 0 R 
-  /Title (Big Boy Cloud Providers)
+/Dest [ 19 0 R /Fit ] /Next 41 0 R /Parent 36 0 R /Prev 39 0 R /Title (Github pages)
 >>
 endobj
 41 0 obj
 <<
-/Dest [ 21 0 R /Fit ] /Next 42 0 R /Parent 40 0 R /Title (Google Cloud Platform \(GCP\))
+/Dest [ 19 0 R /Fit ] /Parent 36 0 R /Prev 40 0 R /Title (Heroku)
 >>
 endobj
 42 0 obj
 <<
-/Dest [ 21 0 R /Fit ] /Next 43 0 R /Parent 40 0 R /Prev 41 0 R /Title (Microsoft Azure)
+/Count -3 /Dest [ 19 0 R /Fit ] /First 43 0 R /Last 45 0 R /Parent 35 0 R /Prev 36 0 R 
+  /Title (Big Boy Cloud Providers)
 >>
 endobj
 43 0 obj
 <<
-/Dest [ 21 0 R /Fit ] /Parent 40 0 R /Prev 42 0 R /Title (Amazon Web Services \(AWS\))
+/Dest [ 23 0 R /Fit ] /Next 44 0 R /Parent 42 0 R /Title (Google Cloud Platform \(GCP\))
 >>
 endobj
 44 0 obj
 <<
-/Count 3 /Kids [ 12 0 R 17 0 R 21 0 R ] /Type /Pages
+/Dest [ 23 0 R /Fit ] /Next 45 0 R /Parent 42 0 R /Prev 43 0 R /Title (Microsoft Azure)
 >>
 endobj
 45 0 obj
 <<
-/Length 10117
+/Dest [ 23 0 R /Fit ] /Parent 42 0 R /Prev 44 0 R /Title (Amazon Web Services \(AWS\))
+>>
+endobj
+46 0 obj
+<<
+/Count 3 /Kids [ 14 0 R 19 0 R 23 0 R ] /Type /Pages
+>>
+endobj
+47 0 obj
+<<
+/Length 10596
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -575,7 +589,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 240.0534 cm
+1 0 0 1 62.69291 224.3034 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -583,14 +597,20 @@ q
 .492188 w
 .492188 w
 .492188 w
-BT 1 0 0 1 0 29.7305 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (If you're just creating a website for your own needs, then website security isn't top of your mind, but nowadays, if you do anything much more sophisticated, you can find yourself in a legal minefield if) Tj T* (you're not careful. For example, if you wish to store a database of people who've shown an interest in your product, you need to ensure that no hacker can steal this personal info. For these reasons,) Tj T* (you'll eventually need to set up website security which will ensure that only the people that you want to can do things like change the website content or access a backend database. In addition to this as) Tj T* (your needs progress, you'll want to add in logging functionality to audit anybody whose trying to access your website and prevent denial of service \(DDOS\) or code injection attacks) Tj T* ET
+0 0 1 RG
+n 417.69 20.87112 m 441.6142 20.87112 l S
+.492188 w
+.492188 w
+0 0 1 RG
+n 33.558 5.121125 m 103.5825 5.121125 l S
+BT 1 0 0 1 0 45.4805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (If you're just creating a website for your own needs, then website security isn't top of your mind, but nowadays, if you do anything much more sophisticated, you can find yourself in a legal minefield if) Tj T* (you're not careful. For example, if you wish to store a database of people who've shown an interest in your product, you need to ensure that no hacker can steal this personal info. For these reasons,) Tj T* (you'll eventually need to set up website security which will ensure that only the people that you want to can do things like change the website content or access a backend database. In addition to this as) Tj T* (your needs progress, you'll want to add in logging functionality to audit anybody whose trying to access your website and prevent denial of service \(DDOS\) or code injection attacks ) Tj 0 0 1 rg (Cloudflare) Tj 0 0 0 rg ( is an) Tj T* (excellent solution for encrypting your web traffic \(uses https to ensure things like passwords are safe\) as well as protecting your website from DDOS attacks. In addition to the security functionality, it) Tj T* (also acts as a ) Tj 0 0 1 rg (content delivery network \(cdn\)) Tj 0 0 0 rg ( which means that all of your static content \(html, css, javascript etc\) will be served directly from cloudflare increasing your website performance) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 219.8752 cm
+1 0 0 1 62.69291 204.1252 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -602,7 +622,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 200.9099 cm
+1 0 0 1 62.69291 185.1599 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -614,7 +634,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 184.5721 cm
+1 0 0 1 62.69291 168.8221 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -626,7 +646,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 168.3971 cm
+1 0 0 1 62.69291 152.6471 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -640,7 +660,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 144.9771 cm
+1 0 0 1 62.69291 129.2271 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -653,7 +673,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 129.8521 cm
+1 0 0 1 62.69291 114.1021 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -665,7 +685,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 114.7271 cm
+1 0 0 1 62.69291 98.97712 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -677,7 +697,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 99.60212 cm
+1 0 0 1 62.69291 83.85212 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -689,26 +709,14 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 94.35212 cm
-Q
-q
-1 0 0 1 62.69291 79.22712 cm
-q
-1 0 0 1 1 -1 cm
-q
-.492188 w
-BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Cons:) Tj T* ET
-Q
-Q
-q
-Q
+1 0 0 1 62.69291 78.60212 cm
 Q
  
 endstream
 endobj
-46 0 obj
+48 0 obj
 <<
-/Length 9764
+/Length 9873
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -718,7 +726,7 @@ q
 1 0 0 1 1 -1 cm
 q
 .492188 w
-BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Can be difficult to differentiate your website from 100s of others, as most people don't do much to change the theme.) Tj T* ET
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Cons:) Tj T* ET
 Q
 Q
 q
@@ -730,6 +738,18 @@ q
 1 0 0 1 1 -1 cm
 q
 .492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Can be difficult to differentiate your website from 100s of others, as most people don't do much to change the theme.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 724.8986 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
 BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Wordpress.com control everything about your website. If their business fails, potentially you could lose your website.) Tj T* ET
 Q
 Q
@@ -737,7 +757,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 717.0236 cm
+1 0 0 1 62.69291 701.8986 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -750,10 +770,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 711.7736 cm
+1 0 0 1 62.69291 696.6486 cm
 Q
 q
-1 0 0 1 62.69291 695.5986 cm
+1 0 0 1 62.69291 680.4736 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -767,7 +787,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 680.0536 cm
+1 0 0 1 62.69291 664.9286 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -779,7 +799,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 664.9286 cm
+1 0 0 1 62.69291 649.8036 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -791,7 +811,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 649.8036 cm
+1 0 0 1 62.69291 634.6786 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -803,7 +823,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 634.6786 cm
+1 0 0 1 62.69291 619.5536 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -815,7 +835,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 619.5536 cm
+1 0 0 1 62.69291 604.4286 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -827,10 +847,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 614.3036 cm
+1 0 0 1 62.69291 599.1786 cm
 Q
 q
-1 0 0 1 62.69291 599.1786 cm
+1 0 0 1 62.69291 584.0536 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -842,7 +862,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 584.0536 cm
+1 0 0 1 62.69291 568.9286 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -854,7 +874,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 568.9286 cm
+1 0 0 1 62.69291 553.8036 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -866,10 +886,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 563.6786 cm
+1 0 0 1 62.69291 548.5536 cm
 Q
 q
-1 0 0 1 62.69291 547.5036 cm
+1 0 0 1 62.69291 532.3786 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -883,7 +903,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 531.9586 cm
+1 0 0 1 62.69291 516.8336 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -895,7 +915,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 516.8336 cm
+1 0 0 1 62.69291 501.7086 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -907,7 +927,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 501.7086 cm
+1 0 0 1 62.69291 486.5836 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -920,10 +940,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 501.7086 cm
+1 0 0 1 62.69291 486.5836 cm
 Q
 q
-1 0 0 1 62.69291 486.5836 cm
+1 0 0 1 62.69291 471.4586 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -935,7 +955,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 463.5836 cm
+1 0 0 1 62.69291 448.4586 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -948,7 +968,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 448.4586 cm
+1 0 0 1 62.69291 433.3336 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -960,10 +980,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 443.2086 cm
+1 0 0 1 62.69291 428.0836 cm
 Q
 q
-1 0 0 1 62.69291 427.0336 cm
+1 0 0 1 62.69291 411.9086 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -977,7 +997,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 411.4886 cm
+1 0 0 1 62.69291 396.3636 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -989,7 +1009,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 396.3636 cm
+1 0 0 1 62.69291 381.2386 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1001,7 +1021,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 381.2386 cm
+1 0 0 1 62.69291 366.1136 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1013,7 +1033,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 366.1136 cm
+1 0 0 1 62.69291 350.9886 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1025,10 +1045,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 360.8636 cm
+1 0 0 1 62.69291 345.7386 cm
 Q
 q
-1 0 0 1 62.69291 345.7386 cm
+1 0 0 1 62.69291 330.6136 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1040,7 +1060,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 330.6136 cm
+1 0 0 1 62.69291 315.4886 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1052,7 +1072,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 315.4886 cm
+1 0 0 1 62.69291 300.3636 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1064,10 +1084,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 310.2386 cm
+1 0 0 1 62.69291 295.1136 cm
 Q
 q
-1 0 0 1 62.69291 294.0636 cm
+1 0 0 1 62.69291 278.9386 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1081,7 +1101,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 270.6436 cm
+1 0 0 1 62.69291 255.5186 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1094,7 +1114,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 252.4867 cm
+1 0 0 1 62.69291 237.3617 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1106,7 +1126,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 228.274 cm
+1 0 0 1 62.69291 213.149 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1119,7 +1139,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 213.149 cm
+1 0 0 1 62.69291 198.024 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1131,7 +1151,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 198.024 cm
+1 0 0 1 62.69291 182.899 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1143,7 +1163,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 182.899 cm
+1 0 0 1 62.69291 167.774 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1155,7 +1175,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 167.774 cm
+1 0 0 1 62.69291 152.649 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1167,7 +1187,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 152.649 cm
+1 0 0 1 62.69291 137.524 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1179,7 +1199,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 137.524 cm
+1 0 0 1 62.69291 122.399 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1191,7 +1211,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 122.399 cm
+1 0 0 1 62.69291 107.274 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1203,7 +1223,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 107.274 cm
+1 0 0 1 62.69291 92.149 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1215,7 +1235,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 92.149 cm
+1 0 0 1 62.69291 77.024 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -1226,18 +1246,18 @@ Q
 q
 Q
 Q
-q
-1 0 0 1 62.69291 86.899 cm
-Q
  
 endstream
 endobj
-47 0 obj
+49 0 obj
 <<
-/Length 4947
+/Length 4980
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 765.0236 cm
+Q
 q
 1 0 0 1 62.69291 754.5186 cm
 q
@@ -1509,28 +1529,28 @@ Q
  
 endstream
 endobj
-48 0 obj
+50 0 obj
 <<
-/Nums [ 0 49 0 R 1 50 0 R 2 51 0 R ]
+/Nums [ 0 51 0 R 1 52 0 R 2 53 0 R ]
 >>
 endobj
-49 0 obj
+51 0 obj
 <<
 /S /D /St 1
 >>
 endobj
-50 0 obj
+52 0 obj
 <<
 /S /D /St 2
 >>
 endobj
-51 0 obj
+53 0 obj
 <<
 /S /D /St 3
 >>
 endobj
 xref
-0 52
+0 54
 0000000000 65535 f 
 0000000073 00000 n 
 0000000114 00000 n 
@@ -1543,56 +1563,58 @@ xref
 0000001241 00000 n 
 0000001430 00000 n 
 0000001610 00000 n 
-0000001784 00000 n 
-0000002052 00000 n 
-0000002226 00000 n 
-0000002402 00000 n 
-0000002580 00000 n 
-0000002756 00000 n 
-0000003002 00000 n 
-0000003180 00000 n 
-0000003361 00000 n 
-0000003537 00000 n 
-0000003776 00000 n 
-0000003882 00000 n 
-0000004168 00000 n 
-0000004242 00000 n 
-0000004361 00000 n 
-0000004516 00000 n 
-0000004612 00000 n 
-0000004737 00000 n 
-0000004848 00000 n 
-0000004954 00000 n 
-0000005060 00000 n 
-0000005158 00000 n 
-0000005304 00000 n 
-0000005475 00000 n 
-0000005570 00000 n 
-0000005678 00000 n 
-0000005780 00000 n 
-0000005887 00000 n 
-0000005975 00000 n 
-0000006120 00000 n 
-0000006231 00000 n 
-0000006341 00000 n 
-0000006450 00000 n 
-0000006525 00000 n 
-0000016695 00000 n 
-0000026511 00000 n 
-0000031510 00000 n 
-0000031569 00000 n 
-0000031603 00000 n 
-0000031637 00000 n 
+0000001785 00000 n 
+0000001992 00000 n 
+0000002166 00000 n 
+0000002448 00000 n 
+0000002622 00000 n 
+0000002798 00000 n 
+0000002976 00000 n 
+0000003152 00000 n 
+0000003398 00000 n 
+0000003576 00000 n 
+0000003757 00000 n 
+0000003933 00000 n 
+0000004172 00000 n 
+0000004278 00000 n 
+0000004564 00000 n 
+0000004638 00000 n 
+0000004757 00000 n 
+0000004912 00000 n 
+0000005008 00000 n 
+0000005133 00000 n 
+0000005244 00000 n 
+0000005350 00000 n 
+0000005456 00000 n 
+0000005554 00000 n 
+0000005700 00000 n 
+0000005871 00000 n 
+0000005966 00000 n 
+0000006074 00000 n 
+0000006176 00000 n 
+0000006283 00000 n 
+0000006371 00000 n 
+0000006516 00000 n 
+0000006627 00000 n 
+0000006737 00000 n 
+0000006846 00000 n 
+0000006921 00000 n 
+0000017570 00000 n 
+0000027495 00000 n 
+0000032527 00000 n 
+0000032586 00000 n 
+0000032620 00000 n 
+0000032654 00000 n 
 trailer
 <<
 /ID 
-[<4991798297c811e23ca50523586a2840><4991798297c811e23ca50523586a2840>]
+[<701b1d0cde9aab4a96ead936db76036b><701b1d0cde9aab4a96ead936db76036b>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
-/Info 23 0 R
-/Root 22 0 R
-/Size 52
+/Info 25 0 R
+/Root 24 0 R
+/Size 54
 >>
 startxref
-31671
+32688
 %%EOF
