@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="abf537de-f661-42df-9a9d-bc70ff92e42e" name="Default Changelist" comment=".">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/cloud-choices.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/cloud-choices.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +31,39 @@
       </set>
     </option>
   </component>
+  <component name="IlluminatedCloudWorkspaceSettings">
+    <option name="projectWorkspaceSettings">
+      <ProjectWorkspaceSettings>
+        <option name="anonymousApexSettings">
+          <AnonymousApexSettings>
+            <option name="savedDocuments">
+              <list>
+                <AnonymousApexSavedDocument>
+                  <option name="name" value="Anonymous Apex 1" />
+                </AnonymousApexSavedDocument>
+              </list>
+            </option>
+          </AnonymousApexSettings>
+        </option>
+        <option name="soqlQuerySettings">
+          <SoqlQuerySettings>
+            <option name="savedDocuments">
+              <list>
+                <SoqlQuerySavedDocument>
+                  <option name="name" value="SOQL Query 1" />
+                </SoqlQuerySavedDocument>
+              </list>
+            </option>
+          </SoqlQuerySettings>
+        </option>
+      </ProjectWorkspaceSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1gvUYXb4DLdMpaJg3ftDfhA453e" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -42,7 +74,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/content" />
-    <property name="settings.editor.selected.configurable" value="Settings.Markdown" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -107,28 +139,39 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="." />
     <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="WindowStateProjectService">
+    <state x="362" y="92" key="#Illuminated_Cloud" timestamp="1600603036578">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="362" y="92" key="#Illuminated_Cloud/0.0.1536.864/3840.0.1920.1080@0.0.1536.864" timestamp="1600603036578" />
+    <state x="362" y="91" key="#Illuminated_Cloud_(pelican)" timestamp="1600602651786">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="362" y="91" key="#Illuminated_Cloud_(pelican)/0.0.1536.864/3840.0.1920.1080@0.0.1536.864" timestamp="1600602651786" />
     <state x="362" y="92" key="#Plugins" timestamp="1600601510250">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="362" y="92" key="#Plugins/0.0.1536.864/3840.0.1920.1080@0.0.1536.864" timestamp="1600601510250" />
-    <state x="517" y="236" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600083921816">
+    <state x="517" y="236" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600603354557">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="517" y="236" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864/3840.0.1920.1080@0.0.1536.864" timestamp="1600083921816" />
+    <state x="517" y="236" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864/3840.0.1920.1080@0.0.1536.864" timestamp="1600603354557" />
     <state x="424" y="28" key="CommitChangelistDialog2" timestamp="1600601730938">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="424" y="28" key="CommitChangelistDialog2/0.0.1536.864/3840.0.1920.1080@0.0.1536.864" timestamp="1600601730938" />
     <state x="424" y="28" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1599205385457" />
-    <state x="550" y="188" key="FileChooserDialogImpl" timestamp="1599645194649">
+    <state x="550" y="188" key="FileChooserDialogImpl" timestamp="1600602633771">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="550" y="188" key="FileChooserDialogImpl/0.0.1536.864/3840.0.1920.1080@0.0.1536.864" timestamp="1599645194649" />
+    <state x="550" y="188" key="FileChooserDialogImpl/0.0.1536.864/3840.0.1920.1080@0.0.1536.864" timestamp="1600602633771" />
     <state x="550" y="188" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1599143190483" />
     <state width="1515" height="224" key="GridCell.Tab.0.bottom" timestamp="1599149827818">
       <screen x="0" y="0" width="1536" height="864" />
@@ -146,19 +189,19 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1515" height="224" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1599149827818" />
-    <state x="279" y="76" key="SettingsEditor" timestamp="1600601966677">
+    <state x="279" y="76" key="SettingsEditor" timestamp="1600603788505">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="279" y="76" key="SettingsEditor/0.0.1536.864/3840.0.1920.1080@0.0.1536.864" timestamp="1600601966677" />
+    <state x="279" y="76" key="SettingsEditor/0.0.1536.864/3840.0.1920.1080@0.0.1536.864" timestamp="1600603788505" />
     <state x="279" y="76" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1598995622063" />
     <state x="362" y="166" key="Vcs.Push.Dialog.v2" timestamp="1600601623640">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="362" y="166" key="Vcs.Push.Dialog.v2/0.0.1536.864/3840.0.1920.1080@0.0.1536.864" timestamp="1600601623640" />
-    <state x="467" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1600601441671">
+    <state x="467" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1600603465491">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="467" y="257" key="com.intellij.ide.util.TipDialog/0.0.1536.864/3840.0.1920.1080@0.0.1536.864" timestamp="1600601441671" />
+    <state x="467" y="257" key="com.intellij.ide.util.TipDialog/0.0.1536.864/3840.0.1920.1080@0.0.1536.864" timestamp="1600603465491" />
     <state x="467" y="257" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1600519826232" />
     <state x="462" y="30" width="742" height="804" key="find.popup" timestamp="1600437420817">
       <screen x="0" y="0" width="1536" height="864" />

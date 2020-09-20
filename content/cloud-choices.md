@@ -2,7 +2,7 @@ Title: Choosing your cloud platform
 Date: 2020-09-14 10:20
 Modified: 2020-09-14 19:30
 Category: Cloud Architecture
-Tags: cloud, github pages, aws, azure, gcp 
+Tags: cloud, github pages, aws, azure, gcp
 Slug: cloud-choices
 Authors: Deytalytics Ltd
 Summary: Most businesses have moved to the cloud nowadays, but which is the best option for you if you're creating a new website or have yet to make the move. This post discusses pros & cons are how to get started.
@@ -20,7 +20,7 @@ Web content tends to be a mixture of:-
 * [Cascading Style Sheets (CSS)](https://www.w3schools.com/css/default.asp) - This provides the styling e.g. you can define the colour & fontsize that you want for a heading seperately from that which you want for the body. CSS files are usually stored seperately from the HTML web page files and referenced by them. CSS is really where you'll need to employ somebody with an artistic flair, if you want your website to look cool. Like HTML, CSS comes in versions, with the latest one being CSS3
 
 * [Javascript](https://www.w3schools.com/js/default.asp) - This allows code to be called from the web page, typically as the result of an event or action e.g. if you don't fill in the correct content in a field, you call javascript code to inform the use that the field needs to be completed.
-Javascript code can be found easily by googling and there are plenty of examples as to how to incorporate javascript in to your webpage to do a variety of actions. 
+Javascript code can be found easily by googling and there are plenty of examples as to how to incorporate javascript in to your webpage to do a variety of actions.
 
 ##Static website
 Most people start by creating a website which just has information on it. As the content remains the same as when you first publish the website, this is known as a static website. Even webpages that incorporate javascript code are still called static websites.
@@ -35,7 +35,7 @@ To create nice looking websites, typical choices are:-
 Rather than building everything yourself from scratch, it's much easier to integrate with SaaS providers e.g. you might want to integrate with a payments gateway e.g. Paypal to provide a checkout service for your website, or Disqus to add comments to your blog
 
 ##Dynamic websites
-Dynamic websites differ in that they rely on server-side code (Common ones are PHP, Node.JS & Python) to generate webpages on the fly. This means that dependent on what the user chooses or their settings, different webpages can be returned 
+Dynamic websites differ in that they rely on server-side code (Common ones are PHP, Node.JS & Python) to generate webpages on the fly. This means that dependent on what the user chooses or their settings, different webpages can be returned
 
 ##Web Hosting
 In order for anybody to be able to access your website, you'll need to have it hosted by a cloud provider. This means that your website html5, css, javascript (and server-side code, if relevant) needs to be uploaded to a cloud web hosting provider.
@@ -47,8 +47,9 @@ Web domains are typically rented on a yearly basis and can cost very little. I t
 
 ##Website Security
 If you're just creating a website for your own needs, then website security isn't top of your mind, but nowadays, if you do anything much more sophisticated, you can find yourself in a legal minefield if you're not careful.
-For example, if you wish to store a database of people who've shown an interest in your product, you need to ensure that no hacker can steal this personal info. 
+For example, if you wish to store a database of people who've shown an interest in your product, you need to ensure that no hacker can steal this personal info.
 For these reasons, you'll eventually need to set up website security which will ensure that only the people that you want to can do things like change the website content or access a backend database. In addition to this as your needs progress, you'll want to add in logging functionality to audit anybody whose trying to access your website and prevent denial of service (DDOS) or code injection attacks
+
 [Cloudflare](https://cloudflare.com) is an excellent solution for encrypting your web traffic (uses https to ensure things like passwords are safe) as well as protecting your website from DDOS attacks. In addition to the security functionality, it also acts as a [content delivery network (cdn)](https://en.wikipedia.org/wiki/Content_delivery_network) which means that all of your static content (html, css, javascript etc) will be served directly from cloudflare increasing your website performance
 
 #Website provider choices
@@ -59,7 +60,7 @@ Although an individual or small business may choose to use any cloud provider du
 
 
 ###[Wordpress.com](https://wordpress.com)
-Wordpress is pretty much the go-to site for anybody who wants to produce a static website with a rich set of functionality provided e.g. styling/themes and plugins 
+Wordpress is pretty much the go-to site for anybody who wants to produce a static website with a rich set of functionality provided e.g. styling/themes and plugins
 which allow you to integrate with a vast range of other tools. Wordpress.com is the version of Wordpress where they'll host your site for you.
 Wordpress.com allows you to develop your website on their website.
 
@@ -69,7 +70,7 @@ Pros:
 
 2. There are a vast array of plugins on offer that allow integration with most well known SaaS providers
 
-Cons: 
+Cons:
 
 1. Can be difficult to differentiate your website from 100s of others, as most people don't do much to change the theme.
 
@@ -78,9 +79,9 @@ Cons:
 3. As your needs become more sophisticated e.g. you might want improved security or more control over who can access the site, Wordpress becomes more limiting, and you'll need to migrate to another provider.
 
 ###[Wordpress.org](https://wordpress.org/)
-Wordpress.org allows you to download the code that is used to build your website and develop your website locally. You'll then have a choice as to which web domain & cloud provider you wish to use. 
+Wordpress.org allows you to download the code that is used to build your website and develop your website locally. You'll then have a choice as to which web domain & cloud provider you wish to use.
 
-Pros: 
+Pros:
 
 1. Gives you all of the functionality of wordpress.com but you own your own website material and can choose your own web host & domain
 
@@ -95,7 +96,7 @@ Cons:
 2. Although you have more control over how you can adapt your website, you're still dependent on Wordpress for any plugins you might use.
 
 ###[GoDaddy](https://uk.godaddy.com/)
-GoDaddy started off by being best known for selling web domains. They do provide a web hosting platform as well, however. 
+GoDaddy started off by being best known for selling web domains. They do provide a web hosting platform as well, however.
 
 Pros:
 
@@ -108,8 +109,8 @@ Cons:
 2. If you're producing a dynamic website, you're pretty much limited to PHP which is considered an outdated web language nowadays
 
 ###[Github pages](https://pages.github.com/)
-Github is best known as the place to store your code/website material. 
-Less well known is that they provide the ability to host a static website for free. 
+Github is best known as the place to store your code/website material.
+Less well known is that they provide the ability to host a static website for free.
 
 Pros:
 
@@ -117,7 +118,7 @@ Pros:
 
 2. As you should be stored your website code/material somewhere, GitHub is 1 of the best places, so it's not a huge learning curve to setup GitHub pages
 
-Cons: 
+Cons:
 
 1. You're limited to a static website.
 
@@ -125,9 +126,9 @@ Cons:
 
 ###[Heroku](https://www.heroku.com/)
 
-Heroku is another developer friendly method of deploying code. 
+Heroku is another developer friendly method of deploying code.
 The Pros & Cons are pretty much identical to Github pages, but an advantage of Heroku is that you can also deploy a dynamic website that uses PHP, Node.JS or Python.
-Heroku doesn't provide a https url on the free tier, but you can stick cloudflare.com 
+Heroku doesn't provide a https url on the free tier, but you can stick cloudflare.com
 
 ## Big Boy Cloud Providers
 
@@ -154,10 +155,10 @@ The main cloud providers really provide the following functionality that makes t
 
 ### [Google Cloud Platform (GCP)](https://cloud.google.com/)
 
-Google are obviously known for producing a range of funky web tools as well as their ubiquitous search engine. 
+Google are obviously known for producing a range of funky web tools as well as their ubiquitous search engine.
 Google were relatively late to the party for enterprise scale cloud provision but produce a decent enough platform
 
-Pros: 
+Pros:
 
 1. They do provide the functionality mentioned above
 
@@ -168,19 +169,19 @@ Cons:
 1. Google's products are less well known by end users than Microsoft's and are much less extensive than what AWS offers.
 
 ### [Microsoft Azure](https://azure.microsoft.com/)
-Pros: 
+Pros:
 
 1. Microsoft have the leading database in the non-cloud world - SQL*Server. As it can be difficult to migrate from existing databases to new databases,
-Azure is often the choice made for this reason. 
+Azure is often the choice made for this reason.
 
 2. Azure integrates well with Office360 products
 
-Cons: 
+Cons:
 
 1. Some Azure products can be pretty ropey e.g. Azure Data Factory V1 was little better than a job scheduler and didn't provide the data integration that enterprise level businesses require.
 
 ### [Amazon Web Services (AWS)](https://aws.amazon.com/)
-Amazon were the first to create an enterprise cloud platform and are still the cloud platform that very technical developers enjoy using the most. 
+Amazon were the first to create an enterprise cloud platform and are still the cloud platform that very technical developers enjoy using the most.
 
 Pros:
 
