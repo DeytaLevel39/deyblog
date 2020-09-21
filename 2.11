@@ -1,0 +1,5 @@
+Collecting jinja2
+  Using cached Jinja2-2.11.2-py2.py3-none-any.whl (125 kB)
+Requirement already satisfied: MarkupSafe>=0.23 in c:\users\jamesdey\appdata\local\programs\python\python37\lib\site-packages (from jinja2) (1.0)
+Installing collected packages: jinja2
+Successfully installed jinja2-2.11.2
