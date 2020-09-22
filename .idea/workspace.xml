@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abf537de-f661-42df-9a9d-bc70ff92e42e" name="Default Changelist" comment=".">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/alexa-skills-video.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/alexa-skills-video.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/author/deytalytics-ltd.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/author/deytalytics-ltd.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/blog.html" afterDir="false" />
@@ -13,12 +14,10 @@
       <change beforePath="$PROJECT_DIR$/output/category/solution-architecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/category/solution-architecture.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/cloud-choices.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/cloud-choices.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/data-modelling.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/data-modelling.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/dev_projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/dev_projects.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/digital-marketing.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/digital-marketing.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/digital-platforms.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/digital-platforms.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/enterprise-architecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/enterprise-architecture.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/finance-data-standards.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/finance-data-standards.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/info-hairball.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/info-hairball.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/info-strategy-dev.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/info-strategy-dev.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/iso20022.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/iso20022.html" afterDir="false" />
@@ -76,7 +75,6 @@
       <change beforePath="$PROJECT_DIR$/output/tag/web-30.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/web-30.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/tag/website.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/website.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tags.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pelicanconf.py" beforeDir="false" afterPath="$PROJECT_DIR$/pelicanconf.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
