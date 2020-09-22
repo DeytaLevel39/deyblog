@@ -46,3 +46,6 @@ PDF_PROCESSOR=True
 
 PLUGIN_PATHS=['pelican-plugins',]
 PLUGINS=['pdf',]
+
+AUTHORS_URL = 'blog/authors.html'
+AUTHORS_SAVE_AS = 'blog/authors.html'

@@ -1,6 +1,6 @@
 Title: Pelican Static Website Generator
 Date: 2020-09-03 10:20
-Modified: 2020-09-03 19:30
+Modified: 2020-09-21 19:30
 Category: Cloud Architecture
 Tags: website, python, cms, github pages 
 Slug: pelican-website-info
@@ -46,9 +46,8 @@ Pelican provides the following Content Management System (CMS) capabilities:-
 1. If you don't mind a 3rd party owning and controlling your content, the online blogging sites are much easier to get set up
 2. Pelican is really geared up for content publication e.g. blogging. It's not suitable for ecommerce or any dynamic content (content that changes dependent on what the user has chosen).
 
-#Work in Progress
-I'm currently at the stage where I've implemented most of the technical capabilities and the result can be viewed at [https://deytalytics.github.io/deyblog/](https://deytalytics.github.io/deyblog/). The theme is similar to my existing website [http://www.deytalytics.com](http://www.deytalytics.com)
+#Work Progress
+The blog is now integrated in to my website at:- [http://www.deytalytics.com](http://www.deytalytics.com)
 
 #Next Steps
-1. Add articles from my existing website and linkedin posts
-2. Integrate the static site in with my existing dynamic website as an additional menu option
+1. Add more articles from my existing website and linkedin posts

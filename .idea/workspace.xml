@@ -3,10 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="abf537de-f661-42df-9a9d-bc70ff92e42e" name="Default Changelist" comment=".">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/digital-marketing.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/digital-marketing.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/test.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/About.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pelican-website.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pelican-website.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/copytodeytaflask.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/output/alexa-skills-video.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/alexa-skills-video.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/author/deytalytics-ltd.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/author/deytalytics-ltd.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/author/deytalytics-ltd.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/author/james-dey.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/output/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/blog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/business-glossary.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/business-glossary.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/categories.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/categories.html" afterDir="false" />
@@ -82,6 +84,7 @@
       <change beforePath="$PROJECT_DIR$/pelicanconf-localhost.py" beforeDir="false" afterPath="$PROJECT_DIR$/pelicanconf-localhost.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pelicanconf-prod.py" beforeDir="false" afterPath="$PROJECT_DIR$/pelicanconf-prod.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pelicanconf.py" beforeDir="false" afterPath="$PROJECT_DIR$/pelicanconf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publish-local.bat" beforeDir="false" afterPath="$PROJECT_DIR$/publish-local.bat" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +103,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/output" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -151,22 +154,23 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../deytaflaskv2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/authors" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
     <property name="settings.editor.splitter.proportion" value="0.29058945" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\JamesDey\PycharmProjects\pelican\content" />
-      <recent name="C:\Users\JamesDey\PycharmProjects\pelican\pelican-themes\bootstrap2\templates" />
-      <recent name="C:\Users\JamesDey\PycharmProjects\pelican\output\images" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\JamesDey\PycharmProjects\pelican\output\author" />
       <recent name="C:\Users\JamesDey\PycharmProjects\pelican\output" />
       <recent name="C:\Users\JamesDey\PycharmProjects\pelican\content" />
       <recent name="C:\Users\JamesDey\PycharmProjects\pelican" />
       <recent name="C:\Users\JamesDey\PycharmProjects\pelican\pelican-themes\deyblog\templates" />
-      <recent name="C:\Users\JamesDey\PycharmProjects\pelican\output\theme" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\JamesDey\PycharmProjects\pelican\content\authors" />
+      <recent name="C:\Users\JamesDey\PycharmProjects\pelican\content" />
+      <recent name="C:\Users\JamesDey\PycharmProjects\pelican\pelican-themes\bootstrap2\templates" />
+      <recent name="C:\Users\JamesDey\PycharmProjects\pelican\output\images" />
     </key>
   </component>
   <component name="RunManager">
@@ -277,10 +281,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="362" y="166" key="Vcs.Push.Dialog.v2/0.0.1536.864/3840.0.1920.1080@0.0.1536.864" timestamp="1600601623640" />
-    <state x="467" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1600605805175">
+    <state x="467" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1600762247724">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="467" y="257" key="com.intellij.ide.util.TipDialog/0.0.1536.864/3840.0.1920.1080@0.0.1536.864" timestamp="1600605805175" />
+    <state x="467" y="257" key="com.intellij.ide.util.TipDialog/0.0.1536.864/3840.0.1920.1080@0.0.1536.864" timestamp="1600762247724" />
     <state x="467" y="257" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1600519826232" />
     <state x="462" y="30" width="742" height="804" key="find.popup" timestamp="1600437420817">
       <screen x="0" y="0" width="1536" height="864" />
