@@ -4,7 +4,7 @@
 AUTHOR = 'James Dey'
 SITENAME = 'Deytalytics'
 SITESUBTITLE='Articles'
-SITEURL = 'https://deytalytics.github.io'
+SITEURL = 'https://deytalytics.github.io/deyblog'
 
 PATH = 'content'
 
