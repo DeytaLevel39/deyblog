@@ -13,27 +13,20 @@
       <change beforePath="$PROJECT_DIR$/output/category/solution-architecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/category/solution-architecture.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/cloud-choices.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/cloud-choices.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/data-modelling.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/data-modelling.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/dev_projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/dev_projects.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/digital-marketing.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/digital-marketing.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/digital-platforms.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/digital-platforms.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/enterprise-architecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/enterprise-architecture.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/finance-data-standards.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/finance-data-standards.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/info-hairball.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/info-hairball.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/info-strategy-dev.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/info-strategy-dev.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/iso20022.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/iso20022.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/pdf/alexa-skills-video.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/alexa-skills-video.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/pdf/business-glossary.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/business-glossary.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/pdf/cloud-choices.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/cloud-choices.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf/data-modelling.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/data-modelling.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf/digital-marketing.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/digital-marketing.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf/digital-platforms.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/digital-platforms.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf/enterprise-architecture.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/enterprise-architecture.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/pdf/finance-data-standards.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/finance-data-standards.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf/info-hairball.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/info-hairball.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf/info-strategy-dev.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/info-strategy-dev.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf/iso20022.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/iso20022.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/pdf/pelican-website-info.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/pelican-website-info.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf/rest-api.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/rest-api.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf/semantic-web.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/semantic-web.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/pelican-website-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/pelican-website-info.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/rest-api.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/rest-api.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/search.html" afterDir="false" />
@@ -74,6 +67,8 @@
       <change beforePath="$PROJECT_DIR$/output/tag/web-30.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/web-30.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/tag/website.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/website.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tags.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelicanconf-gh.py" beforeDir="false" afterPath="$PROJECT_DIR$/pelicanconf-gh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelicanconf.py" beforeDir="false" afterPath="$PROJECT_DIR$/pelicanconf.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,23 +138,24 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/authors" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
     <property name="settings.editor.splitter.proportion" value="0.29058945" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\JamesDey\PycharmProjects\pelican" />
+      <recent name="C:\Users\JamesDey\PycharmProjects\pelican\content\authors" />
+      <recent name="C:\Users\JamesDey\PycharmProjects\pelican\content" />
+      <recent name="C:\Users\JamesDey\PycharmProjects\pelican\pelican-themes\bootstrap2\templates" />
+      <recent name="C:\Users\JamesDey\PycharmProjects\pelican\output\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\JamesDey\PycharmProjects\pelican\output\author" />
       <recent name="C:\Users\JamesDey\PycharmProjects\pelican\output" />
       <recent name="C:\Users\JamesDey\PycharmProjects\pelican\content" />
       <recent name="C:\Users\JamesDey\PycharmProjects\pelican" />
       <recent name="C:\Users\JamesDey\PycharmProjects\pelican\pelican-themes\deyblog\templates" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\JamesDey\PycharmProjects\pelican\content\authors" />
-      <recent name="C:\Users\JamesDey\PycharmProjects\pelican\content" />
-      <recent name="C:\Users\JamesDey\PycharmProjects\pelican\pelican-themes\bootstrap2\templates" />
-      <recent name="C:\Users\JamesDey\PycharmProjects\pelican\output\images" />
     </key>
   </component>
   <component name="RunManager">
