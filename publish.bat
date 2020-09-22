@@ -1,6 +1,6 @@
 pelican-themes -U pelican-themes\bootstrap2
 del pelicanconf.py
-copy pelicanconf-prod.py pelicanconf.py
+copy pelicanconf-gh.py pelicanconf.py
 pelican content
 git add *
 git commit -m "."

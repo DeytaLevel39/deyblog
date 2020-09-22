@@ -4,7 +4,7 @@
 AUTHOR = 'James Dey'
 SITENAME = 'Deytalytics'
 SITESUBTITLE='Articles'
-SITEURL = 'http://127.0.0.1:8000/'
+SITEURL = ''
 
 PATH = 'content'
 

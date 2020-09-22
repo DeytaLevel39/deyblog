@@ -4,7 +4,7 @@
 AUTHOR = 'James Dey'
 SITENAME = 'Deytalytics'
 SITESUBTITLE='Articles'
-SITEURL = 'https://www.deytalytics.com'
+SITEURL = ''
 
 PATH = 'content'
 
