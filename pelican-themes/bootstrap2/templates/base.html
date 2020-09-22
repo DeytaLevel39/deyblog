@@ -8,6 +8,7 @@
     <meta name="author" content="{{ AUTHOR }}">
     {% if article and article.title %} <meta property="og:title" content="{{ article.title }}" /> {% endif %}
     {% if article and article.url %}<meta property="og:url" content="{{ SITEURL }}/{{ article.url }}" /> {% endif %}
+    {% if article %}<meta property="og:type" content="article" /> {% endif %}
     {% if article and article.summary %}<meta property="og:description" content="{{ article.summary }}" /> {% endif %}
     {% if article and article.cover %}<meta property="og:image" content="{{ article.cover }}" /> {% endif %}
 
