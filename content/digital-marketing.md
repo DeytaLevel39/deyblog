@@ -4,7 +4,7 @@ Modified: 2015-06-18 19:30
 Category: Solution Architecture
 Tags: digital marketing, strategy
 Slug: digital-marketing
-Cover: !["digital marketing"](https://media-exp1.licdn.com/dms/image/C4E12AQHkYdy0lTIMAQ/article-cover_image-shrink_423_752/0?e=1604534400&v=beta&t=2THNiVJRKhZmCK43PhU_TnWnLopSB4XILwhGUASh50E)
+Cover: https://media-exp1.licdn.com/dms/image/C4E12AQHkYdy0lTIMAQ/article-cover_image-shrink_423_752/0?e=1604534400&v=beta&t=2THNiVJRKhZmCK43PhU_TnWnLopSB4XILwhGUASh50E
 Authors: Deytalytics Ltd
 Summary: Discusses how digital marketing is capturing data about individuals when they use web sites
 

@@ -6,6 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="{{ AUTHOR }}">
+    {% if article and article.title %} <meta property="og:title" content="{{ article.title }}" /> {% endif %}
+    {% if article and article.url %}<meta property="og:url" content="{{ SITEURL }}/{{ article.url }}" /> {% endif %}
+    {% if article and article.cover %}<meta property="og:image" content="{{ article.cover }}" /> {% endif %}
 
     <!-- Le styles -->
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/bootstrap.min.css" type="text/css" />
