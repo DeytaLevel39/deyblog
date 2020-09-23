@@ -6,11 +6,11 @@ Tags: cloud, github pages, aws, azure, gcp
 Slug: cloud-choices
 Cover: https://www.deytalytics.com/images/cloud-choices-cover.jpg
 Authors: Deytalytics Ltd
-Summary: Thinking about cloud development? Which is the best option for you if you're creating a new website or have yet to make the move?
+Summary:Thinking about cloud development? Which is the best option for you if you're creating a new website or have yet to make the move?
 
 ![Cloud image](https://www.deytalytics.com/images/cloud-choices-cover.jpg)
 
-The points below cover the main aspects, at a high level, that you need to consider when developing, finding a cloud provider, getting a web domain and securing your website,
+The points below cover the main aspects, at a high level, what you need to consider when developing, finding a cloud provider, getting a web domain and securing your website,
 ordered by the main cloud providers in terms of technical complexity required to get started.
 
 #First some website development basics

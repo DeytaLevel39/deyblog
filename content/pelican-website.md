@@ -5,10 +5,10 @@ Category: Cloud Architecture
 Tags: website, python, cms, github pages 
 Slug: pelican-website-info
 Authors: Deytalytics Ltd
-Cover: https://www.deytalytics.com/images/pelican.jpg
-Summary: This post describes the advantages of using Pelican as a static site generator
+Cover: https://deytaflask.herokuapp.com/images/pelican.jpg
+Summary:This post describes the advantages of using Pelican as a static site generator
 
-![Pelican image](https://www.deytalytics.com/images/pelican.jpg)
+![Pelican image](https://deytaflask.herokuapp.com/images/pelican.jpg)
 
 #Summary
 There are a lot of online blogging websites out there, and if you don't mind a 3rd party hosting your website, being constrained to what the 3rd party provides, and having your content owned by a 3rd party, that's certainly the simplest way forward.
