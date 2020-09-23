@@ -5,8 +5,8 @@
     <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="{{ AUTHOR }}">
-      <meta name="description" content="{{ article.summary|striptags }}" />
 {% if article %}
+      <meta name="description" content="{{ article.summary|striptags }}" />
     <meta property="og:type" content="article" />
 
     {% if article.title %} <meta property="og:title" content="{{ article.title }}" /> {% endif %}
