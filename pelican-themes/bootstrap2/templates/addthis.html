@@ -1,2 +1,11 @@
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5f51ef315bda6dfd"></script>
+<script type="text/javascript">
+{% if article %}
+var addthis_share = {
+   {% if article.url %} url: {{ article.url }},{% endif %}
+   {% if article.title %} title: {{ article.title }},{% endif %}
+   {% if article.summary %} description: {{ article.summary }} ,{% endif %}
+   {% if article.cover %} media: {{ article.cover }} {% endif %}
+}
+</script>
 <div class="addthis_inline_share_toolbox"></div>
