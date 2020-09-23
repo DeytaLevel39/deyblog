@@ -4,15 +4,18 @@ Modified: 2020-09-14 19:30
 Category: Cloud Architecture
 Tags: cloud, github pages, aws, azure, gcp
 Slug: cloud-choices
+Cover: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRR8lP5xhRaqyMEoJTmtg1pExqjcVNGpYSkFw&usqp=CAU
 Authors: Deytalytics Ltd
-Summary: Most businesses have moved to the cloud nowadays, but which is the best option for you if you're creating a new website or have yet to make the move. This post discusses pros & cons are how to get started.
+Summary: Which is the best option for you if you're creating a new website or have yet to make the move?
+
+![Cloud image](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRR8lP5xhRaqyMEoJTmtg1pExqjcVNGpYSkFw&usqp=CAU)
 
 The points below cover the main aspects, at a high level, that you need to consider when developing, finding a cloud provider, getting a web domain and securing your website,
 ordered by the main cloud providers in terms of technical complexity required to get started.
 
 #First some website development basics
 
-#Creating web content
+##Creating web content
 Web content tends to be a mixture of:-
 
 * [Hypertext Markup Language (HTML)](https://www.w3schools.com/html/) - Current version of this is known as HTML5. This is where you write the bulk of your content.
