@@ -6,7 +6,7 @@ Tags: cloud, github pages, aws, azure, gcp
 Slug: cloud-choices
 Cover: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRR8lP5xhRaqyMEoJTmtg1pExqjcVNGpYSkFw&usqp=CAU
 Authors: Deytalytics Ltd
-Summary: Which is the best option for you if you're creating a new website or have yet to make the move?
+Summary: Thinking about cloud development? Which is the best option for you if you're creating a new website or have yet to make the move?
 
 ![Cloud image](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRR8lP5xhRaqyMEoJTmtg1pExqjcVNGpYSkFw&usqp=CAU)
 
