@@ -35,7 +35,7 @@ endobj
 <<
 /Contents 21 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 20 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.73b9e667e6b8851a02bea91d1e1f8105 4 0 R /FormXob.e50d1052874e463e8dfb7eae8686544b 5 0 R
+/FormXob.44c1b818ebdebaf391f1e7426e7bca31 4 0 R /FormXob.87024eec3f22ec4cf237850596b5b14b 5 0 R
 >>
 >> /Rotate 0 /Trans <<
 
@@ -63,7 +63,7 @@ endobj
 <<
 /Contents 22 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 20 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.2ac07e48f8ece52143bc0f401deb431c 8 0 R /FormXob.b4ecffbd835329b682298bfad72b543b 7 0 R
+/FormXob.92261b714b81c532afb739b5dccd9726 7 0 R /FormXob.cad22c8ba4519197ce45838f354abe5f 8 0 R
 >>
 >> /Rotate 0 /Trans <<
 
@@ -83,7 +83,7 @@ endobj
 <<
 /Contents 23 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 20 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.6b3727cb38dc5207bf2abb57e866ce2d 10 0 R
+/FormXob.0c9bf2197a302c1308b2324804b5ca3e 10 0 R
 >>
 >> /Rotate 0 /Trans <<
 
@@ -103,7 +103,7 @@ endobj
 <<
 /Contents 24 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 20 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.4d59cb8fc0491284fec79f1529e57c47 12 0 R
+/FormXob.48d54c0a850e423731d9f640ff3f730e 12 0 R
 >>
 >> /Rotate 0 /Trans <<
 
@@ -123,7 +123,7 @@ endobj
 <<
 /Contents 25 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 20 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.08670aec0d0a9ccc752008280baceab7 14 0 R
+/FormXob.ac1269ec8928a52ff994c6401a3fa869 14 0 R
 >>
 >> /Rotate 0 /Trans <<
 
@@ -143,7 +143,7 @@ endobj
 <<
 /Contents 26 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 20 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.9ad27be8036969a2b328d22aadc9f103 16 0 R
+/FormXob.e5a545d4063f9be8e2a6a0fac6c00435 16 0 R
 >>
 >> /Rotate 0 /Trans <<
 
@@ -158,7 +158,7 @@ endobj
 endobj
 19 0 obj
 <<
-/Author () /CreationDate (D:20200922180256+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200922180256+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20200923095612+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200923095612+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Why do we need enterprise architecture) /Trapped /False
 >>
 endobj
@@ -248,7 +248,7 @@ q
 q
 q
 467.8898 0 0 258.2222 0 2.03675 cm
-/FormXob.73b9e667e6b8851a02bea91d1e1f8105 Do
+/FormXob.44c1b818ebdebaf391f1e7426e7bca31 Do
 Q
 .492188 w
 BT 1 0 0 1 0 3.08675 Tm 258.4847 TL 467.8898 0 Td /F1 5.25 Tf 6.3 TL  T* -467.8898 0 Td ET
@@ -281,7 +281,7 @@ q
 q
 q
 336.75 0 0 225 0 2.03675 cm
-/FormXob.e50d1052874e463e8dfb7eae8686544b Do
+/FormXob.87024eec3f22ec4cf237850596b5b14b Do
 Q
 .492188 w
 BT 1 0 0 1 0 3.08675 Tm 225.2625 TL 336.75 0 Td /F1 5.25 Tf 6.3 TL  T* -336.75 0 Td ET
@@ -319,7 +319,7 @@ q
 q
 q
 467.8898 0 0 201.6321 7.875 2.03675 cm
-/FormXob.b4ecffbd835329b682298bfad72b543b Do
+/FormXob.92261b714b81c532afb739b5dccd9726 Do
 Q
 .492188 w
 BT 1 0 0 1 7.875 3.08675 Tm 201.8946 TL 467.8898 0 Td /F1 5.25 Tf 6.3 TL  T* -467.8898 0 Td ET
@@ -340,7 +340,7 @@ q
 .492188 w
 q
 467.8898 0 0 234.8222 7.875 4.82975 cm
-/FormXob.2ac07e48f8ece52143bc0f401deb431c Do
+/FormXob.cad22c8ba4519197ce45838f354abe5f Do
 Q
 .492188 w
 BT 1 0 0 1 7.875 272.4644 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Regulatory & Cultural impacts - Different countries have different laws/regulations on the way a company should operate e.g. tax, data security, HR. Similarly cultural conventions can dictate aspects) Tj T* (such as the way that you market a product e.g. Google is ubiquitous in the west, but not in china or the payment methods that you offer. Due to the complexity of the rules or cultural conventions,) Tj T* (typically a country will create different business processes, use different systems and/or differentiate the product mix in order to meet the needs of a particular country. Other reasons for cultural) Tj T* (differences having an impact on a business include the audience that you are targetting e.g. offering a product to a consumer is different in nature to that of a commercial organisation and different) Tj T* (again when dealing with governments or institutions.) Tj  T* 235.0847 TL 1 0 0 1 7.875 5.87975 Tm 467.8898 0 Td  T* -467.8898 0 Td ET
@@ -379,7 +379,7 @@ q
 q
 q
 467.8898 0 0 291.9517 7.875 2.03675 cm
-/FormXob.6b3727cb38dc5207bf2abb57e866ce2d Do
+/FormXob.0c9bf2197a302c1308b2324804b5ca3e Do
 Q
 .492188 w
 BT 1 0 0 1 7.875 3.08675 Tm 292.2142 TL 467.8898 0 Td /F1 5.25 Tf 6.3 TL  T* -467.8898 0 Td ET
@@ -435,7 +435,7 @@ q
 q
 q
 467.8898 0 0 467.8898 0 2.03675 cm
-/FormXob.4d59cb8fc0491284fec79f1529e57c47 Do
+/FormXob.48d54c0a850e423731d9f640ff3f730e Do
 Q
 .492188 w
 BT 1 0 0 1 0 3.08675 Tm 468.1523 TL 467.8898 0 Td /F1 5.25 Tf 6.3 TL  T* -467.8898 0 Td ET
@@ -476,7 +476,7 @@ q
 q
 q
 300 0 0 307.5 0 2.03675 cm
-/FormXob.08670aec0d0a9ccc752008280baceab7 Do
+/FormXob.ac1269ec8928a52ff994c6401a3fa869 Do
 Q
 .492188 w
 BT 1 0 0 1 0 3.08675 Tm 307.7625 TL 300 0 Td /F1 5.25 Tf 6.3 TL  T* -300 0 Td ET
@@ -518,7 +518,7 @@ q
 q
 q
 467.8898 0 0 487.3852 0 2.03675 cm
-/FormXob.9ad27be8036969a2b328d22aadc9f103 Do
+/FormXob.e5a545d4063f9be8e2a6a0fac6c00435 Do
 Q
 .492188 w
 BT 1 0 0 1 0 3.08675 Tm 487.6477 TL 467.8898 0 Td /F1 5.25 Tf 6.3 TL  T* -467.8898 0 Td ET
@@ -605,7 +605,7 @@ xref
 trailer
 <<
 /ID 
-[<836273b7ec8d45d725b62297506680dd><836273b7ec8d45d725b62297506680dd>]
+[<6bd328a0c09a09c6d5ff98ca248db03b><6bd328a0c09a09c6d5ff98ca248db03b>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 19 0 R
