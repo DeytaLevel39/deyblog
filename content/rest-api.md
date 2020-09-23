@@ -4,6 +4,7 @@ Modified: 2016-11-24 19:30
 Category: Data Architecture
 Tags: data integration, REST, API
 Slug: rest-api
+Cover: https://deytalytics.github.io/deyblog/images/rest-api.jpg
 Authors: Deytalytics Ltd
 Summary: This post covers what you need to do to design an application programming interface (API).
 

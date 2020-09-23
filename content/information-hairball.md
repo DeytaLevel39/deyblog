@@ -5,6 +5,7 @@ Category: Data Architecture
 Tags: data architecture, data integration
 Slug: info-hairball
 Authors: Deytalytics Ltd
+Cover: https://deytalytics.github.io/deyblog/images/info-hairball.jpg
 Summary: Data integration within an organisation tends to be delivered as part of a project delivering a particular system for a particular set of users. Due to the need to rapidly deliver a project, data flows are quickly added to ship data from system A to B. Over time, as more and more data integration points are added, an organisation rapidly encounters the "Information Hairball" problem. This post describes the challenge and how to address the problem.
 
 ![Info hairball](https://deytalytics.github.io/deyblog/images/info-hairball.jpg)

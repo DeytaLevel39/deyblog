@@ -5,6 +5,7 @@ Category: Enterprise Architecture
 Tags: business benefits, enterprise architecture
 Slug: enterprise-architecture
 Authors: Deytalytics Ltd
+Cover: https://d35fo82fjcw0y8.cloudfront.net/2019/06/10111112/enterprise-architecture-pyramid-of-domains.jpg
 Summary: Explains why enterprise architecture is a useful IT/business function to have within your organisation
 
 Enterprise architecture is about simplifying the way that an organisation operates.

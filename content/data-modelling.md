@@ -4,6 +4,7 @@ Modified: 2016-09-05 19:30
 Category: Data architecture
 Tags: data modelling, data vault, erwin, powerdesigner, uml, relational, e-r
 Slug: data-modelling
+Cover: https://deytalytics.github.io/deyblog/images/data-modelling.jpg
 Authors: Deytalytics Ltd
 Summary: This post covers the various data modelling techniques, methodologies and concepts that are in use today. It is not designed to teach data modelling but simply to provide brief statements of the purpose of different techniques and links to material which will provide further insight in to how to model data. There are plenty of online tutorials and youtube videos which will take you step by step through the modelling process.
 

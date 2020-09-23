@@ -5,6 +5,7 @@ Category: Enterprise Architecture
 Tags: data architecture, strategy
 Slug: info-strategy-dev
 Authors: Deytalytics Ltd
+Cover: https://media-exp1.licdn.com/dms/image/C4E12AQFtSMh9I0QKbw/article-cover_image-shrink_423_752/0?e=1604534400&v=beta&t=xwdJtKDMZRrxF9bYe2ochzCKnjOjNWD91Zy7xp-Pd44
 Summary: Explains how to develop an information management strategy using TOGAF techniques
 
 !["How to develop an info strategy](https://media-exp1.licdn.com/dms/image/C4E12AQFtSMh9I0QKbw/article-cover_image-shrink_423_752/0?e=1604534400&v=beta&t=xwdJtKDMZRrxF9bYe2ochzCKnjOjNWD91Zy7xp-Pd44)

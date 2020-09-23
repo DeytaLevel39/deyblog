@@ -5,6 +5,7 @@ Category: Data Architecture
 Tags: data standards, financial services
 Slug: finance-data-standards
 Authors: Deytalytics Ltd
+Cover: https://images.squarespace-cdn.com/content/v1/5555daace4b0bd68287c4b64/1482915037771-M7IAOCK4LIV113MXUN4Y/ke17ZwdGBToddI8pDm48kFcZ8Gkp02r6S_Iq2K_4D2RZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwG1xgZxg2-QDaeCqQ1SOJ6V40ye0AzhXKgZ-AjsidDy8UBYIT1QcW9bTQ21pk69Qo/image-asset.png?format=1500w
 Summary: This post covers common data standards used in the financial services industry. It can be useful for data architects working in the industry.
 
 ![Common Finance Industry Data Standards](https://deytalytics.github.io/deyblog/images/iso20022.jpg)

@@ -5,6 +5,7 @@ Category: Solution Architecture
 Tags: digital transformation
 Slug: digital-platforms
 Authors: Deytalytics Ltd
+Cover: https://media-exp1.licdn.com/dms/image/C4E12AQEZhZQDGYI4wg/article-cover_image-shrink_423_752/0?e=1604534400&v=beta&t=0Rk_1UGfNa0Bq6MDf9abH3O9U7NrnaSVYp9jnJaGffY
 Summary: This post describes the function and features  of a simple digital platform and the technologies available to meet your needs. You will need to build a simple digital platform if you want to present content to a wide audience.
 
 

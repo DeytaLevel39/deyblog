@@ -4,6 +4,7 @@ Modified: 2016-10-27 19:30
 Category: Data Architecture
 Tags: semantic web, rdf, owl, web 3.0
 Slug: semantic-web
+Cover: https://deytalytics.github.io/deyblog/images/semantic-web.jpg
 Authors: Deytalytics Ltd
 Summary: For a number of year's the concept of being able to strictly define and classify data in order to allow websites to be able to share data easily has been gaining ground. This concept is known as the "Semantic web". This post provides information about it and a basic description of the technologies used.
 
