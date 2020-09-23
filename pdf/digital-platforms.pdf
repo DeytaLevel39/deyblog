@@ -27,7 +27,7 @@ endobj
 <<
 /Contents 25 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 24 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.c3e399c7cf425fbc4c88fe1e9423f3f3 4 0 R
+/FormXob.379f77189322677b37ab0e27b4a7bd67 4 0 R
 >>
 >> /Rotate 0 /Trans <<
 
@@ -52,7 +52,7 @@ endobj
 endobj
 8 0 obj
 <<
-/Author () /CreationDate (D:20200923112300+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200923112300+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20200923113412+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200923113412+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Selecting digital platform technologies) /Trapped /False
 >>
 endobj
@@ -176,7 +176,7 @@ q
 q
 q
 467.8898 0 0 268.1317 0 2.03675 cm
-/FormXob.c3e399c7cf425fbc4c88fe1e9423f3f3 Do
+/FormXob.379f77189322677b37ab0e27b4a7bd67 Do
 Q
 .492188 w
 BT 1 0 0 1 0 3.08675 Tm 268.3942 TL 467.8898 0 Td /F1 5.25 Tf 6.3 TL  T* -467.8898 0 Td ET
@@ -682,7 +682,7 @@ xref
 trailer
 <<
 /ID 
-[<d8eafc2e70216d5f29d6b13b8784f09f><d8eafc2e70216d5f29d6b13b8784f09f>]
+[<e96a371578b63c40e0abd36379a6b008><e96a371578b63c40e0abd36379a6b008>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 8 0 R
