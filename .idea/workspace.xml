@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abf537de-f661-42df-9a9d-bc70ff92e42e" name="Default Changelist" comment=".">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/cloud-choices.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/cloud-choices.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/alexa-skills-video.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/alexa-skills-video.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/author/deytalytics-ltd.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/author/deytalytics-ltd.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/blog.html" afterDir="false" />
@@ -20,7 +18,6 @@
       <change beforePath="$PROJECT_DIR$/output/digital-platforms.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/digital-platforms.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/enterprise-architecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/enterprise-architecture.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/finance-data-standards.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/finance-data-standards.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/images/cloud-choices-cover.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/output/images/cloud-choices-cover.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/info-hairball.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/info-hairball.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/info-strategy-dev.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/info-strategy-dev.html" afterDir="false" />
