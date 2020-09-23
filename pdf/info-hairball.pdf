@@ -27,7 +27,7 @@ endobj
 <<
 /Contents 25 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 24 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.a751096d917b358e3f4efc78434a90a6 4 0 R
+/FormXob.e38cc492fb78be934f6ebc0bfdbdfee5 4 0 R
 >>
 >> /Rotate 0 /Trans <<
 
@@ -55,7 +55,7 @@ endobj
 <<
 /Contents 26 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 24 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.87d054385238081e2bb84f7f1041c19f 7 0 R /FormXob.e997eed2ef70550f99413d5ece71016a 6 0 R
+/FormXob.29036962f4d75c12529d872807033fd4 6 0 R /FormXob.520c8812622c2a017959a164e061f528 7 0 R
 >>
 >> /Rotate 0 /Trans <<
 
@@ -83,7 +83,7 @@ endobj
 <<
 /Contents 27 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 24 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.bb97dded4ce790a0ee11b4fc70fdb045 10 0 R /FormXob.d34a132fb67ec4b7523e39b95c51b027 9 0 R
+/FormXob.1e4b1056275289b256bf3f9c328f9bf8 9 0 R /FormXob.9f6766dbf61919e9757fc232fc3a5661 10 0 R
 >>
 >> /Rotate 0 /Trans <<
 
@@ -108,7 +108,7 @@ endobj
 endobj
 14 0 obj
 <<
-/Author () /CreationDate (D:20200923104708+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200923104708+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20200923105558+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200923105558+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Avoiding an information hairball) /Trapped /False
 >>
 endobj
@@ -202,7 +202,7 @@ q
 q
 q
 467.8898 0 0 268.3055 0 2.03675 cm
-/FormXob.a751096d917b358e3f4efc78434a90a6 Do
+/FormXob.e38cc492fb78be934f6ebc0bfdbdfee5 Do
 Q
 .492188 w
 BT 1 0 0 1 0 3.08675 Tm 268.568 TL 467.8898 0 Td /F1 5.25 Tf 6.3 TL  T* -467.8898 0 Td ET
@@ -403,7 +403,7 @@ q
 q
 q
 450 0 0 297 0 2.03675 cm
-/FormXob.e997eed2ef70550f99413d5ece71016a Do
+/FormXob.29036962f4d75c12529d872807033fd4 Do
 Q
 .492188 w
 BT 1 0 0 1 0 3.08675 Tm 297.2625 TL 450 0 Td /F1 5.25 Tf 6.3 TL  T* -450 0 Td ET
@@ -443,7 +443,7 @@ q
 q
 q
 467.8898 0 0 111.3513 0 2.03675 cm
-/FormXob.87d054385238081e2bb84f7f1041c19f Do
+/FormXob.520c8812622c2a017959a164e061f528 Do
 Q
 .492188 w
 BT 1 0 0 1 0 3.08675 Tm 111.6138 TL 467.8898 0 Td /F1 5.25 Tf 6.3 TL  T* -467.8898 0 Td ET
@@ -505,7 +505,7 @@ q
 q
 q
 467.8898 0 0 191.9961 0 2.03675 cm
-/FormXob.d34a132fb67ec4b7523e39b95c51b027 Do
+/FormXob.1e4b1056275289b256bf3f9c328f9bf8 Do
 Q
 .492188 w
 BT 1 0 0 1 0 3.08675 Tm 192.2586 TL 467.8898 0 Td /F1 5.25 Tf 6.3 TL  T* -467.8898 0 Td ET
@@ -571,7 +571,7 @@ q
 q
 q
 446.25 0 0 260.25 0 2.03675 cm
-/FormXob.bb97dded4ce790a0ee11b4fc70fdb045 Do
+/FormXob.9f6766dbf61919e9757fc232fc3a5661 Do
 Q
 .492188 w
 BT 1 0 0 1 0 3.08675 Tm 260.5125 TL 446.25 0 Td /F1 5.25 Tf 6.3 TL  T* -446.25 0 Td ET
@@ -829,7 +829,7 @@ xref
 trailer
 <<
 /ID 
-[<4039257e4fdace4daba4dabd03443579><4039257e4fdace4daba4dabd03443579>]
+[<ba4d6e411c6b39d4a15b8451788e2a6c><ba4d6e411c6b39d4a15b8451788e2a6c>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 14 0 R
