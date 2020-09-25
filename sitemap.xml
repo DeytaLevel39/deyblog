@@ -5,8 +5,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://deytalytics.github.io/deyblog/</loc>
-<lastmod>2020-09-25T11:24:20-00:00</lastmod>
+<lastmod>2020-09-25T14:15:49-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://deytalytics.github.io/deyblog/data-visualisation-examples.html</loc>
+<lastmod>2020-09-25T14:14:06+01:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -138,7 +145,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://deytalytics.github.io/deyblog/category/solution-architecture.html</loc>
-<lastmod>2020-09-25T11:24:06-00:01</lastmod>
+<lastmod>2020-09-25T14:14:06-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://deytalytics.github.io/deyblog/tag/data-visualisation.html</loc>
+<lastmod>2020-09-25T14:14:06-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -405,6 +419,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://deytalytics.github.io/deyblog/author/deytalytics-ltd.html</loc>
 <lastmod>2020-09-25T11:24:06-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://deytalytics.github.io/deyblog/author/james-dey.html</loc>
+<lastmod>2020-09-25T14:14:06-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
