@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Data Visualisation Examples</title>
+    <meta name="tags" content="data visualisation" />
+    <meta name="category" content="solution architecture" />
+    <meta name="summary" content="Discusses data visualisation methods & tools that you can use for your website development" />
+</head>
+<body>
+
+
+<H2>Amcharts</H2>
+This is an example of a data visualisation library (based on D3.js). With this, you'll need to add the data content and amend the javascript as suits your needs.
+<ul>
+    <li>Pros: Offers a lot of flexibility, You remain in control of your data</li>
+    <li>Cons: Need to be technically savvy, doesn't provide a WYSIWYG editor</li>
+</ul>
+<!-- Styles -->
+<style>
+#chartdiv {
+  width: 90%;
+  height: 70vh
+}
+
+</style>
+
+<!-- Resources -->
+<script src="https://cdn.amcharts.com/lib/4/core.js"></script>
+<script src="https://cdn.amcharts.com/lib/4/charts.js"></script>
+<script src="https://cdn.amcharts.com/lib/4/themes/animated.js"></script>
+
+<!-- Chart code -->
+<script>
+am4core.ready(function() {
+
+// Themes begin
+am4core.useTheme(am4themes_animated);
+// Themes end
+
+var chart = am4core.create("chartdiv", am4charts.SankeyDiagram);
+chart.hiddenState.properties.opacity = 0; // this creates initial fade-in
+
+
+chart.data = [
+  { from: "System A", to: "System B",  value:1},
+  { from: "System B", to: "System C", value:1},
+  { from: "System D", to: "System C", value: 1},
+]
+
+let hoverState = chart.links.template.states.create("hover");
+hoverState.properties.fillOpacity = 0.6;
+
+
+chart.dataFields.fromName = "from";
+chart.dataFields.toName = "to";
+chart.dataFields.value = "value";
+
+// for right-most label to fit
+chart.paddingRight = 120;
+
+// make nodes draggable
+var nodeTemplate = chart.nodes.template;
+nodeTemplate.inert = true;
+nodeTemplate.showSystemTooltip = true;
+nodeTemplate.width = 20;
+nodeTemplate.height = 100;
+
+// make nodes draggable
+var nodeTemplate = chart.nodes.template;
+nodeTemplate.readerTitle = "Click to show/hide or drag to rearrange";
+nodeTemplate.showSystemTooltip = true;
+nodeTemplate.cursorOverStyle = am4core.MouseCursorStyle.pointer
+
+}); // end am4core.ready()
+</script>
+
+<!-- HTML -->
+<div id="chartdiv"></div>
+
+<H2>Creately</H2>
+This comes in 2 parts:-
+<ul>
+    <li> You model your diagram on the <a href="https://www.creately.com">Creately</a> website</li>
+    <li> You either supplied javascript code in your website or attach an image</li>
+</ul>
+
+<ul>
+    <li> Pros: Creately, offer a WYSIWYG editor with lots of visualisations, you don't need to be as tech savvy</li>
+    <li> Cons: Unless you buy a plan, your data is public</li>
+</ul>
+
+<script type="text/javascript" language="javascript" src="https://app.creately.com/player/creately-player.js"></script>
+<div id="creately-container-kfi87fbr2"></div>
+<script type="text/javascript">
+var player = new CreatelyPlayer( "creately-container-kfi87fbr2", "kfi87fbr2-cG286sXjlA45RjNDvQncq7BGLqs=");
+</script>
+
+<img src="https://embed.creately.com/DvvF6OjsTzW?type=svg">
+
+</body>
+</html>
