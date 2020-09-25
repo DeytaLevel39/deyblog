@@ -8,4 +8,5 @@ cd ..\deytaflaskv2
 git add *
 git commit -m "."
 git push origin master
+git push heroku master
 cd ..\pelican

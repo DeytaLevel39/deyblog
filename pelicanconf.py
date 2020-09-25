@@ -4,7 +4,7 @@
 AUTHOR = 'James Dey'
 SITENAME = 'Deytalytics'
 SITESUBTITLE='Articles'
-SITEURL = 'https://deytalytics.github.io/deyblog'
+SITEURL = ''
 
 PATH = 'content'
 
@@ -44,7 +44,7 @@ MAINMENUITEMS=(('Articles','blog.html'),('Download Brochure','https://onedrive.l
 PDF_PROCESSOR=True
 
 PLUGIN_PATHS=['pelican-plugins',]
-PLUGINS=['pdf','sitemap']
+PLUGINS=['pdf','sitemap',]
 
 AUTHORS_URL = 'blog/authors.html'
 AUTHORS_SAVE_AS = 'blog/authors.html'
