@@ -75,7 +75,9 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </a>
-          <a class="brand" href="{{ SITEURL }}/index.html"><img alt="Deytalytics"  src="{{ SITEURL }}/images/deytalytics-icon.png" width="30px">{{ SITENAME }} {% if SITESUBTITLE %} {{ SITESUBTITLE }}{% endif %}</a>
+          <div class="brand">
+          <a href="{{ SITEURL }}/index.html"><img alt="Deytalytics"  src="{{ SITEURL }}/images/deytalytics-icon.png" width="30px"></a>
+            <a href="blog.html" style="color:white; text-decoration: none;">{{ SITENAME }} {% if SITESUBTITLE %} {{ SITESUBTITLE }}{% endif %}</a></div>
           <div class="nav-collapse">
             <ul class="nav">
               {% for title, link in MENUITEMS %}
