@@ -86,6 +86,7 @@
       <change beforePath="$PROJECT_DIR$/output/tag/web-30.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/web-30.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/tag/website.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/website.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tags.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelicanconf.py" beforeDir="false" afterPath="$PROJECT_DIR$/pelicanconf.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
