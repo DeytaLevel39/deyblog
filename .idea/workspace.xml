@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="abf537de-f661-42df-9a9d-bc70ff92e42e" name="Default Changelist" comment=".">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/data-visualisation examples.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/data-visualisation-examples.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/data-visualisation-examples.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/data-visualisation-examples.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/alexa-skills-video.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/alexa-skills-video.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/author/deytalytics-ltd.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/author/deytalytics-ltd.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/author/james-dey.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/author/james-dey.html" afterDir="false" />
@@ -86,7 +86,6 @@
       <change beforePath="$PROJECT_DIR$/output/tag/web-30.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/web-30.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/tag/website.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/website.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tags.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pelicanconf.py" beforeDir="false" afterPath="$PROJECT_DIR$/pelicanconf.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
