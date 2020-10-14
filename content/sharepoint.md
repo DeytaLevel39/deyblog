@@ -39,6 +39,7 @@ This allows you to create Wiki style pages only.
 You can not store other file types in this folder type. Another notable issue with Site Pages is that you're restricted to creating them on Sharepoint, so can't work offline and upload content.
 
 Within a Site page, you can add in a lot of different web part sections. I've highlighted the most commonly used ones below:-
+
 * Image - Any picture e.g your banner picture at the top
 * Text - Text including headings, subheadings etc.
 * Link - A hyperlink to any web page (internal or external)
@@ -47,9 +48,7 @@ Within a Site page, you can add in a lot of different web part sections. I've hi
 * Code Snippet - This allows you to display code in a variety of languages. It does not allow you to run code!
 * List - Allows you to embed a list/table
 * Markdown - Markdown is a language that allows you to do pretty much what Image, Text, Link, Code Snippet and Embed gives you. 
-It's commonly used by developers & bloggers to produce documentation as you can markup text very simply. It's not as advanced as HTML, however. 
-
-It's main advantage from the Sharepoint perspective is:-
+It's commonly used by developers & bloggers to produce documentation as you can markup text very simply. It's not as advanced as HTML, however. It's main advantage from the Sharepoint perspective is:-
 1. You're able to create content offline and add it to a Site Page
 2. You can dynamically generate content as a Markdown file e.g. create a table containing data
  
