@@ -5,14 +5,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://deytalytics.github.io/deyblog/</loc>
-<lastmod>2020-10-14T17:27:44-00:00</lastmod>
+<lastmod>2020-10-14T17:30:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://deytalytics.github.io/deyblog/sharepoint-overview.html</loc>
-<lastmod>2020-10-14T17:24:31+01:00</lastmod>
+<lastmod>2020-10-14T17:30:34+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -145,21 +145,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://deytalytics.github.io/deyblog/category/solution-architecture.html</loc>
-<lastmod>2020-10-14T17:24:31-00:01</lastmod>
+<lastmod>2020-10-14T17:30:34-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://deytalytics.github.io/deyblog/tag/sharepoint.html</loc>
-<lastmod>2020-10-14T17:24:31-00:01</lastmod>
+<lastmod>2020-10-14T17:30:34-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://deytalytics.github.io/deyblog/tag/tips.html</loc>
-<lastmod>2020-10-14T17:24:31-00:01</lastmod>
+<lastmod>2020-10-14T17:30:34-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -418,7 +418,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://deytalytics.github.io/deyblog/author/deytalytics-ltd.html</loc>
-<lastmod>2020-10-14T17:24:31-00:01</lastmod>
+<lastmod>2020-10-14T17:30:34-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

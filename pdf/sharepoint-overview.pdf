@@ -27,7 +27,7 @@ endobj
 <<
 /Contents 13 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 12 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.bdda955cfca92e4b84b123fe73e168ab 4 0 R
+/FormXob.3399b6434bbf66d1e51f1cb2c83e8456 4 0 R
 >>
 >> /Rotate 0 /Trans <<
 
@@ -42,7 +42,7 @@ endobj
 endobj
 7 0 obj
 <<
-/Author () /CreationDate (D:20201014172745+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20201014172745+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20201014173037+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20201014173037+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Sharepoint overview) /Trapped /False
 >>
 endobj
@@ -73,7 +73,7 @@ endobj
 endobj
 13 0 obj
 <<
-/Length 8846
+/Length 8882
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -90,7 +90,7 @@ q
 q
 q
 467.8898 0 0 181.4362 0 2.03675 cm
-/FormXob.bdda955cfca92e4b84b123fe73e168ab Do
+/FormXob.3399b6434bbf66d1e51f1cb2c83e8456 Do
 Q
 .492188 w
 BT 1 0 0 1 0 3.08675 Tm 181.6987 TL 467.8898 0 Td /F1 5.25 Tf 6.3 TL  T* -467.8898 0 Td ET
@@ -452,9 +452,9 @@ q
 q
 1 0 0 1 1 -1 cm
 q
-BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 7.875 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (1.) Tj ET
 .492188 w
-BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (You're able to create content offline and add it to a Site Page) Tj T* ET
+BT 1 0 0 1 15.75 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (You're able to create content offline and add it to a Site Page) Tj T* ET
 Q
 Q
 q
@@ -465,13 +465,16 @@ q
 q
 1 0 0 1 1 -1 cm
 q
-BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 7.875 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (2.) Tj ET
 .492188 w
-BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (You can dynamically generate content as a Markdown file e.g. create a table containing data) Tj T* ET
+BT 1 0 0 1 15.75 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (You can dynamically generate content as a Markdown file e.g. create a table containing data) Tj T* ET
 Q
 Q
 q
 Q
+Q
+q
+1 0 0 1 62.69291 130.112 cm
 Q
 q
 1 0 0 1 62.69291 130.112 cm
@@ -505,12 +508,12 @@ xref
 0000030464 00000 n 
 0000030557 00000 n 
 0000030617 00000 n 
-0000039515 00000 n 
-0000039556 00000 n 
+0000039551 00000 n 
+0000039592 00000 n 
 trailer
 <<
 /ID 
-[<3d59ff80d82a1b7314b1684159ea85ef><3d59ff80d82a1b7314b1684159ea85ef>]
+[<b0babff76ac9ee3bac54750fc80f7923><b0babff76ac9ee3bac54750fc80f7923>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 7 0 R
@@ -518,5 +521,5 @@ trailer
 /Size 16
 >>
 startxref
-39590
+39626
 %%EOF
