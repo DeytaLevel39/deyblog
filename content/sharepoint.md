@@ -49,6 +49,6 @@ Within a Site page, you can add in a lot of different web part sections. I've hi
 * List - Allows you to embed a list/table
 * Markdown - Markdown is a language that allows you to do pretty much what Image, Text, Link, Code Snippet and Embed gives you. 
 It's commonly used by developers & bloggers to produce documentation as you can markup text very simply. It's not as advanced as HTML, however. It's main advantage from the Sharepoint perspective is:-
-1. You're able to create content offline and add it to a Site Page
-2. You can dynamically generate content as a Markdown file e.g. create a table containing data
+    1. You're able to create content offline and add it to a Site Page
+    2. You can dynamically generate content as a Markdown file e.g. create a table containing data
  
