@@ -9,5 +9,5 @@ cd output
 git switch gh-pages 
 git add *
 git commit -m "."
-git push origin gh-pages  
+git push origin gh-pages --force
 cd ..
